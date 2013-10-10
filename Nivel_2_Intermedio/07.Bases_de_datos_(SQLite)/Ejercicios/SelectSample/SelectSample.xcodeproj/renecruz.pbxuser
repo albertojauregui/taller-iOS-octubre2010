@@ -1,0 +1,209 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SelectSampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 280}}";
+			sepNavSelRange = "{488, 0}";
+			sepNavVisRange = "{0, 495}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SelectSampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 952}}";
+			sepNavSelRange = "{1812, 0}";
+			sepNavVisRange = "{638, 164}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SelectSample */ = {
+		activeExec = 0;
+		executables = (
+			68CCF65511D3EACC0054DE3B /* SelectSample */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 422}}";
+			sepNavSelRange = "{371, 0}";
+			sepNavVisRange = "{0, 615}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2794, 235}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 8137}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 3536}}";
+			sepNavSelRange = "{3508, 0}";
+			sepNavVisRange = "{2798, 1096}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68CCF65511D3EACC0054DE3B /* SelectSample */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SelectSample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SelectSample */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 68CCF66F11D3EAE50054DE3B /* Code sense */;
+		executables = (
+			68CCF65511D3EACC0054DE3B /* SelectSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					317,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308944332;
+			PBXWorkspaceStateSaveDate = 308944332;
+		};
+		perUserProjectItems = {
+			682BA6A511D3F3650092D1A4 /* PBXTextBookmark */ = 682BA6A511D3F3650092D1A4 /* PBXTextBookmark */;
+			682C961611D40D2C003DC34D /* PBXTextBookmark */ = 682C961611D40D2C003DC34D /* PBXTextBookmark */;
+			688A7151126A1E9D00285EB4 /* PBXTextBookmark */ = 688A7151126A1E9D00285EB4 /* PBXTextBookmark */;
+			68BA9C7E11D410800099ED57 /* PBXTextBookmark */ = 68BA9C7E11D410800099ED57 /* PBXTextBookmark */;
+			68CCF68811D3EE5B0054DE3B /* PBXTextBookmark */ = 68CCF68811D3EE5B0054DE3B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68CCF66E11D3EAE50054DE3B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	682BA6A511D3F3650092D1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SelectSampleAppDelegate.m */;
+		name = "SelectSampleAppDelegate.m: 65";
+		rLen = 0;
+		rLoc = 1812;
+		rType = 0;
+		vrLen = 164;
+		vrLoc = 638;
+	};
+	682C961611D40D2C003DC34D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 16";
+		rLen = 0;
+		rLoc = 371;
+		rType = 0;
+		vrLen = 615;
+		vrLoc = 0;
+	};
+	688A7151126A1E9D00285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 119";
+		rLen = 0;
+		rLoc = 3742;
+		rType = 0;
+		vrLen = 1096;
+		vrLoc = 3032;
+	};
+	68BA9C7E11D410800099ED57 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 119";
+		rLen = 0;
+		rLoc = 3742;
+		rType = 0;
+		vrLen = 918;
+		vrLoc = 3181;
+	};
+	68CCF65511D3EACC0054DE3B /* SelectSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SelectSample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	68CCF66E11D3EAE50054DE3B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68CCF66F11D3EAE50054DE3B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68CCF68811D3EE5B0054DE3B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SelectSampleAppDelegate.h */;
+		name = "SelectSampleAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 0;
+	};
+}

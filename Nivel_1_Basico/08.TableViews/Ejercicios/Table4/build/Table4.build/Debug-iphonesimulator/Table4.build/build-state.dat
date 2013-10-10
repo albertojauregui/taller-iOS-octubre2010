@@ -1,0 +1,316 @@
+TTable4
+v7
+r0
+t308940439.472268
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Info.plist" Table4-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Table4ViewController.xib"
+cCpResource build/Debug-iphonesimulator/Table4.app/araceli.png araceli.png
+cCpResource build/Debug-iphonesimulator/Table4.app/chendo.png chendo.png
+cCpResource build/Debug-iphonesimulator/Table4.app/emma.png emma.png
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Table4_Prefix-actmbnknuiquzhdjhfwbqxzimmhe/Table4_Prefix.pch.gch Table4_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4AppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4ViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4AppDelegate.h
+c000000004C1C8B5D00000000000001D1
+t1276939101
+s465
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4AppDelegate.m
+c000000004C1C8B5D000000000000025D
+t1276939101
+s605
+i"Table4AppDelegate.h"
+i"Table4ViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4ViewController.h
+c000000004C1C8E7B000000000000019F
+t1276939899
+s415
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4ViewController.m
+c000000004C1C8FD70000000000000AD7
+t1276940247
+s2775
+i"Table4ViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/MainWindow.xib
+c000000004C1C8B5D000000000000240A
+t1276939101
+s9226
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Table4ViewController.xib
+c000000004C1C8E980000000000001F4F
+t1276939928
+s8015
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Table4_Prefix.pch
+c000000004C1C8B5D00000000000000B5
+t1276939101
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/araceli.png
+c000000004C1C8CD90000000000001F55
+t1276939481
+s8021
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app
+t1287247639
+s340
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app.dSYM
+t1287247639
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Info.plist
+t1276939869
+s558
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/MainWindow.nib
+t1276939869
+s1493
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/PkgInfo
+t1276939869
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4
+t1287247639
+s18616
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4ViewController.nib
+t1276939930
+s1560
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/araceli.png
+t1276939869
+s8021
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/chendo.png
+t1276939869
+s7971
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/emma.png
+t1276939869
+s7557
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4.LinkFileList
+c000000004CB9D715000000000000023F
+t1287247637
+s575
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4AppDelegate.o
+t1287247639
+s45436
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4ViewController.o
+t1287247639
+s44928
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/main.o
+t1287247639
+s6428
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/chendo.png
+c000000004C1C8D050000000000001F23
+t1276939525
+s7971
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/emma.png
+c000000004C1C8CEC0000000000001D85
+t1276939500
+s7557
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/main.m
+c000000004C1C8B5D0000000000000160
+t1276939101
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Table4_Prefix-actmbnknuiquzhdjhfwbqxzimmhe/Table4_Prefix.pch.gch
+t1287247638
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Table4_Prefix-biwoqjlyxahmmyahhxiozfxhzshy/Table4_Prefix.pch.gch
+t2
+s0
+
+NTable4-Info.plist
+c000000004C1C8B5D000000000000038D
+t1276939101
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308940437#308940437#0(0"0(0#1#0"8625087424#0"0#
+
+CCompileC build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4AppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940439.059995
+e308940439.210610
+r1
+xCompileC
+xbuild/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4AppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@136"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4AppDelegate.m308940439#308940439#0(0"0(0#0#128"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4AppDelegate.m8625009120#2619"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Table4_Prefix-actmbnknuiquzhdjhfwbqxzimmhe/Table4_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4AppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4AppDelegate.o"0#
+
+CCompileC build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4ViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940439.127148
+e308940439.259309
+r1
+xCompileC
+xbuild/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4ViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4ViewController.m308940439#308940439#0(0"0(0#0#131"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4ViewController.m8624935488#2625"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Table4_Prefix-actmbnknuiquzhdjhfwbqxzimmhe/Table4_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Classes/Table4ViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4ViewController.o"0#
+
+CCompileC build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940439.058513
+e308940439.127038
+r1
+xCompileC
+xbuild/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/main.m308940439#308940439#0(0"0(0#0#107"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/main.m8625063264#2585"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Table4_Prefix-actmbnknuiquzhdjhfwbqxzimmhe/Table4_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Table4ViewController.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/Table4.app/araceli.png araceli.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Table4.app/chendo.png chendo.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Table4.app/emma.png emma.png
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4"
+s308940439.368811
+e308940439.468980
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Table4.app.dSYM build/Debug-iphonesimulator/Table4.app/Table4308940439#308940439#0(0"0(0#0#146"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table48610409056#572"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4" normal i386
+s308940439.259404
+e308940439.368705
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4
+xnormal
+xi386
+lSLF07#2@151"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4308940439#308940439#0(0"0(0#0#0"8619913952#1215"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Objects-normal/i386/Table4.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Table4"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app/Info.plist" Table4-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Table4_Prefix-actmbnknuiquzhdjhfwbqxzimmhe/Table4_Prefix.pch.gch Table4_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940437.981806
+e308940439.058380
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Table4_Prefix-actmbnknuiquzhdjhfwbqxzimmhe/Table4_Prefix.pch.gch
+xTable4_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Table4_Prefix.pch308940437#308940439#0(0"0(0#0#118"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Table4_Prefix.pch8622533824#2414"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/Table4-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Table4.build/Debug-iphonesimulator/Table4.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/Table4_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Table4_Prefix-actmbnknuiquzhdjhfwbqxzimmhe/Table4_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Table4_Prefix-biwoqjlyxahmmyahhxiozfxhzshy/Table4_Prefix.pch.gch Table4_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app"
+s308940439.469078
+e308940439.472214
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app
+lSLF07#2@145"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app308940439#308940439#0(0"0(0#0#0"8623197696#405"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/08.TableViews/Ejercicios/Table4/build/Debug-iphonesimulator/Table4.app"0#
+

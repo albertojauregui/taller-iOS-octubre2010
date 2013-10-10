@@ -1,0 +1,484 @@
+TPropiedades
+v7
+r0
+t308941111.077903
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Info.plist" Propiedades-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/PropiedadesViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-ecxuyxxgsuywtmdffvxkocmumcip/Propiedades_Prefix.pch.gch Propiedades_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.h
+c000000004C1CC34F00000000000001EF
+t1276953423
+s495
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m
+c000000004C1CC34F0000000000000276
+t1276953423
+s630
+i"PropiedadesAppDelegate.h"
+i"PropiedadesViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.h
+c000000004C1CC3D90000000000000193
+t1276953561
+s403
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m
+c000000004C34A05200000000000009E6
+t1278517330
+s2534
+i"PropiedadesViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/MainWindow.xib
+c000000004C1CC34F0000000000002441
+t1276953423
+s9281
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/PropiedadesViewController.xib
+c000000004C1CC8590000000000002BB0
+t1276954713
+s11184
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Propiedades_Prefix.pch
+c000000004C1CC34F00000000000000BF
+t1276953423
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app
+t1285918678
+s204
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app.dSYM
+t1278517322
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Info.plist
+t1276954411
+s578
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/MainWindow.nib
+t1276954411
+s1503
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/PkgInfo
+t1276954411
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/PropiedadesViewController.nib
+t1276954716
+s2218
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/Propiedades.LinkFileList
+c000000004CA58FD4000000000000028B
+t1285918676
+s651
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesAppDelegate.o
+t1285918678
+s39968
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesViewController.o
+t1285918678
+s41132
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/main.o
+t1285918678
+s6452
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m
+c000000004C1CC34F0000000000000165
+t1276953423
+s357
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.h
+c000000004C1CC34F00000000000001EF
+t1276953423
+s495
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m
+c000000004C1CC34F0000000000000276
+t1276953423
+s630
+i"PropiedadesAppDelegate.h"
+i"PropiedadesViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.h
+c000000004C1CC3D90000000000000193
+t1276953561
+s403
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m
+c000000004C34A05200000000000009E6
+t1278517330
+s2534
+i"PropiedadesViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/MainWindow.xib
+c000000004C1CC34F0000000000002441
+t1276953423
+s9281
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/PropiedadesViewController.xib
+c000000004C1CC8590000000000002BB0
+t1276954713
+s11184
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Propiedades_Prefix.pch
+c000000004C1CC34F00000000000000BF
+t1276953423
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app
+t1287248311
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app.dSYM
+t1287248311
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Info.plist
+t1276954411
+s578
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/MainWindow.nib
+t1276954411
+s1503
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/PkgInfo
+t1276954411
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades
+t1287248311
+s18512
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/PropiedadesViewController.nib
+t1276954716
+s2218
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/Propiedades.LinkFileList
+c000000004CB9D9B6000000000000029D
+t1287248310
+s669
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesAppDelegate.o
+t1287248310
+s46512
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesViewController.o
+t1287248311
+s47004
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/main.o
+t1287248310
+s6464
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m
+c000000004C1CC34F0000000000000165
+t1276953423
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-aptkhsmtvdmajefoikkrsdnatmwk/Propiedades_Prefix.pch.gch
+t1285918677
+s12961168
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-ecxuyxxgsuywtmdffvxkocmumcip/Propiedades_Prefix.pch.gch
+t1287248310
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-fvekhcwfcedbvohjifoymceewomp/Propiedades_Prefix.pch.gch
+t2
+s0
+
+NPropiedades-Info.plist
+c000000004C1CC34F000000000000038D
+t1276953423
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308941109#308941110#0(0"0(0#1#0"8626389696#0"0#
+
+CCompileC build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307611477.956057
+e307611478.090591
+r1
+xCompileC
+xbuild/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@153"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m307611477#307611478#0(0"0(0#0#145"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m8624237152#2861"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-aptkhsmtvdmajefoikkrsdnatmwk/Propiedades_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesAppDelegate.o"0#
+
+CCompileC build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941110.852788
+e308941110.948052
+r1
+xCompileC
+xbuild/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@159"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m308941110#308941110#0(0"0(0#0#151"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m8618605792#2927"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-ecxuyxxgsuywtmdffvxkocmumcip/Propiedades_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesAppDelegate.o"0#
+
+CCompileC build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307611478.089374
+e307611478.158438
+r1
+xCompileC
+xbuild/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@156"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m307611478#307611478#0(0"0(0#0#148"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m8622861536#2867"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-aptkhsmtvdmajefoikkrsdnatmwk/Propiedades_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesViewController.o"0#
+
+CCompileC build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941110.912418
+e308941111.018369
+r1
+xCompileC
+xbuild/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@162"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m308941110#308941111#0(0"0(0#0#154"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m8618228960#2933"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-ecxuyxxgsuywtmdffvxkocmumcip/Propiedades_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Classes/PropiedadesViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/PropiedadesViewController.o"0#
+
+CCompileC build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307611477.954537
+e307611478.089221
+r1
+xCompileC
+xbuild/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m307611477#307611478#0(0"0(0#0#119"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m8611616384#2817"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-aptkhsmtvdmajefoikkrsdnatmwk/Propiedades_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941110.851452
+e308941110.912306
+r1
+xCompileC
+xbuild/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@133"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m308941110#308941110#0(0"0(0#0#125"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m8619395232#2883"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-ecxuyxxgsuywtmdffvxkocmumcip/Propiedades_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/PropiedadesViewController.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/PropiedadesViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades"
+s308941111.051751
+e308941111.072294
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/Propiedades.app.dSYM build/Debug-iphonesimulator/Propiedades.app/Propiedades308941111#308941111#0(0"0(0#0#174"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades8608490464#641"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades" normal i386
+s307611478.158537
+e307611478.611056
+r0
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades
+xnormal
+xi386
+oUndefined symbols:
+o  "_OBJC_CLASS_$_NSAutoreleasePool", referenced from:
+o      objc-class-ref-to-NSAutoreleasePool in main.o
+o  "_OBJC_CLASS_$_NSFileManager", referenced from:
+o      objc-class-ref-to-NSFileManager in PropiedadesViewController.o
+o  "_objc_msgSendSuper2", referenced from:
+o      -[PropiedadesAppDelegate dealloc] in PropiedadesAppDelegate.o
+o      -[PropiedadesViewController viewDidLoad] in PropiedadesViewController.o
+o      -[PropiedadesViewController didReceiveMemoryWarning] in PropiedadesViewController.o
+o      -[PropiedadesViewController dealloc] in PropiedadesViewController.o
+o  "__objc_empty_vtable", referenced from:
+o      _OBJC_METACLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o
+o      _OBJC_CLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o
+o      _OBJC_METACLASS_$_PropiedadesViewController in PropiedadesViewController.o
+o      _OBJC_CLASS_$_PropiedadesViewController in PropiedadesViewController.o
+o  "_OBJC_CLASS_$_UIViewController", referenced from:
+o      _OBJC_CLASS_$_PropiedadesViewController in PropiedadesViewController.o
+o  "_OBJC_CLASS_$_NSObject", referenced from:
+o      _OBJC_CLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o
+o  "_OBJC_CLASS_$_UIApplication", referenced from:
+o      objc-class-ref-to-UIApplication in PropiedadesViewController.o
+o  "_OBJC_CLASS_$_NSArray", referenced from:
+o      objc-class-ref-to-NSArray in PropiedadesViewController.o
+o  "_OBJC_CLASS_$_NSNotificationCenter", referenced from:
+o      objc-class-ref-to-NSNotificationCenter in PropiedadesViewController.o
+o  "_OBJC_METACLASS_$_UIViewController", referenced from:
+o      _OBJC_METACLASS_$_PropiedadesViewController in PropiedadesViewController.o
+o  "_OBJC_METACLASS_$_NSObject", referenced from:
+o      _OBJC_METACLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o
+o      _OBJC_METACLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o
+o      _OBJC_METACLASS_$_PropiedadesViewController in PropiedadesViewController.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@173"Link /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades307611478#307611478#0(2025"Undefined symbols:  "_OBJC_CLASS_$_NSAutoreleasePool", referenced from:      objc-class-ref-to-NSAutoreleasePool in main.o  "_OBJC_CLASS_$_NSFileManager", referenced from:      objc-class-ref-to-NSFileManager in PropiedadesViewController.o  "_objc_msgSendSuper2", referenced from:      -[PropiedadesAppDelegate dealloc] in PropiedadesAppDelegate.o      -[PropiedadesViewController viewDidLoad] in PropiedadesViewController.o      -[PropiedadesViewController didReceiveMemoryWarning] in PropiedadesViewController.o      -[PropiedadesViewController dealloc] in PropiedadesViewController.o  "__objc_empty_vtable", referenced from:      _OBJC_METACLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o      _OBJC_CLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o      _OBJC_METACLASS_$_PropiedadesViewController in PropiedadesViewController.o      _OBJC_CLASS_$_PropiedadesViewController in PropiedadesViewController.o  "_OBJC_CLASS_$_UIViewController", referenced from:      _OBJC_CLASS_$_PropiedadesViewController in PropiedadesViewController.o  "_OBJC_CLASS_$_NSObject", referenced from:      _OBJC_CLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o  "_OBJC_CLASS_$_UIApplication", referenced from:      objc-class-ref-to-UIApplication in PropiedadesViewController.o  "_OBJC_CLASS_$_NSArray", referenced from:      objc-class-ref-to-NSArray in PropiedadesViewController.o  "_OBJC_CLASS_$_NSNotificationCenter", referenced from:      objc-class-ref-to-NSNotificationCenter in PropiedadesViewController.o  "_OBJC_METACLASS_$_UIViewController", referenced from:      _OBJC_METACLASS_$_PropiedadesViewController in PropiedadesViewController.o  "_OBJC_METACLASS_$_NSObject", referenced from:      _OBJC_METACLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o      _OBJC_METACLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o      _OBJC_METACLASS_$_PropiedadesViewController in PropiedadesViewController.old: symbol(s) not foundcollect2: ld returned 1 exit status32(4@51""_OBJC_CLASS_$_NSAutoreleasePool", referenced from:307611478#19#54#0(6@0"307611478#0#0#0#0#0"0(13@45"Objc-class-ref-to-NSAutoreleasePool in main.o307611478#73#52#0(6@0"307611478#0#0#0#0#0"0(4@47""_OBJC_CLASS_$_NSFileManager", referenced from:307611478#125#50#0(6@0"307611478#0#0#0#0#0"0(13@62"Objc-class-ref-to-NSFileManager in PropiedadesViewController.o307611478#175#69#0(6@0"307611478#0#0#0#0#0"0(4@39""_objc_msgSendSuper2", referenced from:307611478#244#42#0(6@0"307611478#0#0#0#0#0"0(13@61"-[PropiedadesAppDelegate dealloc] in PropiedadesAppDelegate.o307611478#286#68#0(6@0"307611478#0#0#0#0#0"0(13@71"-[PropiedadesViewController viewDidLoad] in PropiedadesViewController.o307611478#354#78#0(6@0"307611478#0#0#0#0#0"0(13@83"-[PropiedadesViewController didReceiveMemoryWarning] in PropiedadesViewController.o307611478#432#90#0(6@0"307611478#0#0#0#0#0"0(13@67"-[PropiedadesViewController dealloc] in PropiedadesViewController.o307611478#522#74#0(6@0"307611478#0#0#0#0#0"0(4@39""__objc_empty_vtable", referenced from:307611478#596#42#0(6@0"307611478#0#0#0#0#0"0(13@68"_OBJC_METACLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o307611478#638#75#0(6@0"307611478#0#0#0#0#0"0(13@64"_OBJC_CLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o307611478#713#71#0(6@0"307611478#0#0#0#0#0"0(13@74"_OBJC_METACLASS_$_PropiedadesViewController in PropiedadesViewController.o307611478#784#81#0(6@0"307611478#0#0#0#0#0"0(13@70"_OBJC_CLASS_$_PropiedadesViewController in PropiedadesViewController.o307611478#865#77#0(6@0"307611478#0#0#0#0#0"0(4@50""_OBJC_CLASS_$_UIViewController", referenced from:307611478#942#53#0(6@0"307611478#0#0#0#0#0"0(13@70"_OBJC_CLASS_$_PropiedadesViewController in PropiedadesViewController.o307611478#995#77#0(6@0"307611478#0#0#0#0#0"0(4@42""_OBJC_CLASS_$_NSObject", referenced from:307611478#1072#45#0(6@0"307611478#0#0#0#0#0"0(13@64"_OBJC_CLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o307611478#1117#71#0(6@0"307611478#0#0#0#0#0"0(4@47""_OBJC_CLASS_$_UIApplication", referenced from:307611478#1188#50#0(6@0"307611478#0#0#0#0#0"0(13@62"Objc-class-ref-to-UIApplication in PropiedadesViewController.o307611478#1238#69#0(6@0"307611478#0#0#0#0#0"0(4@41""_OBJC_CLASS_$_NSArray", referenced from:307611478#1307#44#0(6@0"307611478#0#0#0#0#0"0(13@56"Objc-class-ref-to-NSArray in PropiedadesViewController.o307611478#1351#63#0(6@0"307611478#0#0#0#0#0"0(4@54""_OBJC_CLASS_$_NSNotificationCenter", referenced from:307611478#1414#57#0(6@0"307611478#0#0#0#0#0"0(13@69"Objc-class-ref-to-NSNotificationCenter in PropiedadesViewController.o307611478#1471#76#0(6@0"307611478#0#0#0#0#0"0(4@54""_OBJC_METACLASS_$_UIViewController", referenced from:307611478#1547#57#0(6@0"307611478#0#0#0#0#0"0(13@74"_OBJC_METACLASS_$_PropiedadesViewController in PropiedadesViewController.o307611478#1604#81#0(6@0"307611478#0#0#0#0#0"0(4@46""_OBJC_METACLASS_$_NSObject", referenced from:307611478#1685#49#0(6@0"307611478#0#0#0#0#0"0(13@68"_OBJC_METACLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o307611478#1734#75#0(6@0"307611478#0#0#0#0#0"0(13@68"_OBJC_METACLASS_$_PropiedadesAppDelegate in PropiedadesAppDelegate.o307611478#1809#75#0(6@0"307611478#0#0#0#0#0"0(13@74"_OBJC_METACLASS_$_PropiedadesViewController in PropiedadesViewController.o307611478#1884#81#0(6@0"307611478#0#0#0#0#0"0(13@19"Symbol(s) not found307611478#1965#24#0(6@0"307611478#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status307611478#1989#36#0(6@0"307611478#0#0#0#0#0"0(0#0#0"8620849504#1300"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/Propiedades.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades"1#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades" normal i386
+s308941111.018534
+e308941111.051645
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades
+xnormal
+xi386
+lSLF07#2@179"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades308941111#308941111#0(0"0(0#0#0"8623999840#1330"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Objects-normal/i386/Propiedades.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Propiedades"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Info.plist" Propiedades-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app/Info.plist" Propiedades-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-aptkhsmtvdmajefoikkrsdnatmwk/Propiedades_Prefix.pch.gch Propiedades_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307611476.898723
+e307611477.954384
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-aptkhsmtvdmajefoikkrsdnatmwk/Propiedades_Prefix.pch.gch
+xPropiedades_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Propiedades_Prefix.pch307611476#307611477#0(0"0(0#0#135"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Propiedades_Prefix.pch8620858848#2629"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Propiedades_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-aptkhsmtvdmajefoikkrsdnatmwk/Propiedades_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-ecxuyxxgsuywtmdffvxkocmumcip/Propiedades_Prefix.pch.gch Propiedades_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941110.109286
+e308941110.851334
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-ecxuyxxgsuywtmdffvxkocmumcip/Propiedades_Prefix.pch.gch
+xPropiedades_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Propiedades_Prefix.pch308941110#308941110#0(0"0(0#0#141"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Propiedades_Prefix.pch8623960160#2689"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/Propiedades-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Propiedades.build/Debug-iphonesimulator/Propiedades.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/Propiedades_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-ecxuyxxgsuywtmdffvxkocmumcip/Propiedades_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Propiedades_Prefix-fvekhcwfcedbvohjifoymceewomp/Propiedades_Prefix.pch.gch Propiedades_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app"
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app"
+s308941111.072391
+e308941111.077851
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app
+lSLF07#2@168"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app308941111#308941111#0(0"0(0#0#0"8608002176#446"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/12.Almacenamiento_de_Datos/Ejercicios/Propiedades/build/Debug-iphonesimulator/Propiedades.app"0#
+

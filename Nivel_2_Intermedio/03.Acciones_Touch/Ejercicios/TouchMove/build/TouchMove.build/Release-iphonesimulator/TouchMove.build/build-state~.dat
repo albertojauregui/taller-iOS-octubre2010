@@ -1,0 +1,362 @@
+TTouchMove
+v7
+r0
+t308942025.322515
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/Info.plist" TouchMove-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/TouchMoveViewController.xib"
+cCpResource build/Release-iphonesimulator/TouchMove.app/hammer.png hammer.png
+cCpResource build/Release-iphonesimulator/TouchMove.app/screw.png screw.png
+cCpResource build/Release-iphonesimulator/TouchMove.app/screwdriver.png screwdriver.png
+cCpResource build/Release-iphonesimulator/TouchMove.app/nail.png nail.png
+cCpResource build/Release-iphonesimulator/TouchMove.app/back.jpg back.jpg
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchMove_Prefix-eejzpogvbibwxxcbwdcczedoijoz/TouchMove_Prefix.pch.gch TouchMove_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMoveAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMoveViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveAppDelegate.h
+c000000004C20620A00000000000001E3
+t1277190666
+s483
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveAppDelegate.m
+c000000004C203D15000000000000026C
+t1277181205
+s620
+i"TouchMoveAppDelegate.h"
+i"TouchMoveViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.h
+c000000004C20527C0000000000000291
+t1277186684
+s657
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m
+c000000004C2107C2000000000000186E
+t1277233090
+s6254
+i"TouchMoveViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/MainWindow.xib
+c000000004C205BFE00000000000024FC
+t1277189118
+s9468
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/TouchMoveViewController.xib
+c000000004C205BEF000000000000336C
+t1277189103
+s13164
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/TouchMove_Prefix.pch
+c000000004C203D1500000000000000BB
+t1277181205
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/back.jpg
+c000000004C2029F2000000000000DE00
+t1277176306
+s56832
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app
+t1287249225
+s442
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app.dSYM
+t1287249225
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/Info.plist
+t1287249223
+s599
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/MainWindow.nib
+t1277243548
+s1532
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/PkgInfo
+t1287249223
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove
+t1287249225
+s24632
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMoveViewController.nib
+t1277243548
+s2207
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/back.jpg
+t1277243548
+s56832
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/default.png
+t1277243548
+s54001
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/hammer.png
+t1277243548
+s156928
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/nail.png
+t1277243548
+s825
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/screw.png
+t1277243548
+s22275
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/screwdriver.png
+t1277243548
+s21824
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMove.LinkFileList
+c000000004CB9DD47000000000000027E
+t1287249223
+s638
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMoveAppDelegate.o
+t1287249224
+s45224
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMoveViewController.o
+t1287249225
+s59480
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/main.o
+t1287249224
+s6436
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/default.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/hammer.png
+c000000004C203F450000000000026500
+t1277181765
+s156928
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/main.m
+c000000004C203D150000000000000163
+t1277181205
+s355
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/nail.png
+c000000004C2062670000000000000339
+t1277190759
+s825
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/screw.png
+c000000004C20404D0000000000005703
+t1277182029
+s22275
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/screwdriver.png
+c000000004C203F8D0000000000005540
+t1277181837
+s21824
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchMove_Prefix-eejzpogvbibwxxcbwdcczedoijoz/TouchMove_Prefix.pch.gch
+t1287249224
+s14896144
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchMove_Prefix-gxgxxfolwgjxaigfxeuvkxctomkr/TouchMove_Prefix.pch.gch
+t2
+s0
+
+NTouchMove-Info.plist
+c000000004CB9DD3D000000000000035D
+t1287249213
+s861
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308942023#308942023#0(0"0(0#1#0"8638424736#0"0#
+
+CCompileC build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMoveAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942024.765970
+e308942024.936637
+r1
+xCompileC
+xbuild/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMoveAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@150"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveAppDelegate.m308942024#308942024#0(0"0(0#0#142"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveAppDelegate.m8618695776#2841"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchMove_Prefix-eejzpogvbibwxxcbwdcczedoijoz/TouchMove_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMoveAppDelegate.o"0#
+
+CCompileC build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMoveViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942024.876905
+e308942025.154932
+r1
+xCompileC
+xbuild/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMoveViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m: In function '-[TouchMoveViewController viewDidLoad]':
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m:146: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)
+lSLF07#2@153"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m308942024#308942025#0(574"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m: In function '-[TouchMoveViewController viewDidLoad]':/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m:146: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)1(22@212"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)308942024#201#373#0(6@145"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m298925890#146#0#146#0#33"'*' is deprecated (declared at *)0(0#0#145"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m8638522720#2847"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchMove_Prefix-eejzpogvbibwxxcbwdcczedoijoz/TouchMove_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/Classes/TouchMoveViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMoveViewController.o"0#
+
+CCompileC build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942024.764833
+e308942024.876799
+r1
+xCompileC
+xbuild/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/main.m308942024#308942024#0(0"0(0#0#118"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/main.m8619150944#2801"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchMove_Prefix-eejzpogvbibwxxcbwdcczedoijoz/TouchMove_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/TouchMoveViewController.xib"
+r0
+
+CCpResource build/Release-iphonesimulator/TouchMove.app/back.jpg back.jpg
+r0
+
+CCpResource build/Release-iphonesimulator/TouchMove.app/default.png default.png
+r0
+
+CCpResource build/Release-iphonesimulator/TouchMove.app/hammer.png hammer.png
+r0
+
+CCpResource build/Release-iphonesimulator/TouchMove.app/nail.png nail.png
+r0
+
+CCpResource build/Release-iphonesimulator/TouchMove.app/screw.png screw.png
+r0
+
+CCpResource build/Release-iphonesimulator/TouchMove.app/screwdriver.png screwdriver.png
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove"
+s308942025.263427
+e308942025.319582
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove
+lSLF07#2@119"GenerateDSYMFile build/Release-iphonesimulator/TouchMove.app.dSYM build/Release-iphonesimulator/TouchMove.app/TouchMove308942025#308942025#0(0"0(0#0#165"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove8610760192#618"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove" normal i386
+s308942025.155154
+e308942025.263313
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove
+xnormal
+xi386
+lSLF07#2@170"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove308942025#308942025#0(0"0(0#0#0"8622092672#1293"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/Objects-normal/i386/TouchMove.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/TouchMove"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/Info.plist" TouchMove-Info.plist
+s308942023.877184
+e308942023.880452
+r1
+xProcessInfoPlistFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/Info.plist
+xTouchMove-Info.plist
+lSLF07#2@28"Process TouchMove-Info.plist308942023#308942023#0(0"0(0#0#132"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/TouchMove-Info.plist8636799744#714"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TouchMove-Info.plist -genpkginfo "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app/Info.plist"0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchMove_Prefix-eejzpogvbibwxxcbwdcczedoijoz/TouchMove_Prefix.pch.gch TouchMove_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942023.880735
+e308942024.764723
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchMove_Prefix-eejzpogvbibwxxcbwdcczedoijoz/TouchMove_Prefix.pch.gch
+xTouchMove_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TouchMove_Prefix.pch308942023#308942024#0(0"0(0#0#132"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/TouchMove_Prefix.pch8630788416#2614"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/TouchMove-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/TouchMove.build/Release-iphonesimulator/TouchMove.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/TouchMove_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchMove_Prefix-eejzpogvbibwxxcbwdcczedoijoz/TouchMove_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TouchMove_Prefix-gxgxxfolwgjxaigfxeuvkxctomkr/TouchMove_Prefix.pch.gch TouchMove_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app"
+s308942025.319680
+e308942025.322476
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app
+lSLF07#2@161"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app308942025#308942025#0(0"0(0#0#0"8622232576#432"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/build/Release-iphonesimulator/TouchMove.app"0#
+

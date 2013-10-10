@@ -1,0 +1,295 @@
+TColores
+v7
+r0
+t308939793.584589
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Info.plist" Colores-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/ColoresViewController.xib"
+cCpResource build/Debug-iphonesimulator/Colores.app/background.jpeg background.jpeg
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Colores_Prefix-aqjalnmhvmqxntgpakzzevefbsyy/Colores_Prefix.pch.gch Colores_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/ColoresAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/ColoresViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresAppDelegate.h
+c000000004C19E58D00000000000001D7
+t1276765581
+s471
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresAppDelegate.m
+c000000004C19E58D0000000000000262
+t1276765581
+s610
+i"ColoresAppDelegate.h"
+i"ColoresViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresViewController.h
+c000000004C19E6C800000000000001BB
+t1276765896
+s443
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresViewController.m
+c000000004C19E78900000000000006EA
+t1276766089
+s1770
+i"ColoresViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/ColoresViewController.xib
+c000000004C19E8A60000000000003010
+t1276766374
+s12304
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Colores_Prefix.pch
+c000000004C19E58D00000000000000B7
+t1276765581
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/MainWindow.xib
+c000000004C19E58D0000000000002415
+t1276765581
+s9237
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/background.jpeg
+c000000004C19E53400000000000199A8
+t1276765492
+s104872
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/Colores.LinkFileList
+c000000004CB9D48E0000000000000259
+t1287246990
+s601
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/ColoresAppDelegate.o
+t1287246993
+s48104
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/ColoresViewController.o
+t1287246993
+s43960
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/main.o
+t1287246993
+s6440
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app
+t1287246993
+s272
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app.dSYM
+t1287246993
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores
+t1287246993
+s17412
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/ColoresViewController.nib
+t1287246991
+s2673
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Info.plist
+t1276766065
+s562
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/MainWindow.nib
+t1276766065
+s1495
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/PkgInfo
+t1276766065
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/background.jpeg
+t1276766066
+s104872
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/main.m
+c000000004C19E58D0000000000000161
+t1276765581
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Colores_Prefix-aqjalnmhvmqxntgpakzzevefbsyy/Colores_Prefix.pch.gch
+t1287246992
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Colores_Prefix-awcgjkgxwputfvgiyhihureabgna/Colores_Prefix.pch.gch
+t2
+s0
+
+NColores-Info.plist
+c000000004C19E58D000000000000038D
+t1276765581
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308939790#308939790#0(0"0(0#1#0"8610582400#0"0#
+
+CCompileC build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/ColoresAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308939793.255670
+e308939793.398010
+r1
+xCompileC
+xbuild/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/ColoresAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@143"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresAppDelegate.m308939793#308939793#0(0"0(0#0#135"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresAppDelegate.m8609700128#2707"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Colores_Prefix-aqjalnmhvmqxntgpakzzevefbsyy/Colores_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/ColoresAppDelegate.o"0#
+
+CCompileC build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/ColoresViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308939793.355263
+e308939793.456804
+r1
+xCompileC
+xbuild/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/ColoresViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@146"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresViewController.m308939793#308939793#0(0"0(0#0#138"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresViewController.m8599306048#2713"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Colores_Prefix-aqjalnmhvmqxntgpakzzevefbsyy/Colores_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Classes/ColoresViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/ColoresViewController.o"0#
+
+CCompileC build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308939793.254105
+e308939793.355159
+r1
+xCompileC
+xbuild/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/main.m308939793#308939793#0(0"0(0#0#113"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/main.m8620462656#2671"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Colores_Prefix-aqjalnmhvmqxntgpakzzevefbsyy/Colores_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/ColoresViewController.xib"
+s308939790.761072
+e308939792.028134
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/ColoresViewController.xib
+lSLF07#2@36"CompileXIB ColoresViewController.xib308939790#308939792#0(0"0(0#0#132"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/ColoresViewController.xib8618325216#802"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/ColoresViewController.nib" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/ColoresViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/Colores.app/background.jpeg background.jpeg
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores"
+s308939793.514069
+e308939793.580970
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Colores.app.dSYM build/Debug-iphonesimulator/Colores.app/Colores308939793#308939793#0(0"0(0#0#154"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores8606441184#593"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores" normal i386
+s308939793.456904
+e308939793.513965
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores
+xnormal
+xi386
+lSLF07#2@159"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores308939793#308939793#0(0"0(0#0#0"8612002144#1250"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Objects-normal/i386/Colores.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Colores"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app/Info.plist" Colores-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Colores_Prefix-aqjalnmhvmqxntgpakzzevefbsyy/Colores_Prefix.pch.gch Colores_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308939792.028280
+e308939793.253726
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Colores_Prefix-aqjalnmhvmqxntgpakzzevefbsyy/Colores_Prefix.pch.gch
+xColores_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Colores_Prefix.pch308939792#308939793#0(0"0(0#0#125"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Colores_Prefix.pch8618783008#2493"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/Colores-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Colores.build/Debug-iphonesimulator/Colores.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/Colores_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Colores_Prefix-aqjalnmhvmqxntgpakzzevefbsyy/Colores_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Colores_Prefix-awcgjkgxwputfvgiyhihureabgna/Colores_Prefix.pch.gch Colores_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app"
+s308939793.581063
+e308939793.584543
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app
+lSLF07#2@152"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app308939793#308939793#0(0"0(0#0#0"8599336832#418"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/Colores/build/Debug-iphonesimulator/Colores.app"0#
+

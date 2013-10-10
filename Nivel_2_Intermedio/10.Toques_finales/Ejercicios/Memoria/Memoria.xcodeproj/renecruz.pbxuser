@@ -1,0 +1,120 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Memoria */ = {
+		activeExec = 0;
+		executables = (
+			68DC082811D4ECE200F52B7A /* Memoria */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* MemoriaViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 910}}";
+			sepNavSelRange = "{915, 0}";
+			sepNavVisRange = "{661, 647}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68DC082811D4ECE200F52B7A /* Memoria */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Memoria */;
+		codeSenseManager = 68DC083111D4ECEB00F52B7A /* Code sense */;
+		executables = (
+			68DC082811D4ECE200F52B7A /* Memoria */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					439,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308945585;
+			PBXWorkspaceStateSaveDate = 308945585;
+		};
+		perUserProjectItems = {
+			688A725B126A22CA00285EB4 /* XCBuildMessageTextBookmark */ = 688A725B126A22CA00285EB4 /* XCBuildMessageTextBookmark */;
+			688A725D126A22CF00285EB4 /* PBXTextBookmark */ = 688A725D126A22CF00285EB4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68DC083011D4ECEB00F52B7A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	688A725B126A22CA00285EB4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Format not a string literal and no format arguments";
+		fRef = 28D7ACF70DDB3853001CB0EB /* MemoriaViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 37;
+		rType = 1;
+	};
+	688A725D126A22CF00285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MemoriaViewController.m */;
+		name = "MemoriaViewController.m: 38";
+		rLen = 0;
+		rLoc = 915;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 661;
+	};
+	68DC082811D4ECE200F52B7A /* Memoria */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Memoria;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68DC083011D4ECEB00F52B7A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68DC083111D4ECEB00F52B7A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

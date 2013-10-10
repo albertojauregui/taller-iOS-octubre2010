@@ -1,0 +1,300 @@
+TMapas
+v7
+r0
+t308942943.135422
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Info.plist" Mapas-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/MapasViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mapas_Prefix-atiybizuiwyseifsrkgclzmvpjip/Mapas_Prefix.pch.gch Mapas_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/MapasAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/MapasViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004A0BC0FF000000000000017D
+t1242284287
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004A0BC11200000000000F36E0
+t1242284306
+s997088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasAppDelegate.h
+c000000004C21D25400000000000001CB
+t1277284948
+s459
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasAppDelegate.m
+c000000004C21D2540000000000000258
+t1277284948
+s600
+i"MapasAppDelegate.h"
+i"MapasViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.h
+c000000004C21DC1700000000000001F5
+t1277287447
+s501
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m
+c000000004C2261770000000000000B14
+t1277321591
+s2836
+i"MapasViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/MainWindow.xib
+c000000004C21D25400000000000023FF
+t1277284948
+s9215
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/MapasViewController.xib
+c000000004C21D5960000000000002855
+t1277285782
+s10325
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Mapas_Prefix.pch
+c000000004C21D25500000000000000B3
+t1277284949
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app
+t1287250143
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app.dSYM
+t1287250143
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Info.plist
+t1277285658
+s554
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/MainWindow.nib
+t1277285658
+s1491
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas
+t1287250143
+s17800
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/MapasViewController.nib
+t1277285785
+s2502
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/PkgInfo
+t1277285658
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/Mapas.LinkFileList
+c000000004CB9E0DD0000000000000231
+t1287250141
+s561
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/MapasAppDelegate.o
+t1287250142
+s47096
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/MapasViewController.o
+t1287250143
+s43940
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/main.o
+t1287250142
+s6424
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/main.m
+c000000004C21D255000000000000015F
+t1277284949
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mapas_Prefix-atiybizuiwyseifsrkgclzmvpjip/Mapas_Prefix.pch.gch
+t1287250142
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mapas_Prefix-gdocvvgkkuymekcwplpyrdoyjoca/Mapas_Prefix.pch.gch
+t2
+s0
+
+NMapas-Info.plist
+c000000004C21D254000000000000038D
+t1277284948
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308942941#308942941#0(0"0(0#1#0"8631009152#0"0#
+
+CCompileC build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/MapasAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942942.755592
+e308942942.925635
+r1
+xCompileC
+xbuild/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/MapasAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@133"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasAppDelegate.m308942942#308942942#0(0"0(0#0#125"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasAppDelegate.m8637889024#2575"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mapas_Prefix-atiybizuiwyseifsrkgclzmvpjip/Mapas_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/MapasAppDelegate.o"0#
+
+CCompileC build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/MapasViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942942.838812
+e308942943.018151
+r1
+xCompileC
+xbuild/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/MapasViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m: In function '-[MapasViewController addressLocation]':
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m:39: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)
+lSLF07#2@136"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m308942942#308942943#0(535"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m: In function '-[MapasViewController addressLocation]':/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m:39: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)1(22@208"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)308942942#184#351#0(6@128"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m299014391#39#0#39#0#33"'*' is deprecated (declared at *)0(0#0#128"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m8643843392#2581"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mapas_Prefix-atiybizuiwyseifsrkgclzmvpjip/Mapas_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Classes/MapasViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/MapasViewController.o"0#
+
+CCompileC build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942942.754333
+e308942942.838695
+r1
+xCompileC
+xbuild/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/main.m308942942#308942942#0(0"0(0#0#105"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/main.m8639042976#2543"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mapas_Prefix-atiybizuiwyseifsrkgclzmvpjip/Mapas_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/MapasViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas"
+s308942943.072163
+e308942943.115105
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Mapas.app.dSYM build/Debug-iphonesimulator/Mapas.app/Mapas308942943#308942943#0(0"0(0#0#142"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas8608430880#563"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas" normal i386
+s308942943.018247
+e308942943.072048
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas
+xnormal
+xi386
+lSLF07#2@147"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas308942943#308942943#0(0"0(0#0#0"8635464864#1218"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Objects-normal/i386/Mapas.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Mapas"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app/Info.plist" Mapas-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mapas_Prefix-atiybizuiwyseifsrkgclzmvpjip/Mapas_Prefix.pch.gch Mapas_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942941.962884
+e308942942.754215
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mapas_Prefix-atiybizuiwyseifsrkgclzmvpjip/Mapas_Prefix.pch.gch
+xMapas_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Mapas_Prefix.pch308942941#308942942#0(0"0(0#0#115"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Mapas_Prefix.pch8641240480#2375"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/Mapas-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Mapas.build/Debug-iphonesimulator/Mapas.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/Mapas_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mapas_Prefix-atiybizuiwyseifsrkgclzmvpjip/Mapas_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mapas_Prefix-gdocvvgkkuymekcwplpyrdoyjoca/Mapas_Prefix.pch.gch Mapas_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app"
+s308942943.115203
+e308942943.135353
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app
+lSLF07#2@142"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app308942943#308942943#0(0"0(0#0#0"8599682592#400"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/05.Mapas/Ejercicios/Mapas/build/Debug-iphonesimulator/Mapas.app"0#
+

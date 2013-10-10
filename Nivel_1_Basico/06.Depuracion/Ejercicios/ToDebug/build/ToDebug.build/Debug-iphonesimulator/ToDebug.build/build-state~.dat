@@ -1,0 +1,277 @@
+TToDebug
+v7
+r0
+t308936209.476660
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/Info.plist" ToDebug-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/ToDebugViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDebug_Prefix-fbucecyjutywyxchuhvmvvyvwuxh/ToDebug_Prefix.pch.gch ToDebug_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebugAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebugViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugAppDelegate.h
+c000000004C19D74E00000000000001D7
+t1276761934
+s471
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugAppDelegate.m
+c000000004C19D74E0000000000000262
+t1276761934
+s610
+i"ToDebugAppDelegate.h"
+i"ToDebugViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugViewController.h
+c000000004C19D880000000000000013E
+t1276762240
+s318
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugViewController.m
+c000000004CB9C68000000000000006B7
+t1287243392
+s1719
+i"ToDebugViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/MainWindow.xib
+c000000004C19D74E0000000000002415
+t1276761934
+s9237
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/ToDebugViewController.xib
+c000000004C19D9290000000000002860
+t1276762409
+s10336
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/ToDebug_Prefix.pch
+c000000004C19D74E00000000000000B7
+t1276761934
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app
+t1287243409
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app.dSYM
+t1287243409
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/Info.plist
+t1276762361
+s562
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/MainWindow.nib
+t1276762361
+s1495
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/PkgInfo
+t1276762361
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug
+t1287243409
+s17048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebugViewController.nib
+t1276762420
+s2521
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebug.LinkFileList
+c000000004CB9C6900000000000000238
+t1287243408
+s568
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebugAppDelegate.o
+t1287243409
+s45428
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebugViewController.o
+t1287243409
+s37244
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/main.o
+t1287243409
+s6416
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/main.m
+c000000004C19D74E0000000000000161
+t1276761934
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDebug_Prefix-erzaewvnorvphwezrhulsidmikhw/ToDebug_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDebug_Prefix-fbucecyjutywyxchuhvmvvyvwuxh/ToDebug_Prefix.pch.gch
+t1287243409
+s15232016
+
+NToDebug-Info.plist
+c000000004C19D74E000000000000038D
+t1276761934
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308936208#308936208#0(0"0(0#1#0"8606385312#0"0#
+
+CCompileC build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebugAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308936209.288646
+e308936209.377853
+r1
+xCompileC
+xbuild/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebugAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugAppDelegate.m308936209#308936209#0(0"0(0#0#124"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugAppDelegate.m8607834848#2586"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDebug_Prefix-fbucecyjutywyxchuhvmvvyvwuxh/ToDebug_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebugAppDelegate.o"0#
+
+CCompileC build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebugViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308936209.355011
+e308936209.431544
+r1
+xCompileC
+xbuild/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebugViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugViewController.m308936209#308936209#0(0"0(0#0#127"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugViewController.m8603755392#2592"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDebug_Prefix-fbucecyjutywyxchuhvmvvyvwuxh/ToDebug_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/Classes/ToDebugViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebugViewController.o"0#
+
+CCompileC build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308936209.287563
+e308936209.354894
+r1
+xCompileC
+xbuild/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/main.m308936209#308936209#0(0"0(0#0#102"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/main.m8608849536#2550"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDebug_Prefix-fbucecyjutywyxchuhvmvvyvwuxh/ToDebug_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/ToDebugViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug"
+s308936209.457299
+e308936209.473937
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/ToDebug.app.dSYM build/Debug-iphonesimulator/ToDebug.app/ToDebug308936209#308936209#0(0"0(0#0#143"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug8604487840#560"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug" normal i386
+s308936209.431649
+e308936209.457201
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug
+xnormal
+xi386
+lSLF07#2@148"Link /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug308936209#308936209#0(0"0(0#0#0"8607930112#1195"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/Objects-normal/i386/ToDebug.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/ToDebug"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app/Info.plist" ToDebug-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDebug_Prefix-erzaewvnorvphwezrhulsidmikhw/ToDebug_Prefix.pch.gch ToDebug_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDebug_Prefix-fbucecyjutywyxchuhvmvvyvwuxh/ToDebug_Prefix.pch.gch ToDebug_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308936208.539166
+e308936209.287461
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDebug_Prefix-fbucecyjutywyxchuhvmvvyvwuxh/ToDebug_Prefix.pch.gch
+xToDebug_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile ToDebug_Prefix.pch308936208#308936209#0(0"0(0#0#114"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/ToDebug_Prefix.pch8603991456#2383"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/ToDebug-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/ToDebug.build/Debug-iphonesimulator/ToDebug.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/ToDebug_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDebug_Prefix-fbucecyjutywyxchuhvmvvyvwuxh/ToDebug_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app"
+s308936209.474036
+e308936209.476607
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app
+lSLF07#2@141"Touch /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app308936209#308936209#0(0"0(0#0#0"8608272704#396"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToDebug/build/Debug-iphonesimulator/ToDebug.app"0#
+

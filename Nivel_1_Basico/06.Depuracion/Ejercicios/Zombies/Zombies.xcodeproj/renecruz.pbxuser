@@ -1,0 +1,176 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6896ECD511CA16920008E10F /* Zombies */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* Zombies */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* Zombies */,
+		);
+		codeSenseManager = 6896ECDF11CA169F0008E10F /* Code sense */;
+		executables = (
+			6896ECD511CA16920008E10F /* Zombies */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					464.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308939743;
+			PBXWorkspaceStateSaveDate = 308939743;
+		};
+		perUserProjectItems = {
+			688A6B50126A021B00285EB4 /* PBXTextBookmark */ = 688A6B50126A021B00285EB4 /* PBXTextBookmark */;
+			688A6C96126A0BE200285EB4 /* PBXTextBookmark */ = 688A6C96126A0BE200285EB4 /* PBXTextBookmark */;
+			68C7B6DA11CAA2CA003B7BFC /* PBXTextBookmark */ = 68C7B6DA11CAA2CA003B7BFC /* PBXTextBookmark */;
+			68C7B6DB11CAA2CA003B7BFC /* PBXTextBookmark */ = 68C7B6DB11CAA2CA003B7BFC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6896ECDE11CA169F0008E10F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* Zombies.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 378}}";
+			sepNavSelRange = "{33, 0}";
+			sepNavVisRange = "{0, 388}";
+		};
+	};
+	688A6B50126A021B00285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* Zombies.m */;
+		name = "Zombies.m: 1";
+		rLen = 0;
+		rLoc = 33;
+		rType = 0;
+		vrLen = 388;
+		vrLoc = 0;
+	};
+	688A6C96126A0BE200285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* Zombies.m */;
+		name = "Zombies.m: 1";
+		rLen = 0;
+		rLoc = 33;
+		rType = 0;
+		vrLen = 388;
+		vrLoc = 0;
+	};
+	6896ECD511CA16920008E10F /* Zombies */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Zombies;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6896ECDB11CA169F0008E10F /* Persona.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 390}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRange = "{0, 299}";
+			sepNavWindowFrame = "{{61, 334}, {922, 397}}";
+		};
+	};
+	6896ECDC11CA169F0008E10F /* Persona.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 390}}";
+			sepNavSelRange = "{262, 0}";
+			sepNavVisRange = "{0, 321}";
+		};
+	};
+	6896ECDE11CA169F0008E10F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6896ECDF11CA169F0008E10F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68C7B6DA11CAA2CA003B7BFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6896ECDB11CA169F0008E10F /* Persona.h */;
+		name = "Persona.h: 18";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 0;
+	};
+	68C7B6DB11CAA2CA003B7BFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6896ECDC11CA169F0008E10F /* Persona.m */;
+		name = "Persona.m: 19";
+		rLen = 0;
+		rLoc = 262;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* Zombies */ = {
+		activeExec = 0;
+		executables = (
+			6896ECD511CA16920008E10F /* Zombies */,
+		);
+	};
+}

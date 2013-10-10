@@ -1,0 +1,119 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* View-basedAppSample */ = {
+		activeExec = 0;
+		executables = (
+			6896EBEB11C9F05B0008E10F /* View-basedAppSample */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6896EBEB11C9F05B0008E10F /* View-basedAppSample */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* View-basedAppSample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* View-basedAppSample */,
+		);
+		codeSenseManager = 6896EBF311C9F0610008E10F /* Code sense */;
+		executables = (
+			6896EBEB11C9F05B0008E10F /* View-basedAppSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308939602;
+			PBXWorkspaceStateSaveDate = 308939602;
+		};
+		perUserProjectItems = {
+			688A6C71126A0AAA00285EB4 /* PlistBookmark */ = 688A6C71126A0AAA00285EB4 /* PlistBookmark */;
+			688A6C78126A0B5300285EB4 /* PlistBookmark */ = 688A6C78126A0B5300285EB4 /* PlistBookmark */;
+		};
+		sourceControlManager = 6896EBF211C9F0610008E10F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	688A6C71126A0AAA00285EB4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* View_basedAppSample-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/View-basedAppSample/View_basedAppSample-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	688A6C78126A0B5300285EB4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* View_basedAppSample-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/View-basedAppSample/View_basedAppSample-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	6896EBEB11C9F05B0008E10F /* View-basedAppSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "View-basedAppSample";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6896EBF211C9F0610008E10F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6896EBF311C9F0610008E10F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

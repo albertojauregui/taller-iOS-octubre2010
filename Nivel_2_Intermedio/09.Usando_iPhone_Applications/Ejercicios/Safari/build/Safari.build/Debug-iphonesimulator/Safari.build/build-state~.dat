@@ -1,0 +1,277 @@
+TSafari
+v7
+r0
+t308945511.853656
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Info.plist" Safari-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/SafariViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Safari_Prefix-gkqjbbnaeoozxhaoksxkqizhzxht/Safari_Prefix.pch.gch Safari_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/SafariAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/SafariViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariAppDelegate.h
+c000000004C24AEA800000000000001D1
+t1277472424
+s465
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariAppDelegate.m
+c000000004C24AEA8000000000000025D
+t1277472424
+s605
+i"SafariAppDelegate.h"
+i"SafariViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariViewController.h
+c000000004C24B0110000000000000152
+t1277472785
+s338
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariViewController.m
+c000000004C24B01B000000000000062F
+t1277472795
+s1583
+i"SafariViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/MainWindow.xib
+c000000004C24AEA8000000000000240A
+t1277472424
+s9226
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/SafariViewController.xib
+c000000004C24AF5D0000000000002B94
+t1277472605
+s11156
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Safari_Prefix.pch
+c000000004C24AEA800000000000000B5
+t1277472424
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app
+t1287252711
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app.dSYM
+t1287252711
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Info.plist
+t1277472634
+s558
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/MainWindow.nib
+t1277472634
+s1493
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/PkgInfo
+t1277472634
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari
+t1287252711
+s17144
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/SafariViewController.nib
+t1277472634
+s3331
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/Safari.LinkFileList
+c000000004CB9EAE6000000000000027B
+t1287252710
+s635
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/SafariAppDelegate.o
+t1287252711
+s45444
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/SafariViewController.o
+t1287252711
+s40420
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/main.o
+t1287252711
+s6468
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/main.m
+c000000004C24AEA80000000000000160
+t1277472424
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Safari_Prefix-cgneqlvitixfnlersghbpyglrvbf/Safari_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Safari_Prefix-gkqjbbnaeoozxhaoksxkqizhzxht/Safari_Prefix.pch.gch
+t1287252711
+s15232016
+
+NSafari-Info.plist
+c000000004C24AEA8000000000000038D
+t1277472424
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308945510#308945510#0(0"0(0#1#0"8645873184#0"0#
+
+CCompileC build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/SafariAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945511.648769
+e308945511.740650
+r1
+xCompileC
+xbuild/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/SafariAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@156"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariAppDelegate.m308945511#308945511#0(0"0(0#0#148"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariAppDelegate.m8659623776#2839"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Safari_Prefix-gkqjbbnaeoozxhaoksxkqizhzxht/Safari_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/SafariAppDelegate.o"0#
+
+CCompileC build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/SafariViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945511.707330
+e308945511.776537
+r1
+xCompileC
+xbuild/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/SafariViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@159"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariViewController.m308945511#308945511#0(0"0(0#0#151"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariViewController.m8659582272#2845"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Safari_Prefix-gkqjbbnaeoozxhaoksxkqizhzxht/Safari_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Classes/SafariViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/SafariViewController.o"0#
+
+CCompileC build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945511.647606
+e308945511.707215
+r1
+xCompileC
+xbuild/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/main.m308945511#308945511#0(0"0(0#0#127"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/main.m8659657312#2805"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Safari_Prefix-gkqjbbnaeoozxhaoksxkqizhzxht/Safari_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/SafariViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari"
+s308945511.804951
+e308945511.849287
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Safari.app.dSYM build/Debug-iphonesimulator/Safari.app/Safari308945511#308945511#0(0"0(0#0#166"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari8654590912#632"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari" normal i386
+s308945511.776634
+e308945511.804726
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari
+xnormal
+xi386
+lSLF07#2@171"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari308945511#308945511#0(0"0(0#0#0"8659536032#1315"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Objects-normal/i386/Safari.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Safari"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app/Info.plist" Safari-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Safari_Prefix-cgneqlvitixfnlersghbpyglrvbf/Safari_Prefix.pch.gch Safari_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Safari_Prefix-gkqjbbnaeoozxhaoksxkqizhzxht/Safari_Prefix.pch.gch Safari_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945510.905795
+e308945511.647495
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Safari_Prefix-gkqjbbnaeoozxhaoksxkqizhzxht/Safari_Prefix.pch.gch
+xSafari_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Safari_Prefix.pch308945510#308945511#0(0"0(0#0#138"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Safari_Prefix.pch8659931808#2614"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/Safari-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Safari.build/Debug-iphonesimulator/Safari.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/Safari_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Safari_Prefix-gkqjbbnaeoozxhaoksxkqizhzxht/Safari_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app"
+s308945511.849385
+e308945511.853611
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app
+lSLF07#2@165"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app308945511#308945511#0(0"0(0#0#0"8641833344#445"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Safari/build/Debug-iphonesimulator/Safari.app"0#
+

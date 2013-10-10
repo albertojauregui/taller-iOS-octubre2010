@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Table2' target in the 'Table2' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

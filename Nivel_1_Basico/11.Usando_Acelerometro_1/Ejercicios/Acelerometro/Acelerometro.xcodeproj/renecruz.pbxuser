@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* AcelerometroAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 442}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 635}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Acelerometro */ = {
+		activeExec = 0;
+		executables = (
+			68AE017B11CCE7B50034A04B /* Acelerometro */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AcelerometroViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 421}}";
+			sepNavSelRange = "{234, 23}";
+			sepNavVisRange = "{0, 480}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AcelerometroViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 949}}";
+			sepNavSelRange = "{709, 0}";
+			sepNavVisRange = "{589, 1005}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68AE017B11CCE7B50034A04B /* Acelerometro */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Acelerometro */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Acelerometro */,
+		);
+		codeSenseManager = 68AE018211CCE7B70034A04B /* Code sense */;
+		executables = (
+			68AE017B11CCE7B50034A04B /* Acelerometro */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					705,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					665,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308940730;
+			PBXWorkspaceStateSaveDate = 308940730;
+		};
+		perUserProjectItems = {
+			688A6E21126A102C00285EB4 /* PBXTextBookmark */ = 688A6E21126A102C00285EB4 /* PBXTextBookmark */;
+			688A6E22126A102C00285EB4 /* PlistBookmark */ = 688A6E22126A102C00285EB4 /* PlistBookmark */;
+			688A6E2E126A103C00285EB4 /* PlistBookmark */ = 688A6E2E126A103C00285EB4 /* PlistBookmark */;
+			68A64A5B121330C1009EE39A /* PBXTextBookmark */ = 68A64A5B121330C1009EE39A /* PBXTextBookmark */;
+			68A64A821213321B009EE39A /* PBXTextBookmark */ = 68A64A821213321B009EE39A /* PBXTextBookmark */;
+			68A64A831213321B009EE39A /* PBXTextBookmark */ = 68A64A831213321B009EE39A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68AE018111CCE7B70034A04B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	688A6E21126A102C00285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AcelerometroViewController.m */;
+		name = "AcelerometroViewController.m: 32";
+		rLen = 0;
+		rLoc = 709;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 589;
+	};
+	688A6E22126A102C00285EB4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Acelerometro-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	688A6E2E126A103C00285EB4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Acelerometro-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	68A64A5B121330C1009EE39A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AcelerometroAppDelegate.m */;
+		name = "AcelerometroAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 635;
+		vrLoc = 0;
+	};
+	68A64A6F1213310D009EE39A /* stdarg.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdarg.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h;
+		sourceTree = "<absolute>";
+	};
+	68A64A821213321B009EE39A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68A64A6F1213310D009EE39A /* stdarg.h */;
+		name = "stdarg.h: 4";
+		rLen = 0;
+		rLoc = 100;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	68A64A831213321B009EE39A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AcelerometroViewController.h */;
+		name = "AcelerometroViewController.h: 11";
+		rLen = 23;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 480;
+		vrLoc = 0;
+	};
+	68AE017B11CCE7B50034A04B /* Acelerometro */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Acelerometro;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68AE018111CCE7B70034A04B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68AE018211CCE7B70034A04B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

@@ -1,0 +1,277 @@
+TMensaje
+v7
+r0
+t308937549.280243
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Info.plist" Mensaje-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/MensajeViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mensaje_Prefix-hbnpfkrnfeqjdkdyaytomkdbccva/Mensaje_Prefix.pch.gch Mensaje_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/MensajeAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/MensajeViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeAppDelegate.h
+c000000004C172C6E00000000000001D7
+t1276587118
+s471
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeAppDelegate.m
+c000000004C172C6E0000000000000262
+t1276587118
+s610
+i"MensajeAppDelegate.h"
+i"MensajeViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeViewController.h
+c000000004C172C6E00000000000000E6
+t1276587118
+s230
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeViewController.m
+c000000004C172C6E00000000000005AF
+t1276587118
+s1455
+i"MensajeViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/MainWindow.xib
+c000000004C172C6E0000000000002415
+t1276587118
+s9237
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/MensajeViewController.xib
+c000000004C172DAB0000000000003569
+t1276587435
+s13673
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Mensaje_Prefix.pch
+c000000004C172C6E00000000000000B7
+t1276587118
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app
+t1287244749
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app.dSYM
+t1287244749
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Info.plist
+t1276587306
+s562
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/MainWindow.nib
+t1276587307
+s1495
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje
+t1287244749
+s16444
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/MensajeViewController.nib
+t1276587437
+s3652
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/PkgInfo
+t1276587306
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/Mensaje.LinkFileList
+c000000004CB9CBCB0000000000000250
+t1287244747
+s592
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/MensajeAppDelegate.o
+t1287244749
+s45396
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/MensajeViewController.o
+t1287244749
+s34528
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/main.o
+t1287244749
+s6432
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/main.m
+c000000004C172C6E0000000000000161
+t1276587118
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mensaje_Prefix-fspgefqysjkepkccgnstinejhgxx/Mensaje_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mensaje_Prefix-hbnpfkrnfeqjdkdyaytomkdbccva/Mensaje_Prefix.pch.gch
+t1287244748
+s15232016
+
+NMensaje-Info.plist
+c000000004C172C6E000000000000038D
+t1276587118
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308937547#308937547#0(0"0(0#1#0"8610756320#0"0#
+
+CCompileC build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/MensajeAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308937549.065770
+e308937549.154824
+r1
+xCompileC
+xbuild/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/MensajeAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeAppDelegate.m308937549#308937549#0(0"0(0#0#132"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeAppDelegate.m8612141088#2674"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mensaje_Prefix-hbnpfkrnfeqjdkdyaytomkdbccva/Mensaje_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/MensajeAppDelegate.o"0#
+
+CCompileC build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/MensajeViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308937549.125236
+e308937549.194301
+r1
+xCompileC
+xbuild/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/MensajeViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@143"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeViewController.m308937549#308937549#0(0"0(0#0#135"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeViewController.m8610678208#2680"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mensaje_Prefix-hbnpfkrnfeqjdkdyaytomkdbccva/Mensaje_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Classes/MensajeViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/MensajeViewController.o"0#
+
+CCompileC build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308937549.064343
+e308937549.125118
+r1
+xCompileC
+xbuild/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/main.m308937549#308937549#0(0"0(0#0#110"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/main.m8590246624#2638"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mensaje_Prefix-hbnpfkrnfeqjdkdyaytomkdbccva/Mensaje_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/MensajeViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje"
+s308937549.239017
+e308937549.276207
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Mensaje.app.dSYM build/Debug-iphonesimulator/Mensaje.app/Mensaje308937549#308937549#0(0"0(0#0#151"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje8610321088#584"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje" normal i386
+s308937549.194400
+e308937549.238902
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje
+xnormal
+xi386
+lSLF07#2@156"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje308937549#308937549#0(0"0(0#0#0"8590199136#1235"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Objects-normal/i386/Mensaje.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Mensaje"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app/Info.plist" Mensaje-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mensaje_Prefix-fspgefqysjkepkccgnstinejhgxx/Mensaje_Prefix.pch.gch Mensaje_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mensaje_Prefix-hbnpfkrnfeqjdkdyaytomkdbccva/Mensaje_Prefix.pch.gch Mensaje_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308937547.928251
+e308937549.064200
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mensaje_Prefix-hbnpfkrnfeqjdkdyaytomkdbccva/Mensaje_Prefix.pch.gch
+xMensaje_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Mensaje_Prefix.pch308937547#308937549#0(0"0(0#0#122"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Mensaje_Prefix.pch8609974016#2463"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/Mensaje-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Mensaje.build/Debug-iphonesimulator/Mensaje.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/Mensaje_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mensaje_Prefix-hbnpfkrnfeqjdkdyaytomkdbccva/Mensaje_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app"
+s308937549.276308
+e308937549.280192
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app
+lSLF07#2@149"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app308937549#308937549#0(0"0(0#0#0"8609907008#412"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/02.Herramientas/Ejercicios/Mensaje/build/Debug-iphonesimulator/Mensaje.app"0#
+

@@ -1,0 +1,290 @@
+TLoadImage
+v7
+r0
+t308945553.727736
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/Info.plist" LoadImage-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/LoadImageViewController.xib"
+cCpResource build/Debug-iphonesimulator/LoadImage.app/Default.png Default.png
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LoadImage_Prefix-djexdnknqytvlvcbmdevacvhjmje/LoadImage_Prefix.pch.gch LoadImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImageAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImageViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageAppDelegate.h
+c000000004C24B28800000000000001E3
+t1277473416
+s483
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageAppDelegate.m
+c000000004C24B288000000000000026C
+t1277473416
+s620
+i"LoadImageAppDelegate.h"
+i"LoadImageViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageViewController.h
+c000000004C24B28800000000000000EC
+t1277473416
+s236
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageViewController.m
+c000000004C24B28800000000000005B7
+t1277473416
+s1463
+i"LoadImageViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Default.png
+c000000004C24B324000000000001C402
+t1277473572
+s115714
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/LoadImageViewController.xib
+c000000004C24B28800000000000018AA
+t1277473416
+s6314
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/LoadImage_Prefix.pch
+c000000004C24B28800000000000000BB
+t1277473416
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/MainWindow.xib
+c000000004C24B288000000000000242B
+t1277473416
+s9259
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app
+t1287252753
+s272
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app.dSYM
+t1287252753
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/Default.png
+t1277473595
+s115714
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/Info.plist
+t1277473594
+s570
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage
+t1287252753
+s16572
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImageViewController.nib
+t1277473595
+s1151
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/MainWindow.nib
+t1277473595
+s1499
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/PkgInfo
+t1277473594
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImage.LinkFileList
+c000000004CB9EB100000000000000278
+t1287252752
+s632
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImageAppDelegate.o
+t1287252753
+s45492
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImageViewController.o
+t1287252753
+s34584
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/main.o
+t1287252753
+s6448
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/main.m
+c000000004C24B2880000000000000163
+t1277473416
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LoadImage_Prefix-amhnnofxmqxnukdxqemtqetmzrbl/LoadImage_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LoadImage_Prefix-djexdnknqytvlvcbmdevacvhjmje/LoadImage_Prefix.pch.gch
+t1287252753
+s15232016
+
+NLoadImage-Info.plist
+c000000004C24B288000000000000038D
+t1277473416
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308945552#308945552#0(0"0(0#1#0"8658565088#0"0#
+
+CCompileC build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImageAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945553.519626
+e308945553.607387
+r1
+xCompileC
+xbuild/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImageAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@150"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageAppDelegate.m308945553#308945553#0(0"0(0#0#142"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageAppDelegate.m8660174080#2806"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LoadImage_Prefix-djexdnknqytvlvcbmdevacvhjmje/LoadImage_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImageAppDelegate.o"0#
+
+CCompileC build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImageViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945553.582335
+e308945553.649299
+r1
+xCompileC
+xbuild/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImageViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@153"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageViewController.m308945553#308945553#0(0"0(0#0#145"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageViewController.m8660128160#2812"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LoadImage_Prefix-djexdnknqytvlvcbmdevacvhjmje/LoadImage_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/Classes/LoadImageViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImageViewController.o"0#
+
+CCompileC build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945553.518321
+e308945553.582223
+r1
+xCompileC
+xbuild/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/main.m308945553#308945553#0(0"0(0#0#118"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/main.m8660250400#2766"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LoadImage_Prefix-djexdnknqytvlvcbmdevacvhjmje/LoadImage_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/LoadImageViewController.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/LoadImage.app/Default.png Default.png
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage"
+s308945553.676755
+e308945553.724902
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/LoadImage.app.dSYM build/Debug-iphonesimulator/LoadImage.app/LoadImage308945553#308945553#0(0"0(0#0#163"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage8643148064#614"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage" normal i386
+s308945553.649400
+e308945553.676547
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage
+xnormal
+xi386
+lSLF07#2@168"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage308945553#308945553#0(0"0(0#0#0"8654389952#1285"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/Objects-normal/i386/LoadImage.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/LoadImage"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app/Info.plist" LoadImage-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LoadImage_Prefix-amhnnofxmqxnukdxqemtqetmzrbl/LoadImage_Prefix.pch.gch LoadImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LoadImage_Prefix-djexdnknqytvlvcbmdevacvhjmje/LoadImage_Prefix.pch.gch LoadImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945552.691669
+e308945553.518192
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LoadImage_Prefix-djexdnknqytvlvcbmdevacvhjmje/LoadImage_Prefix.pch.gch
+xLoadImage_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile LoadImage_Prefix.pch308945552#308945553#0(0"0(0#0#132"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/LoadImage_Prefix.pch8660366752#2581"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/LoadImage-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/LoadImage.build/Debug-iphonesimulator/LoadImage.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/LoadImage_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LoadImage_Prefix-djexdnknqytvlvcbmdevacvhjmje/LoadImage_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app"
+s308945553.724996
+e308945553.727692
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app
+lSLF07#2@159"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app308945553#308945553#0(0"0(0#0#0"8651095328#430"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/10.Toques_finales/Ejercicios/LoadImage/build/Debug-iphonesimulator/LoadImage.app"0#
+

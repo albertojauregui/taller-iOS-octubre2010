@@ -1,0 +1,587 @@
+TNavigationBar
+v7
+r0
+t308940524.546641
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/Info.plist" NavigationBar-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/RootViewController.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-fgqdcogvbhvsuqcrazaxrnuipgon/NavigationBar_Prefix.pch.gch NavigationBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBarAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/RootViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/MexicoViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C547E0C00000000000000EE
+t1280605708
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.h
+c000000004C1C982E00000000000000EA
+t1276942382
+s234
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m
+c000000004C31586E0000000000000595
+t1278302318
+s1429
+i"MexicoViewController.h"
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.xib
+c000000004C58782C000000000000413F
+t1280866348
+s16703
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.h
+c000000004C1C96AA00000000000001C4
+t1276941994
+s452
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m
+c000000004C1C96AA0000000000000346
+t1276941994
+s838
+i"NavigationBarAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.h
+c000000004C1C96F30000000000000127
+t1276942067
+s295
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m
+c000000004C3158640000000000001144
+t1278302308
+s4420
+i"RootViewController.h"
+i"MexicoViewController.h"
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/MainWindow.xib
+c000000004C1C96AA0000000000002C40
+t1276941994
+s11328
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/NavigationBar_Prefix.pch
+c000000004C1C96AA000000000000014C
+t1276941994
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/RootViewController.xib
+c000000004C1C96AA0000000000001F5F
+t1276941994
+s8031
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app
+t1280866544
+s272
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app.dSYM
+t1280866160
+s102
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/Info.plist
+t1280866158
+s615
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/MainWindow.nib
+t1280866158
+s1491
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/MexicoViewController.nib
+t1280866544
+s1181
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar
+t1280866160
+s19564
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/PkgInfo
+t1280866158
+s8
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/RootViewController.nib
+t1280866158
+s1021
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/MexicoViewController.o
+t1280866160
+s35340
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBar.LinkFileList
+c000000004C1C99080000000000000356
+t1276942600
+s854
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBarAppDelegate.o
+t1280866160
+s47680
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/RootViewController.o
+t1280866160
+s44940
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/main.o
+t1280866160
+s6436
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m
+c000000004C1C96AA0000000000000167
+t1276941994
+s359
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.h
+c000000004C1C982E00000000000000EA
+t1276942382
+s234
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m
+c000000004C31586E0000000000000595
+t1278302318
+s1429
+i"MexicoViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.xib
+c000000004C58782C000000000000413F
+t1280866348
+s16703
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.h
+c000000004C1C96AA00000000000001C4
+t1276941994
+s452
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m
+c000000004C1C96AA0000000000000346
+t1276941994
+s838
+i"NavigationBarAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.h
+c000000004C1C96F30000000000000127
+t1276942067
+s295
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m
+c000000004C3158640000000000001144
+t1278302308
+s4420
+i"RootViewController.h"
+i"MexicoViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/MainWindow.xib
+c000000004C1C96AA0000000000002C40
+t1276941994
+s11328
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/NavigationBar_Prefix.pch
+c000000004C1C96AA000000000000014C
+t1276941994
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/RootViewController.xib
+c000000004C1C96AA0000000000001F5F
+t1276941994
+s8031
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app
+t1287247724
+s272
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app.dSYM
+t1287247724
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/Info.plist
+t1280866158
+s615
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/MainWindow.nib
+t1280866158
+s1491
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/MexicoViewController.nib
+t1280866544
+s1181
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar
+t1287247724
+s19684
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/PkgInfo
+t1280866158
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/RootViewController.nib
+t1280866158
+s1021
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/MexicoViewController.o
+t1287247724
+s35368
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBar.LinkFileList
+c000000004CB9D76A0000000000000392
+t1287247722
+s914
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBarAppDelegate.o
+t1287247724
+s47712
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/RootViewController.o
+t1287247724
+s44972
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/main.o
+t1287247724
+s6468
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m
+c000000004C1C96AA0000000000000167
+t1276941994
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-ckbrvhayvswlqhbwszzsrpwkpyim/NavigationBar_Prefix.pch.gch
+t1280866160
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-eujredmktyrbybcwlfdcuidfmlrc/NavigationBar_Prefix.pch.gch
+t1280866133
+s12961168
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-fgqdcogvbhvsuqcrazaxrnuipgon/NavigationBar_Prefix.pch.gch
+t1287247723
+s15232016
+
+NNavigationBar-Info.plist
+c000000004C1C96AA000000000000038D
+t1276941994
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308940522#308940523#0(0"0(0#1#0"8599448736#0"0#
+
+CCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/MexicoViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940524.323813
+e308940524.406822
+r1
+xCompileC
+xbuild/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/MexicoViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@159"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m308940524#308940524#0(0"0(0#0#151"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m8610839232#2985"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-fgqdcogvbhvsuqcrazaxrnuipgon/NavigationBar_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/MexicoViewController.o"0#
+
+CCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/MexicoViewController.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302558960.233844
+e302558960.315336
+r1
+xCompileC
+xbuild/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/MexicoViewController.o
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@144"Compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m302558960#302558960#0(0"0(0#0#136"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m8605893472#2798"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-ckbrvhayvswlqhbwszzsrpwkpyim/NavigationBar_Prefix.pch -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.m -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/MexicoViewController.o0#
+
+CCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBarAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940524.218993
+e308940524.322076
+r1
+xCompileC
+xbuild/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBarAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@163"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m308940524#308940524#0(0"0(0#0#155"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m8618665728#2993"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-fgqdcogvbhvsuqcrazaxrnuipgon/NavigationBar_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBarAppDelegate.o"0#
+
+CCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBarAppDelegate.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302558960.149745
+e302558960.233736
+r1
+xCompileC
+xbuild/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBarAppDelegate.o
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@148"Compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m302558960#302558960#0(0"0(0#0#140"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m8606838016#2806"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-ckbrvhayvswlqhbwszzsrpwkpyim/NavigationBar_Prefix.pch -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/NavigationBarAppDelegate.m -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBarAppDelegate.o0#
+
+CCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/RootViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940524.322187
+e308940524.424449
+r1
+xCompileC
+xbuild/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/RootViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@157"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m308940524#308940524#0(0"0(0#0#149"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m8605951808#2981"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-fgqdcogvbhvsuqcrazaxrnuipgon/NavigationBar_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/RootViewController.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302558960.220630
+e302558960.326174
+r1
+xCompileC
+xbuild/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/RootViewController.o
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m302558960#302558960#0(0"0(0#0#134"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m8606127680#2794"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-ckbrvhayvswlqhbwszzsrpwkpyim/NavigationBar_Prefix.pch -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/RootViewController.m -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940524.217811
+e308940524.323716
+r1
+xCompileC
+xbuild/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m308940524#308940524#0(0"0(0#0#127"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m8590242240#2945"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-fgqdcogvbhvsuqcrazaxrnuipgon/NavigationBar_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/main.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302558960.148437
+e302558960.220528
+r1
+xCompileC
+xbuild/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/main.o
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m302558960#302558960#0(0"0(0#0#112"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m8601341056#2758"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-ckbrvhayvswlqhbwszzsrpwkpyim/NavigationBar_Prefix.pch -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/main.m -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/RootViewController.xib"
+r0
+
+CCompileXIB /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.xib
+s302559343.738208
+e302559344.125043
+r1
+xCompileXIB
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.xib
+lSLF07#2@43"CompileXIB Classes/MexicoViewController.xib302559343#302559344#0(0"0(0#0#138"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.xib8605946848#805"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/MexicoViewController.nib /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/Classes/MexicoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/MainWindow.xib
+s302558958.469949
+e302558958.900401
+r1
+xCompileXIB
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302558958#302558958#0(0"0(0#0#120"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/MainWindow.xib8602576448#777"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/MainWindow.nib /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/RootViewController.xib
+s302558958.470660
+e302558958.917670
+r1
+xCompileXIB
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib302558958#302558958#0(0"0(0#0#128"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/RootViewController.xib8601159392#793"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/RootViewController.nib /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar"
+s308940524.467603
+e308940524.543845
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/NavigationBar.app.dSYM build/Debug-iphonesimulator/NavigationBar.app/NavigationBar308940524#308940524#0(0"0(0#0#180"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar8606171360#653"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app.dSYM"0#
+
+CGenerateDSYMFile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app.dSYM /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar
+s302558960.389311
+e302558960.444152
+r1
+xGenerateDSYMFile
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app.dSYM
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/NavigationBar.app.dSYM build/Debug-iphonesimulator/NavigationBar.app/NavigationBar302558960#302558960#0(0"0(0#0#165"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar8604333280#602"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app.dSYM0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar" normal i386
+s308940524.424555
+e308940524.467489
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar
+xnormal
+xi386
+lSLF07#2@185"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar308940524#308940524#0(0"0(0#0#0"8608412608#1350"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBar.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar"0#
+
+CLd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar normal i386
+s302558960.326279
+e302558960.389205
+r1
+xLd
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar
+xnormal
+xi386
+lSLF07#2@170"Link /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar302558960#302558960#0(0"0(0#0#0"8604472224#1265"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator -filelist /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/Objects-normal/i386/NavigationBar.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/NavigationBar0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/Info.plist" NavigationBar-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/Info.plist NavigationBar-Info.plist
+s302558958.466681
+e302558958.469861
+r1
+xProcessInfoPlistFile
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/Info.plist
+xNavigationBar-Info.plist
+lSLF07#2@32"Process NavigationBar-Info.plist302558958#302558958#0(0"0(0#0#130"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/NavigationBar-Info.plist29555065834897524#698"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NavigationBar-Info.plist -genpkginfo /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app/Info.plist0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-ckbrvhayvswlqhbwszzsrpwkpyim/NavigationBar_Prefix.pch.gch NavigationBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302558959.294799
+e302558960.148192
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-ckbrvhayvswlqhbwszzsrpwkpyim/NavigationBar_Prefix.pch.gch
+xNavigationBar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile NavigationBar_Prefix.pch302558959#302558960#0(0"0(0#0#130"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/NavigationBar_Prefix.pch8606666592#2577"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/NavigationBar_Prefix.pch -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-ckbrvhayvswlqhbwszzsrpwkpyim/NavigationBar_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-eujredmktyrbybcwlfdcuidfmlrc/NavigationBar_Prefix.pch.gch NavigationBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302558932.751110
+e302558933.517062
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-eujredmktyrbybcwlfdcuidfmlrc/NavigationBar_Prefix.pch.gch
+xNavigationBar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile NavigationBar_Prefix.pch302558932#302558933#0(0"0(0#0#130"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/NavigationBar_Prefix.pch8604463808#2577"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/NavigationBar_Prefix.pch -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-eujredmktyrbybcwlfdcuidfmlrc/NavigationBar_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-fgqdcogvbhvsuqcrazaxrnuipgon/NavigationBar_Prefix.pch.gch NavigationBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940522.895958
+e308940524.217699
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-fgqdcogvbhvsuqcrazaxrnuipgon/NavigationBar_Prefix.pch.gch
+xNavigationBar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile NavigationBar_Prefix.pch308940522#308940524#0(0"0(0#0#145"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/NavigationBar_Prefix.pch8608635840#2747"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/NavigationBar-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/NavigationBar.build/Debug-iphonesimulator/NavigationBar.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/NavigationBar_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationBar_Prefix-fgqdcogvbhvsuqcrazaxrnuipgon/NavigationBar_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app"
+s308940524.543946
+e308940524.546600
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app
+lSLF07#2@172"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app308940524#308940524#0(0"0(0#0#0"8600146080#452"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app"0#
+
+CTouch /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app
+s302559344.125754
+e302559344.128368
+r1
+xTouch
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app
+lSLF07#2@157"Touch /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app302559344#302559344#0(0"0(0#0#0"8606376032#418"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/NavigationBar/build/Debug-iphonesimulator/NavigationBar.app0#
+

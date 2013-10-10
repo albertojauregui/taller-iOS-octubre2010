@@ -1,0 +1,305 @@
+THelloWorld
+v7
+r0
+t308937367.200833
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/HelloWorldViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlvybluxskbfptgwjnydtcvnuezk/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld" normal armv6
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004C5A54C20000000000000110
+t1280988354
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C60E0A40000000000000110
+t1281417380
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldAppDelegate.h
+c000000004C16CA3C00000000000001E9
+t1276561980
+s489
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldAppDelegate.m
+c000000004C16CA3C0000000000000271
+t1276561980
+s625
+i"HelloWorldAppDelegate.h"
+i"HelloWorldViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldViewController.h
+c000000004C16CA3C00000000000000EF
+t1276561980
+s239
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldViewController.m
+c000000004C16CA3C00000000000005BB
+t1276561980
+s1467
+i"HelloWorldViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/HelloWorldViewController.xib
+c000000004C16CB510000000000001C12
+t1276562257
+s7186
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/HelloWorld_Prefix.pch
+c000000004C16CA3C00000000000000BD
+t1276561980
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/MainWindow.xib
+c000000004C16CA3C0000000000002436
+t1276561980
+s9270
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld.LinkFileList
+c000000004CB9CB15000000000000026E
+t1287244565
+s622
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o
+t1287244566
+s44880
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o
+t1287244566
+s34404
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o
+t1287244566
+s6580
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app
+t1287244567
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app.dSYM
+t1287244567
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld
+t1287244567
+s16588
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorldViewController.nib
+t1287244565
+s1206
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/Info.plist
+t1287244565
+s678
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/MainWindow.nib
+t1287244565
+s1105
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/PkgInfo
+t1287244565
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/default.png
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/default.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/main.m
+c000000004C16CA3C0000000000000164
+t1276561980
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-avqlnihvnrlqwggzgoilriffrgcs/HelloWorld_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlvybluxskbfptgwjnydtcvnuezk/HelloWorld_Prefix.pch.gch
+t1287244566
+s9631280
+
+NHelloWorld-Info.plist
+c000000004C16CA3C000000000000038D
+t1276561980
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308937365#308937365#0(0"0(0#1#0"8613549344#0"0#
+
+CCompileC build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308937366.387764
+e308937366.663089
+r1
+xCompileC
+xbuild/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@149"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldAppDelegate.m308937366#308937366#0(0"0(0#0#141"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldAppDelegate.m8608540768#2664"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/DerivedSources/armv6" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlvybluxskbfptgwjnydtcvnuezk/HelloWorld_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o"0#
+
+CCompileC build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308937366.658495
+e308937366.733109
+r1
+xCompileC
+xbuild/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@152"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldViewController.m308937366#308937366#0(0"0(0#0#144"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldViewController.m8610894016#2670"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/DerivedSources/armv6" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlvybluxskbfptgwjnydtcvnuezk/HelloWorld_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/Classes/HelloWorldViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldViewController.o"0#
+
+CCompileC build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308937366.386676
+e308937366.658316
+r1
+xCompileC
+xbuild/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/main.m308937366#308937366#0(0"0(0#0#116"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/main.m8609811200#2622"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/DerivedSources/armv6" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlvybluxskbfptgwjnydtcvnuezk/HelloWorld_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/HelloWorldViewController.xib"
+s308937365.156112
+e308937365.583855
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/HelloWorldViewController.xib
+lSLF07#2@39"CompileXIB HelloWorldViewController.xib308937365#308937365#0(0"0(0#0#138"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/HelloWorldViewController.xib8610091584#794"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorldViewController.nib" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/HelloWorldViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/MainWindow.xib"
+s308937365.154534
+e308937365.562937
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308937365#308937365#0(0"0(0#0#124"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/MainWindow.xib8610374048#766"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/MainWindow.nib" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCopyPNGFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/default.png" default.png
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld"
+s308937367.176949
+e308937367.196118
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld
+lSLF07#2@108"GenerateDSYMFile build/Release-iphoneos/HelloWorld.app.dSYM build/Release-iphoneos/HelloWorld.app/HelloWorld308937367#308937367#0(0"0(0#0#158"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld8608555392#594"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld" normal armv6
+s308937366.733208
+e308937367.176837
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld
+xnormal
+xarmv6
+lSLF07#2@163"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld308937366#308937367#0(0"0(0#0#0"8608212736#1210"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/HelloWorld"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+s308937365.147896
+e308937365.154247
+r1
+xProcessInfoPlistFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/Info.plist
+xHelloWorld-Info.plist
+lSLF07#2@29"Process HelloWorld-Info.plist308937365#308937365#0(0"0(0#0#131"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/HelloWorld-Info.plist8612518400#683"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloWorld-Info.plist -genpkginfo "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app/Info.plist"0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-avqlnihvnrlqwggzgoilriffrgcs/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlvybluxskbfptgwjnydtcvnuezk/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308937365.583983
+e308937366.386569
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlvybluxskbfptgwjnydtcvnuezk/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch308937365#308937366#0(0"0(0#0#131"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/HelloWorld_Prefix.pch8612132864#2442"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/DerivedSources/armv6" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorld.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/HelloWorld_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlvybluxskbfptgwjnydtcvnuezk/HelloWorld_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app"
+s308937367.196211
+e308937367.200783
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app
+lSLF07#2@153"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app308937367#308937367#0(0"0(0#0#0"8606261216#415"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/01.Instalacion_SDK/Ejercicios/HelloWorld/build/Release-iphoneos/HelloWorld.app"0#
+

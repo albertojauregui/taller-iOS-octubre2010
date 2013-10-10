@@ -1,0 +1,4 @@
+/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m:9: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'OBJC_STRING' token
+/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m:14: fatal error: method definition not in @implementation context
+compilation terminated.
+{standard input}:34:FATAL:.abort  detected.  Assembly stopping.

@@ -1,0 +1,326 @@
+TBola
+v7
+r0
+t308941295.133253
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Info.plist" Bola-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/BolaViewController.xib"
+cCpResource build/Release-iphonesimulator/Bola.app/trackball.png trackball.png
+cCpResource build/Release-iphonesimulator/Bola.app/bubble1.caf bubble1.caf
+cCpResource build/Release-iphonesimulator/Bola.app/default.png default.png
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bola_Prefix-auxkduwgcpfcfieblfsmgsqdxyfp/Bola_Prefix.pch.gch Bola_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/BolaAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/BolaViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/BolaViewController.xib
+c000000004C1FF4910000000000001D3C
+t1277162641
+s7484
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Bola_Prefix.pch
+c000000004C1FABF100000000000000B1
+t1277144049
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaAppDelegate.h
+c000000004C1FABF100000000000001C5
+t1277144049
+s453
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaAppDelegate.m
+c000000004C1FF93E0000000000000253
+t1277163838
+s595
+i"BolaAppDelegate.h"
+i"BolaViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.h
+c000000004C1FB94D0000000000000276
+t1277147469
+s630
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m
+c000000004C34C8E20000000000000C0E
+t1278527714
+s3086
+i"BolaViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/MainWindow.xib
+c000000004C1FFA3A00000000000022AE
+t1277164090
+s8878
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/bubble1.caf
+c000000004C1FEFC30000000000000E9A
+t1277161411
+s3738
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/Bola.LinkFileList
+c000000004CB9DA6D000000000000025C
+t1287248493
+s604
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/BolaAppDelegate.o
+t1287248495
+s45996
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/BolaViewController.o
+t1287248495
+s51596
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/main.o
+t1287248494
+s6440
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app
+t1287248495
+s340
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app.dSYM
+t1287248495
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola
+t1287248495
+s19204
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/BolaViewController.nib
+t1287248493
+s1102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Info.plist
+t1287248493
+s616
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/MainWindow.nib
+t1287248493
+s1119
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/PkgInfo
+t1287248493
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/bubble1.caf
+t1287248493
+s3738
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/default.png
+t1287248493
+s8383
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/trackball.png
+t1287248493
+s16223
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/default.png
+c000000004C1FF27200000000000020BF
+t1277162098
+s8383
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/main.m
+c000000004C1FABF1000000000000015E
+t1277144049
+s350
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/trackball.png
+c000000004A8B47910000000000003F5F
+t1250641809
+s16223
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bola_Prefix-auxkduwgcpfcfieblfsmgsqdxyfp/Bola_Prefix.pch.gch
+t1287248494
+s14896144
+
+NBola-Info.plist
+c000000004C1FE8230000000000000398
+t1277159459
+s920
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308941293#308941293#0(0"0(0#1#0"8610901632#0"0#
+
+CCompileC build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/BolaAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941294.577014
+e308941295.012490
+r1
+xCompileC
+xbuild/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/BolaAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@147"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaAppDelegate.m308941294#308941295#0(0"0(0#0#139"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaAppDelegate.m8606278176#2753"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bola_Prefix-auxkduwgcpfcfieblfsmgsqdxyfp/Bola_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/BolaAppDelegate.o"0#
+
+CCompileC build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/BolaViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941294.641816
+e308941295.082871
+r1
+xCompileC
+xbuild/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/BolaViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m: In function '-[BolaViewController viewDidLoad]':
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m:80: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)
+lSLF07#2@150"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m308941294#308941295#0(562"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m: In function '-[BolaViewController viewDidLoad]':/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m:80: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)1(22@212"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)308941294#193#369#0(6@142"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m300220514#80#0#80#0#33"'*' is deprecated (declared at *)0(0#0#142"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m8609625568#2759"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bola_Prefix-auxkduwgcpfcfieblfsmgsqdxyfp/Bola_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Classes/BolaViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/BolaViewController.o"0#
+
+CCompileC build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941294.575477
+e308941294.641664
+r1
+xCompileC
+xbuild/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/main.m308941294#308941294#0(0"0(0#0#120"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/main.m8610672512#2723"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bola_Prefix-auxkduwgcpfcfieblfsmgsqdxyfp/Bola_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/BolaViewController.xib"
+s308941293.232101
+e308941293.669629
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/BolaViewController.xib
+lSLF07#2@33"CompileXIB BolaViewController.xib308941293#308941293#0(0"0(0#0#136"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/BolaViewController.xib8621619936#816"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/BolaViewController.nib" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/BolaViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/MainWindow.xib"
+s308941293.231323
+e308941293.762496
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308941293#308941293#0(0"0(0#0#128"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/MainWindow.xib8605952608#800"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/MainWindow.nib" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Release-iphonesimulator/Bola.app/bubble1.caf bubble1.caf
+s308941293.671121
+e308941293.729690
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Bola.app/bubble1.caf
+xbubble1.caf
+lSLF07#2@16"Copy bubble1.caf308941293#308941293#0(0"0(0#0#125"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/bubble1.caf8590109472#706"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/bubble1.caf" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app"0#
+
+CCpResource build/Release-iphonesimulator/Bola.app/default.png default.png
+s308941293.672834
+e308941293.731151
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Bola.app/default.png
+xdefault.png
+lSLF07#2@16"Copy default.png308941293#308941293#0(0"0(0#0#125"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/default.png8608253120#706"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/default.png" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app"0#
+
+CCpResource build/Release-iphonesimulator/Bola.app/trackball.png trackball.png
+s308941293.669884
+e308941293.729538
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Bola.app/trackball.png
+xtrackball.png
+lSLF07#2@18"Copy trackball.png308941293#308941293#0(0"0(0#0#127"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/trackball.png8602037152#708"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/trackball.png" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app"0#
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola"
+s308941295.111333
+e308941295.129828
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola
+lSLF07#2@104"GenerateDSYMFile build/Release-iphonesimulator/Bola.app.dSYM build/Release-iphonesimulator/Bola.app/Bola308941295#308941295#0(0"0(0#0#157"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola8609427968#609"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola" normal i386
+s308941295.082970
+e308941295.111200
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola
+xnormal
+xi386
+lSLF07#2@162"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola308941295#308941295#0(0"0(0#0#0"8598747744#1302"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Objects-normal/i386/Bola.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Bola"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Info.plist" Bola-Info.plist
+s308941293.226999
+e308941293.231224
+r1
+xProcessInfoPlistFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Info.plist
+xBola-Info.plist
+lSLF07#2@23"Process Bola-Info.plist308941293#308941293#0(0"0(0#0#129"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Bola-Info.plist8599860928#705"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Bola-Info.plist -genpkginfo "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app/Info.plist"0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bola_Prefix-auxkduwgcpfcfieblfsmgsqdxyfp/Bola_Prefix.pch.gch Bola_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941293.762616
+e308941294.575329
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bola_Prefix-auxkduwgcpfcfieblfsmgsqdxyfp/Bola_Prefix.pch.gch
+xBola_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Bola_Prefix.pch308941293#308941294#0(0"0(0#0#129"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Bola_Prefix.pch8610152608#2539"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/Bola-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Bola.build/Release-iphonesimulator/Bola.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/Bola_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bola_Prefix-auxkduwgcpfcfieblfsmgsqdxyfp/Bola_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app"
+s308941295.129919
+e308941295.133211
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app
+lSLF07#2@158"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app308941295#308941295#0(0"0(0#0#0"8605776256#431"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/02.Usando_Acelerometro_2/Ejercicios/Bola/build/Release-iphonesimulator/Bola.app"0#
+

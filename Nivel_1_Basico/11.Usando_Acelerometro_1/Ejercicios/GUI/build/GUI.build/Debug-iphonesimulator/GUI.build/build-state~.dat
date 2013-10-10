@@ -1,0 +1,277 @@
+TGUI
+v7
+r0
+t308940908.737787
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/Info.plist" GUI-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/GUIViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GUI_Prefix-gcdjjgzwubiephagmikdpmbgiqun/GUI_Prefix.pch.gch GUI_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUIAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUIViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIAppDelegate.h
+c000000004C1CB89800000000000001BF
+t1276950680
+s447
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIAppDelegate.m
+c000000004C1CB898000000000000024E
+t1276950680
+s590
+i"GUIAppDelegate.h"
+i"GUIViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIViewController.h
+c000000004C1CB89800000000000000DA
+t1276950680
+s218
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIViewController.m
+c000000004C1CBA0700000000000005AA
+t1276951047
+s1450
+i"GUIViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/GUIViewController.xib
+c000000004C1CBA650000000000002740
+t1276951141
+s10048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/GUI_Prefix.pch
+c000000004C1CB89800000000000000AF
+t1276950680
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/MainWindow.xib
+c000000004C1CB89800000000000023E9
+t1276950680
+s9193
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app
+t1287248108
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app.dSYM
+t1287248108
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI
+t1287248108
+s16496
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUIViewController.nib
+t1276951145
+s3088
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/Info.plist
+t1276950941
+s546
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/MainWindow.nib
+t1276950942
+s1485
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/PkgInfo
+t1276950941
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUI.LinkFileList
+c000000004CB9D8EA000000000000023F
+t1287248106
+s575
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUIAppDelegate.o
+t1287248108
+s45252
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUIViewController.o
+t1287248108
+s34976
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/main.o
+t1287248108
+s6444
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/main.m
+c000000004C1CB898000000000000015D
+t1276950680
+s349
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GUI_Prefix-gcdjjgzwubiephagmikdpmbgiqun/GUI_Prefix.pch.gch
+t1287248107
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GUI_Prefix-hgzckavtxsxrsmfciwkijopclzvn/GUI_Prefix.pch.gch
+t2
+s0
+
+NGUI-Info.plist
+c000000004C1CB898000000000000038D
+t1276950680
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308940906#308940906#0(0"0(0#1#0"8626286176#0"0#
+
+CCompileC build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUIAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940908.383276
+e308940908.560199
+r1
+xCompileC
+xbuild/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUIAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@141"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIAppDelegate.m308940908#308940908#0(0"0(0#0#133"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIAppDelegate.m8605850080#2641"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GUI_Prefix-gcdjjgzwubiephagmikdpmbgiqun/GUI_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUIAppDelegate.o"0#
+
+CCompileC build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUIViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940908.560938
+e308940908.624979
+r1
+xCompileC
+xbuild/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUIViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@144"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIViewController.m308940908#308940908#0(0"0(0#0#136"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIViewController.m8590206944#2647"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GUI_Prefix-gcdjjgzwubiephagmikdpmbgiqun/GUI_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/Classes/GUIViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUIViewController.o"0#
+
+CCompileC build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940908.381877
+e308940908.562382
+r1
+xCompileC
+xbuild/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/main.m308940908#308940908#0(0"0(0#0#115"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/main.m8608339424#2613"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GUI_Prefix-gcdjjgzwubiephagmikdpmbgiqun/GUI_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/GUIViewController.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/MainWindow.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI"
+s308940908.682551
+e308940908.734723
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/GUI.app.dSYM build/Debug-iphonesimulator/GUI.app/GUI308940908#308940908#0(0"0(0#0#148"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI8600299424#587"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI" normal i386
+s308940908.625086
+e308940908.682443
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI
+xnormal
+xi386
+lSLF07#2@153"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI308940908#308940908#0(0"0(0#0#0"8600174432#1240"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/Objects-normal/i386/GUI.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/GUI"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app/Info.plist" GUI-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GUI_Prefix-gcdjjgzwubiephagmikdpmbgiqun/GUI_Prefix.pch.gch GUI_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940906.889885
+e308940908.381739
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GUI_Prefix-gcdjjgzwubiephagmikdpmbgiqun/GUI_Prefix.pch.gch
+xGUI_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile GUI_Prefix.pch308940906#308940908#0(0"0(0#0#123"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/GUI_Prefix.pch8624482400#2437"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/GUI-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/GUI.build/Debug-iphonesimulator/GUI.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/GUI_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GUI_Prefix-gcdjjgzwubiephagmikdpmbgiqun/GUI_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GUI_Prefix-hgzckavtxsxrsmfciwkijopclzvn/GUI_Prefix.pch.gch GUI_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app"
+s308940908.734966
+e308940908.737744
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app
+lSLF07#2@150"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app308940908#308940908#0(0"0(0#0#0"8621545088#418"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/GUI/build/Debug-iphonesimulator/GUI.app"0#
+

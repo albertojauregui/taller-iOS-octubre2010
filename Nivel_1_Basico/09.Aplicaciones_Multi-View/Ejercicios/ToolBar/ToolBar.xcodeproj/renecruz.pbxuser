@@ -1,0 +1,142 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ToolBar */ = {
+		activeExec = 0;
+		executables = (
+			68AE00C011CCD5760034A04B /* ToolBar */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ToolBarViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{223, 41}";
+			sepNavVisRange = "{0, 273}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ToolBarViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {628, 988}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRange = "{0, 524}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68AE00C011CCD5760034A04B /* ToolBar */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ToolBar */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ToolBar */,
+		);
+		codeSenseManager = 68AE00CE11CCD57A0034A04B /* Code sense */;
+		executables = (
+			68AE00C011CCD5760034A04B /* ToolBar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308940615;
+			PBXWorkspaceStateSaveDate = 308940615;
+		};
+		perUserProjectItems = {
+			6837C2FF1208BC840065847A /* PBXTextBookmark */ = 6837C2FF1208BC840065847A /* PBXTextBookmark */;
+			6837C3011208BC840065847A /* PBXTextBookmark */ = 6837C3011208BC840065847A /* PBXTextBookmark */;
+			688A6DED126A0F6800285EB4 /* PBXTextBookmark */ = 688A6DED126A0F6800285EB4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68AE00CD11CCD57A0034A04B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6837C2FF1208BC840065847A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ToolBarViewController.h */;
+		name = "ToolBarViewController.h: 14";
+		rLen = 41;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 273;
+		vrLoc = 0;
+	};
+	6837C3011208BC840065847A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ToolBarViewController.m */;
+		name = "ToolBarViewController.m: 14";
+		rLen = 0;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 0;
+	};
+	688A6DED126A0F6800285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ToolBarViewController.m */;
+		name = "ToolBarViewController.m: 14";
+		rLen = 0;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	68AE00C011CCD5760034A04B /* ToolBar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ToolBar;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68AE00CD11CCD57A0034A04B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68AE00CE11CCD57A0034A04B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

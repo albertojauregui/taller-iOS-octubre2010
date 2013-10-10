@@ -1,0 +1,240 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* BolaAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 322}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 453}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BolaAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 490}}";
+			sepNavSelRange = "{411, 0}";
+			sepNavVisRange = "{37, 476}";
+			sepNavWindowFrame = "{{15, 376}, {922, 397}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Bola */ = {
+		activeExec = 0;
+		executables = (
+			68C6423F11CFE37100AAE01D /* Bola */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BolaViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 378}}";
+			sepNavSelRange = "{381, 242}";
+			sepNavVisRange = "{85, 545}";
+			sepNavWindowFrame = "{{61, 302}, {922, 397}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BolaViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1638}}";
+			sepNavSelRange = "{1917, 0}";
+			sepNavVisRange = "{1546, 804}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 68C6423F11CFE37100AAE01D /* Bola */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Bola */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Bola */,
+		);
+		codeSenseManager = 68C6424611CFE37900AAE01D /* Code sense */;
+		executables = (
+			68C6423F11CFE37100AAE01D /* Bola */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					467.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					537,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308941266;
+			PBXWorkspaceStateSaveDate = 308941266;
+		};
+		perUserProjectItems = {
+			688A6F2A126A125400285EB4 /* XCBuildMessageTextBookmark */ = 688A6F2A126A125400285EB4 /* XCBuildMessageTextBookmark */;
+			688A6F2F126A126900285EB4 /* PBXTextBookmark */ = 688A6F2F126A126900285EB4 /* PBXTextBookmark */;
+			68B58E2211D02A4E00058B6F /* PlistBookmark */ = 68B58E2211D02A4E00058B6F /* PlistBookmark */;
+			68B58E3911D02B4300058B6F /* PBXBookmark */ = 68B58E3911D02B4300058B6F /* PBXBookmark */;
+			68B58E6C11D0306500058B6F /* PBXTextBookmark */ = 68B58E6C11D0306500058B6F /* PBXTextBookmark */;
+			68B58E7211D030C500058B6F /* PBXTextBookmark */ = 68B58E7211D030C500058B6F /* PBXTextBookmark */;
+			68D1EF8011E502C0005B639A /* PBXBookmark */ = 68D1EF8011E502C0005B639A /* PBXBookmark */;
+			68D1EF8111E502C0005B639A /* PBXTextBookmark */ = 68D1EF8111E502C0005B639A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68C6424511CFE37900AAE01D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	688A6F2A126A125400285EB4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:267)";
+		fRef = 28D7ACF70DDB3853001CB0EB /* BolaViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 79;
+		rType = 1;
+	};
+	688A6F2F126A126900285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BolaViewController.m */;
+		name = "BolaViewController.m: 80";
+		rLen = 0;
+		rLoc = 1917;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 1546;
+	};
+	68B58E2211D02A4E00058B6F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Bola-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/renecruz/Desktop/Bola/Bola-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	68B58E3911D02B4300058B6F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6806D90B11D02A1000244AA0 /* default.png */;
+	};
+	68B58E6C11D0306500058B6F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BolaAppDelegate.h */;
+		name = "BolaAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 0;
+	};
+	68B58E7211D030C500058B6F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BolaAppDelegate.m */;
+		name = "BolaAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 411;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 37;
+	};
+	68C6423F11CFE37100AAE01D /* Bola */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Bola;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68C6424511CFE37900AAE01D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68C6424611CFE37900AAE01D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68D1EF8011E502C0005B639A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 68C6424711CFE39400AAE01D /* trackball.png */;
+	};
+	68D1EF8111E502C0005B639A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BolaViewController.h */;
+		name = "BolaViewController.h: 19";
+		rLen = 242;
+		rLoc = 381;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 85;
+	};
+}

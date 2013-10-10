@@ -1,0 +1,229 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CeldaEditableAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 280}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 452}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CeldaEditableAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 624}}";
+			sepNavSelRange = "{692, 0}";
+			sepNavVisRange = "{592, 246}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CeldaEditable */ = {
+		activeExec = 0;
+		executables = (
+			68B86DD111D3469F0096938C /* CeldaEditable */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{160, 0}";
+			sepNavVisRange = "{0, 368}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {900, 2688}}";
+			sepNavSelRange = "{3270, 0}";
+			sepNavVisRange = "{5001, 300}";
+			sepNavWindowFrame = "{{38, 355}, {922, 397}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68B86DD111D3469F0096938C /* CeldaEditable */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CeldaEditable */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CeldaEditable */,
+		);
+		codeSenseManager = 68B86DE511D346A80096938C /* Code sense */;
+		executables = (
+			68B86DD111D3469F0096938C /* CeldaEditable */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					231,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308943900;
+			PBXWorkspaceStateSaveDate = 308943900;
+		};
+		perUserProjectItems = {
+			688A70F7126A1CF200285EB4 /* PBXTextBookmark */ = 688A70F7126A1CF200285EB4 /* PBXTextBookmark */;
+			688A70F8126A1CF200285EB4 /* XCBuildMessageTextBookmark */ = 688A70F8126A1CF200285EB4 /* XCBuildMessageTextBookmark */;
+			688A710B126A1D6000285EB4 /* PBXTextBookmark */ = 688A710B126A1D6000285EB4 /* PBXTextBookmark */;
+			68CCF59B11D3CE890054DE3B /* PBXTextBookmark */ = 68CCF59B11D3CE890054DE3B /* PBXTextBookmark */;
+			68CCF59C11D3CE890054DE3B /* PBXTextBookmark */ = 68CCF59C11D3CE890054DE3B /* PBXTextBookmark */;
+			68CCF59D11D3CE890054DE3B /* PBXTextBookmark */ = 68CCF59D11D3CE890054DE3B /* PBXTextBookmark */;
+			68CCF59E11D3CE890054DE3B /* PBXTextBookmark */ = 68CCF59E11D3CE890054DE3B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68B86DE411D346A80096938C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	688A70F7126A1CF200285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CeldaEditableAppDelegate.m */;
+		name = "CeldaEditableAppDelegate.m: 35";
+		rLen = 0;
+		rLoc = 692;
+		rType = 0;
+		vrLen = 246;
+		vrLoc = 592;
+	};
+	688A70F8126A1CF200285EB4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'initWithFrame:reuseIdentifier:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:189)";
+		fRef = 68B86DF711D34A6A0096938C /* MiCelda.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 15;
+		rType = 1;
+	};
+	688A710B126A1D6000285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68B86DF711D34A6A0096938C /* MiCelda.m */;
+		name = "MiCelda.m: 9";
+		rLen = 0;
+		rLoc = 146;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 83;
+	};
+	68B86DD111D3469F0096938C /* CeldaEditable */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CeldaEditable;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68B86DE411D346A80096938C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68B86DE511D346A80096938C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68B86DF611D34A6A0096938C /* MiCelda.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 294}}";
+			sepNavSelRange = "{303, 0}";
+			sepNavVisRange = "{17, 479}";
+		};
+	};
+	68B86DF711D34A6A0096938C /* MiCelda.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 611}}";
+			sepNavSelRange = "{352, 0}";
+			sepNavVisRange = "{154, 330}";
+			sepNavWindowFrame = "{{61, 334}, {922, 397}}";
+		};
+	};
+	68CCF59B11D3CE890054DE3B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68B86DF611D34A6A0096938C /* MiCelda.h */;
+		name = "MiCelda.h: 15";
+		rLen = 0;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 17;
+	};
+	68CCF59C11D3CE890054DE3B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 128";
+		rLen = 0;
+		rLoc = 3270;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 5001;
+	};
+	68CCF59D11D3CE890054DE3B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 9";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	68CCF59E11D3CE890054DE3B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CeldaEditableAppDelegate.h */;
+		name = "CeldaEditableAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 0;
+	};
+}

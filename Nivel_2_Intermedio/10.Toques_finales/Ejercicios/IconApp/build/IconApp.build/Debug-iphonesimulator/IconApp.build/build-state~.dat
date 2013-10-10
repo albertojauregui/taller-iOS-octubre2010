@@ -1,0 +1,275 @@
+TIconApp
+v7
+r0
+t308945750.638363
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/Info.plist" IconApp-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/IconAppViewController.xib"
+cCpResource build/Debug-iphonesimulator/IconApp.app/Icon.png Icon.png
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IconApp_Prefix-earslcnzkmgsxugavzhmpbjtaayj/IconApp_Prefix.pch.gch IconApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconAppAppDelegate.o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconAppViewController.o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app.dSYM" "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp"
+cTouch "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppAppDelegate.h
+c000000004CB9EB6500000000000001E1
+t1287252837
+s481
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppAppDelegate.m
+c000000004CB9EB650000000000000A8D
+t1287252837
+s2701
+i"IconAppAppDelegate.h"
+i"IconAppViewController.h"
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppViewController.h
+c000000004CB9EB6500000000000000F0
+t1287252837
+s240
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppViewController.m
+c000000004CB9EB6500000000000005BB
+t1287252837
+s1467
+i"IconAppViewController.h"
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Icon.png
+c000000004C2035B6000000000000EB35
+t1277179318
+s60213
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/IconAppViewController.xib
+c000000004CB9EB650000000000001A45
+t1287252837
+s6725
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/IconApp_Prefix.pch
+c000000004CB9EB6500000000000000B7
+t1287252837
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/MainWindow.xib
+c000000004CB9EB650000000000004E29
+t1287252837
+s20009
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app
+t1287252950
+s272
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app.dSYM
+t1287252950
+s102
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/Icon.png
+t1287252949
+s60213
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp
+t1287252950
+s17188
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconAppViewController.nib
+t1287252949
+s795
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/Info.plist
+t1287252949
+s591
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/MainWindow.nib
+t1287252949
+s1123
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/PkgInfo
+t1287252949
+s8
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconApp.LinkFileList
+c000000004CB9EBD500000000000001C9
+t1287252949
+s457
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconAppAppDelegate.o
+t1287252950
+s47772
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconAppViewController.o
+t1287252950
+s34436
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/main.o
+t1287252950
+s6344
+
+N/Users/renecruz/iPhone Development/iPhone Projects/IconApp/main.m
+c000000004CB9EB65000000000000016B
+t1287252837
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IconApp_Prefix-earslcnzkmgsxugavzhmpbjtaayj/IconApp_Prefix.pch.gch
+t1287252950
+s15232016
+
+NIconApp-Info.plist
+c000000004CB9EB65000000000000038D
+t1287252837
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308945749#308945749#0(0"0(0#1#0"8636794528#0"0#
+
+CCompileC build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconAppAppDelegate.o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945750.463067
+e308945750.551859
+r1
+xCompileC
+xbuild/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconAppAppDelegate.o
+x/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppAppDelegate.m308945750#308945750#0(0"0(0#0#87"/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppAppDelegate.m8659626176#2179"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IconApp_Prefix-earslcnzkmgsxugavzhmpbjtaayj/IconApp_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppAppDelegate.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconAppAppDelegate.o"0#
+
+CCompileC build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconAppViewController.o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945750.523008
+e308945750.587114
+r1
+xCompileC
+xbuild/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconAppViewController.o
+x/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppViewController.m308945750#308945750#0(0"0(0#0#90"/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppViewController.m8654761248#2185"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IconApp_Prefix-earslcnzkmgsxugavzhmpbjtaayj/IconApp_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Classes/IconAppViewController.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconAppViewController.o"0#
+
+CCompileC build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945750.460711
+e308945750.522898
+r1
+xCompileC
+xbuild/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/iPhone Projects/IconApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/renecruz/iPhone Development/iPhone Projects/IconApp/main.m308945750#308945750#0(0"0(0#0#65"/Users/renecruz/iPhone Development/iPhone Projects/IconApp/main.m8655472800#2143"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IconApp_Prefix-earslcnzkmgsxugavzhmpbjtaayj/IconApp_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/main.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/IconAppViewController.xib"
+s308945749.258573
+e308945749.682631
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/iPhone Projects/IconApp/IconAppViewController.xib
+lSLF07#2@36"CompileXIB IconAppViewController.xib308945749#308945749#0(0"0(0#0#84"/Users/renecruz/iPhone Development/iPhone Projects/IconApp/IconAppViewController.xib8652709120#658"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconAppViewController.nib" "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/IconAppViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/MainWindow.xib"
+s308945749.257793
+e308945749.672305
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/iPhone Projects/IconApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308945749#308945749#0(0"0(0#0#73"/Users/renecruz/iPhone Development/iPhone Projects/IconApp/MainWindow.xib8653265824#636"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/MainWindow.nib" "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/IconApp.app/Icon.png Icon.png
+s308945749.672403
+e308945749.734146
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/IconApp.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png308945749#308945749#0(0"0(0#0#67"/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Icon.png8656522752#518"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/Icon.png" "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app"0#
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app.dSYM" "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp"
+s308945750.616039
+e308945750.634168
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app.dSYM
+x/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/IconApp.app.dSYM build/Debug-iphonesimulator/IconApp.app/IconApp308945750#308945750#0(0"0(0#0#106"/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp8653111232#449"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp" -o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp" normal i386
+s308945750.587213
+e308945750.615913
+r1
+xLd
+x/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp
+xnormal
+xi386
+lSLF07#2@111"Link /Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp308945750#308945750#0(0"0(0#0#0"8652651424#1010"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/Objects-normal/i386/IconApp.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/IconApp"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/Info.plist" IconApp-Info.plist
+s308945749.253579
+e308945749.257699
+r1
+xProcessInfoPlistFile
+x/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/Info.plist
+xIconApp-Info.plist
+lSLF07#2@26"Process IconApp-Info.plist308945749#308945749#0(0"0(0#0#77"/Users/renecruz/iPhone Development/iPhone Projects/IconApp/IconApp-Info.plist8654674592#545"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility IconApp-Info.plist -genpkginfo "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app/Info.plist"0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IconApp_Prefix-earslcnzkmgsxugavzhmpbjtaayj/IconApp_Prefix.pch.gch IconApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945749.734310
+e308945750.460599
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IconApp_Prefix-earslcnzkmgsxugavzhmpbjtaayj/IconApp_Prefix.pch.gch
+xIconApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile IconApp_Prefix.pch308945749#308945750#0(0"0(0#0#77"/Users/renecruz/iPhone Development/iPhone Projects/IconApp/IconApp_Prefix.pch8654336544#2013"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/IconApp-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/IconApp.build/Debug-iphonesimulator/IconApp.build/DerivedSources" -c "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/IconApp_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IconApp_Prefix-earslcnzkmgsxugavzhmpbjtaayj/IconApp_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app"
+s308945750.634256
+e308945750.638263
+r1
+xTouch
+x/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app
+lSLF07#2@104"Touch /Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app308945750#308945750#0(0"0(0#0#0"8626429568#322"    cd "/Users/renecruz/iPhone Development/iPhone Projects/IconApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/iPhone Projects/IconApp/build/Debug-iphonesimulator/IconApp.app"0#
+

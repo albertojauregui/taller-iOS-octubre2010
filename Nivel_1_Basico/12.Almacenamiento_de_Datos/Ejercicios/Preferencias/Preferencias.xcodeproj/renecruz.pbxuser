@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Preferencias */ = {
+		activeExec = 0;
+		executables = (
+			68E7177811CD007300E334B0 /* Preferencias */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PreferenciasViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {762, 399}}";
+			sepNavSelRange = "{293, 7}";
+			sepNavVisRange = "{0, 315}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PreferenciasViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {762, 988}}";
+			sepNavSelRange = "{999, 0}";
+			sepNavVisRange = "{692, 1009}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68E7177811CD007300E334B0 /* Preferencias */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Preferencias */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Preferencias */,
+		);
+		codeSenseManager = 68E7177F11CD007400E334B0 /* Code sense */;
+		executables = (
+			68E7177811CD007300E334B0 /* Preferencias */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					584,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308940967;
+			PBXWorkspaceStateSaveDate = 308940967;
+		};
+		perUserProjectItems = {
+			68788EA911E4EB460062F07A /* PBXTextBookmark */ = 68788EA911E4EB460062F07A /* PBXTextBookmark */;
+			68788EB011E4EB460062F07A /* PBXTextBookmark */ = 68788EB011E4EB460062F07A /* PBXTextBookmark */;
+			688A6E95126A112600285EB4 /* PBXTextBookmark */ = 688A6E95126A112600285EB4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68E7177E11CD007400E334B0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	68788EA911E4EB460062F07A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PreferenciasViewController.h */;
+		name = "PreferenciasViewController.h: 15";
+		rLen = 7;
+		rLoc = 293;
+		rType = 0;
+		vrLen = 315;
+		vrLoc = 0;
+	};
+	68788EB011E4EB460062F07A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PreferenciasViewController.m */;
+		name = "PreferenciasViewController.m: 39";
+		rLen = 0;
+		rLoc = 999;
+		rType = 0;
+		vrLen = 938;
+		vrLoc = 694;
+	};
+	688A6E95126A112600285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PreferenciasViewController.m */;
+		name = "PreferenciasViewController.m: 39";
+		rLen = 0;
+		rLoc = 999;
+		rType = 0;
+		vrLen = 1009;
+		vrLoc = 692;
+	};
+	68E7177811CD007300E334B0 /* Preferencias */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Preferencias;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68E7177E11CD007400E334B0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68E7177F11CD007400E334B0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107310486CEB800E47090 /* Preferencias-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 166}, {1006, 586}}";
+		};
+	};
+}

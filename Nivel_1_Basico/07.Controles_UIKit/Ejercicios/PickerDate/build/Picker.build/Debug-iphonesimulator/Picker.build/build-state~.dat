@@ -1,0 +1,277 @@
+TPicker
+v7
+r0
+t308940092.636962
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Info.plist" Picker-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/PickerViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picker_Prefix-eixkvvdegokjbaeqphujwgbtacba/Picker_Prefix.pch.gch Picker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/PickerAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/PickerViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerAppDelegate.h
+c000000004C19E94D00000000000001D1
+t1276766541
+s465
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerAppDelegate.m
+c000000004C19E94D000000000000025D
+t1276766541
+s605
+i"PickerAppDelegate.h"
+i"PickerViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerViewController.h
+c000000004C19E9ED000000000000014E
+t1276766701
+s334
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerViewController.m
+c000000004C19EB3D00000000000007DC
+t1276767037
+s2012
+i"PickerViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/MainWindow.xib
+c000000004C19E94D000000000000240A
+t1276766541
+s9226
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/PickerViewController.xib
+c000000004C19EA7E0000000000002CEF
+t1276766846
+s11503
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Picker_Prefix.pch
+c000000004C19E94D00000000000000B5
+t1276766541
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app
+t1287247292
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app.dSYM
+t1287247292
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Info.plist
+t1276766981
+s558
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/MainWindow.nib
+t1276766981
+s1493
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker
+t1287247292
+s17216
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/PickerViewController.nib
+t1276766981
+s2955
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/PkgInfo
+t1276766981
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/Picker.LinkFileList
+c000000004CB9D5BB000000000000025A
+t1287247291
+s602
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/PickerAppDelegate.o
+t1287247292
+s46276
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/PickerViewController.o
+t1287247292
+s44968
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/main.o
+t1287247292
+s6444
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/main.m
+c000000004C19E94D0000000000000160
+t1276766541
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picker_Prefix-bufxjvtzzhwfqyglyjcbygjlrcmi/Picker_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picker_Prefix-eixkvvdegokjbaeqphujwgbtacba/Picker_Prefix.pch.gch
+t1287247291
+s15232016
+
+NPicker-Info.plist
+c000000004C19E94D000000000000038D
+t1276766541
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308940091#308940091#0(0"0(0#1#0"8620951040#0"0#
+
+CCompileC build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/PickerAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940092.266549
+e308940092.391259
+r1
+xCompileC
+xbuild/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/PickerAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@145"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerAppDelegate.m308940092#308940092#0(0"0(0#0#137"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerAppDelegate.m8619017536#2718"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picker_Prefix-eixkvvdegokjbaeqphujwgbtacba/Picker_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/PickerAppDelegate.o"0#
+
+CCompileC build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/PickerViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940092.336834
+e308940092.444250
+r1
+xCompileC
+xbuild/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/PickerViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@148"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerViewController.m308940092#308940092#0(0"0(0#0#140"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerViewController.m8612304000#2724"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picker_Prefix-eixkvvdegokjbaeqphujwgbtacba/Picker_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Classes/PickerViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/PickerViewController.o"0#
+
+CCompileC build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940092.264164
+e308940092.336712
+r1
+xCompileC
+xbuild/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/main.m308940092#308940092#0(0"0(0#0#116"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/main.m8619923520#2684"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picker_Prefix-eixkvvdegokjbaeqphujwgbtacba/Picker_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/PickerViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker"
+s308940092.530849
+e308940092.633755
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Picker.app.dSYM build/Debug-iphonesimulator/Picker.app/Picker308940092#308940092#0(0"0(0#0#155"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker8605881920#599"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker" normal i386
+s308940092.444351
+e308940092.530738
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker
+xnormal
+xi386
+lSLF07#2@160"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker308940092#308940092#0(0"0(0#0#0"8608287104#1260"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Objects-normal/i386/Picker.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Picker"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app/Info.plist" Picker-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picker_Prefix-bufxjvtzzhwfqyglyjcbygjlrcmi/Picker_Prefix.pch.gch Picker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picker_Prefix-eixkvvdegokjbaeqphujwgbtacba/Picker_Prefix.pch.gch Picker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308940091.136899
+e308940092.264057
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picker_Prefix-eixkvvdegokjbaeqphujwgbtacba/Picker_Prefix.pch.gch
+xPicker_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Picker_Prefix.pch308940091#308940092#0(0"0(0#0#127"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Picker_Prefix.pch8619950560#2504"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/Picker-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Picker.build/Debug-iphonesimulator/Picker.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/Picker_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Picker_Prefix-eixkvvdegokjbaeqphujwgbtacba/Picker_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app"
+s308940092.633848
+e308940092.636781
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app
+lSLF07#2@154"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app308940092#308940092#0(0"0(0#0#0"8606666208#423"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/07.Controles_UIKit/Ejercicios/PickerDate/build/Debug-iphonesimulator/Picker.app"0#
+

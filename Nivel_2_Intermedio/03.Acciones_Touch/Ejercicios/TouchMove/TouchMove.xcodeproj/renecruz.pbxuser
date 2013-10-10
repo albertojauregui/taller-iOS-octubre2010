@@ -1,0 +1,220 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TouchMoveAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 422}}";
+			sepNavSelRange = "{290, 0}";
+			sepNavVisRange = "{0, 483}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TouchMove */ = {
+		activeExec = 0;
+		executables = (
+			68DE5D7C11D074950032FFC6 /* TouchMove */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TouchMoveViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {498, 364}}";
+			sepNavSelRange = "{227, 31}";
+			sepNavVisRange = "{145, 511}";
+			sepNavWindowFrame = "{{15, 376}, {922, 397}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TouchMoveViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 2041}}";
+			sepNavSelRange = "{1942, 490}";
+			sepNavVisRange = "{1778, 782}";
+			sepNavWindowFrame = "{{15, 376}, {922, 397}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 68DE5D7C11D074950032FFC6 /* TouchMove */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TouchMove */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TouchMove */,
+		);
+		codeSenseManager = 68DE5D8A11D0749A0032FFC6 /* Code sense */;
+		executables = (
+			68DE5D7C11D074950032FFC6 /* TouchMove */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					210.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					320,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					280,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308942241;
+			PBXWorkspaceStateSaveDate = 308942241;
+		};
+		perUserProjectItems = {
+			688A6F5B126A14C900285EB4 /* PBXTextBookmark */ = 688A6F5B126A14C900285EB4 /* PBXTextBookmark */;
+			688A6F67126A14E200285EB4 /* PlistBookmark */ = 688A6F67126A14E200285EB4 /* PlistBookmark */;
+			688A6FDF126A15AA00285EB4 /* PlistBookmark */ = 688A6FDF126A15AA00285EB4 /* PlistBookmark */;
+			68B725C711D096EE00064A49 /* PBXBookmark */ = 68B725C711D096EE00064A49 /* PBXBookmark */;
+			68B7260711D09B7300064A49 /* PBXTextBookmark */ = 68B7260711D09B7300064A49 /* PBXTextBookmark */;
+			68EE113911E18B8E006BE1AE /* PBXTextBookmark */ = 68EE113911E18B8E006BE1AE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68DE5D8911D0749A0032FFC6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	688A6F5B126A14C900285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TouchMoveViewController.m */;
+		name = "TouchMoveViewController.m: 52";
+		rLen = 490;
+		rLoc = 1942;
+		rType = 0;
+		vrLen = 782;
+		vrLoc = 1778;
+	};
+	688A6F67126A14E200285EB4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TouchMove-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/TouchMove-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	688A6FDF126A15AA00285EB4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TouchMove-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/03.Acciones_Touch/Ejercicios/TouchMove/TouchMove-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	68B725C711D096EE00064A49 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 68B725B511D0947C00064A49 /* nail.png */;
+	};
+	68B7260711D09B7300064A49 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TouchMoveAppDelegate.h */;
+		name = "TouchMoveAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 483;
+		vrLoc = 0;
+	};
+	68DE5D7C11D074950032FFC6 /* TouchMove */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TouchMove;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68DE5D8911D0749A0032FFC6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68DE5D8A11D0749A0032FFC6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68EE113911E18B8E006BE1AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TouchMoveViewController.h */;
+		name = "TouchMoveViewController.h: 12";
+		rLen = 31;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 145;
+	};
+}

@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Animacion */ = {
+		activeExec = 0;
+		executables = (
+			68636CD311CF4072009DE22A /* Animacion */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AnimacionViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 378}}";
+			sepNavSelRange = "{228, 307}";
+			sepNavVisRange = "{144, 399}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AnimacionViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1404}}";
+			sepNavSelRange = "{743, 44}";
+			sepNavVisRange = "{596, 436}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68636CD311CF4072009DE22A /* Animacion */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Animacion */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Animacion */,
+		);
+		codeSenseManager = 68636CDA11CF407A009DE22A /* Code sense */;
+		executables = (
+			68636CD311CF4072009DE22A /* Animacion */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308941175;
+			PBXWorkspaceStateSaveDate = 308941175;
+		};
+		perUserProjectItems = {
+			68636D1611CF43EC009DE22A /* PBXBookmark */ = 68636D1611CF43EC009DE22A /* PBXBookmark */;
+			688A6ED7126A119A00285EB4 /* PBXTextBookmark */ = 688A6ED7126A119A00285EB4 /* PBXTextBookmark */;
+			689E50CA12136D58003D09D9 /* PBXTextBookmark */ = 689E50CA12136D58003D09D9 /* PBXTextBookmark */;
+			68D1EEF311E4F799005B639A /* PBXTextBookmark */ = 68D1EEF311E4F799005B639A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68636CD911CF407A009DE22A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	68636CD311CF4072009DE22A /* Animacion */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Animacion;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68636CD911CF407A009DE22A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68636CDA11CF407A009DE22A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68636D1611CF43EC009DE22A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 68636CDB11CF40A2009DE22A /* amarilla.png */;
+	};
+	688A6ED7126A119A00285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AnimacionViewController.m */;
+		name = "AnimacionViewController.m: 34";
+		rLen = 44;
+		rLoc = 743;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 596;
+	};
+	689E50CA12136D58003D09D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AnimacionViewController.m */;
+		name = "AnimacionViewController.m: 34";
+		rLen = 44;
+		rLoc = 743;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 596;
+	};
+	68D1EEF311E4F799005B639A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AnimacionViewController.h */;
+		name = "AnimacionViewController.h: 13";
+		rLen = 307;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 144;
+	};
+}

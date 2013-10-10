@@ -1,0 +1,166 @@
+TMVCSample
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/Classes/MVCSampleAppDelegate.h
+c000000004C19C03500000000000001E3
+t1276756021
+s483
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/Classes/MVCSampleAppDelegate.m
+c000000004C19C035000000000000026C
+t1276756021
+s620
+i"MVCSampleAppDelegate.h"
+i"MVCSampleViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/Classes/MVCSampleViewController.h
+c000000004C19CB2500000000000001C7
+t1276758821
+s455
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/Classes/MVCSampleViewController.m
+c000000004C19CCC900000000000006FD
+t1276759241
+s1789
+i"MVCSampleViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/MVCSampleViewController.xib
+c000000004C19CC430000000000003CC5
+t1276759107
+s15557
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/MVCSample_Prefix.pch
+c000000004C19C03500000000000000BB
+t1276756021
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/MainWindow.xib
+c000000004C19C035000000000000242B
+t1276756021
+s9259
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/MVCSample.build/Release-iphonesimulator/MVCSample.build/Objects-normal/i386/MVCSample.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/MVCSample.build/Release-iphonesimulator/MVCSample.build/Objects-normal/i386/MVCSampleAppDelegate.o
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/MVCSample.build/Release-iphonesimulator/MVCSample.build/Objects-normal/i386/MVCSampleViewController.o
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/MVCSample.build/Release-iphonesimulator/MVCSample.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app.dSYM
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app/Info.plist
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app/MVCSample
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app/MVCSampleViewController.nib
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app/MainWindow.nib
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app/PkgInfo
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/main.m
+c000000004C19C0350000000000000163
+t1276756021
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MVCSample_Prefix-aiqwkrcwvkpooecbtccvzacrzqxg/MVCSample_Prefix.pch.gch
+t2
+s0
+
+NMVCSample-Info.plist
+c000000004C19C035000000000000038D
+t1276756021
+s909
+
+CCompileC build/MVCSample.build/Release-iphonesimulator/MVCSample.build/Objects-normal/i386/MVCSampleAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/Classes/MVCSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MVCSample.build/Release-iphonesimulator/MVCSample.build/Objects-normal/i386/MVCSampleViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/Classes/MVCSampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MVCSample.build/Release-iphonesimulator/MVCSample.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/MVCSampleViewController.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/MainWindow.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app/MVCSample"
+r0
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app/MVCSample" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app/Info.plist" MVCSample-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MVCSample_Prefix-aiqwkrcwvkpooecbtccvzacrzqxg/MVCSample_Prefix.pch.gch MVCSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/MVCSample/build/Release-iphonesimulator/MVCSample.app"
+r0
+

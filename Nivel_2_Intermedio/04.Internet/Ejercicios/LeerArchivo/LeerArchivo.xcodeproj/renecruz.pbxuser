@@ -1,0 +1,163 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* LeerArchivoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {607, 355}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 495}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* LeerArchivo */ = {
+		activeExec = 0;
+		executables = (
+			687F219311D1D9F70015C037 /* LeerArchivo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* LeerArchivoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {607, 355}}";
+			sepNavSelRange = "{287, 0}";
+			sepNavVisRange = "{0, 371}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* LeerArchivoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1235}}";
+			sepNavSelRange = "{1151, 0}";
+			sepNavVisRange = "{0, 756}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 687F219311D1D9F70015C037 /* LeerArchivo */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LeerArchivo */;
+		breakpoints = (
+		);
+		codeSenseManager = 687F21A011D1DA000015C037 /* Code sense */;
+		executables = (
+			687F219311D1D9F70015C037 /* LeerArchivo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					429,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308942339;
+			PBXWorkspaceStateSaveDate = 308942339;
+		};
+		perUserProjectItems = {
+			680C1B6011D58E1300043A54 /* PBXTextBookmark */ = 680C1B6011D58E1300043A54 /* PBXTextBookmark */;
+			687F21B311D1DEDA0015C037 /* PBXTextBookmark */ = 687F21B311D1DEDA0015C037 /* PBXTextBookmark */;
+			687F21B411D1DEDA0015C037 /* PBXTextBookmark */ = 687F21B411D1DEDA0015C037 /* PBXTextBookmark */;
+			688A7023126A162500285EB4 /* PBXTextBookmark */ = 688A7023126A162500285EB4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 687F219F11D1DA000015C037 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	680C1B6011D58E1300043A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LeerArchivoViewController.m */;
+		name = "LeerArchivoViewController.m: 39";
+		rLen = 0;
+		rLoc = 1151;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 0;
+	};
+	687F219311D1D9F70015C037 /* LeerArchivo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LeerArchivo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	687F219F11D1DA000015C037 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	687F21A011D1DA000015C037 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	687F21B311D1DEDA0015C037 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* LeerArchivoAppDelegate.h */;
+		name = "LeerArchivoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 0;
+	};
+	687F21B411D1DEDA0015C037 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LeerArchivoViewController.h */;
+		name = "LeerArchivoViewController.h: 13";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 371;
+		vrLoc = 0;
+	};
+	688A7023126A162500285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LeerArchivoViewController.m */;
+		name = "LeerArchivoViewController.m: 39";
+		rLen = 0;
+		rLoc = 1151;
+		rType = 0;
+		vrLen = 756;
+		vrLoc = 0;
+	};
+}

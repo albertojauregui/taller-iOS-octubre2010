@@ -1,0 +1,289 @@
+TEmail
+v7
+r0
+t308945437.934450
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Info.plist" Email-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/EmailViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Email_Prefix-bxtjhkawdaqggvcoidydmzlfvuqc/Email_Prefix.pch.gch Email_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/EmailAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/EmailViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailAppDelegate.h
+c000000004C24A86A00000000000001CB
+t1277470826
+s459
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailAppDelegate.m
+c000000004C24A86A0000000000000258
+t1277470826
+s600
+i"EmailAppDelegate.h"
+i"EmailViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailViewController.h
+c000000004C24A9D900000000000001E5
+t1277471193
+s485
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailViewController.m
+c000000004CB9EA9B0000000000000831
+t1287252635
+s2097
+i"EmailViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/EmailViewController.xib
+c000000004C24AD0800000000000040E3
+t1277472008
+s16611
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Email_Prefix.pch
+c000000004C24A86A00000000000000B3
+t1277470826
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/MainWindow.xib
+c000000004C24A86A00000000000023FF
+t1277470826
+s9215
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app
+t1287252637
+s272
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app.dSYM
+t1287252637
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email
+t1287252637
+s17944
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/EmailViewController.nib
+t1277472265
+s4032
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Info.plist
+t1277472265
+s593
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/MainWindow.nib
+t1277471359
+s1491
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/PkgInfo
+t1277472265
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/default.png
+t1277472265
+s55146
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/Email.LinkFileList
+c000000004CB9EA8A0000000000000270
+t1287252618
+s624
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/EmailAppDelegate.o
+t1287252619
+s45432
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/EmailViewController.o
+t1287252637
+s44520
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/main.o
+t1287252619
+s6464
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/default.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/main.m
+c000000004C24A86A000000000000015F
+t1277470826
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Email_Prefix-bxtjhkawdaqggvcoidydmzlfvuqc/Email_Prefix.pch.gch
+t1287252619
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Email_Prefix-dsinkimmdjvhkhbngkkrhuwypdfy/Email_Prefix.pch.gch
+t2
+s0
+
+NEmail-Info.plist
+c000000004C24AB200000000000000398
+t1277471520
+s920
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308945437#308945437#0(0"0(0#1#0"8655862688#0"0#
+
+CCompileC build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/EmailAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945419.468872
+e308945419.559988
+r1
+xCompileC
+xbuild/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/EmailAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@154"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailAppDelegate.m308945419#308945419#0(0"0(0#0#146"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailAppDelegate.m8646282816#2806"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Email_Prefix-bxtjhkawdaqggvcoidydmzlfvuqc/Email_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/EmailAppDelegate.o"0#
+
+CCompileC build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/EmailViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945437.740239
+e308945437.885061
+r1
+xCompileC
+xbuild/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/EmailViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@157"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailViewController.m308945437#308945437#0(0"0(0#0#149"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailViewController.m8626125920#2812"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Email_Prefix-bxtjhkawdaqggvcoidydmzlfvuqc/Email_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Classes/EmailViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/EmailViewController.o"0#
+
+CCompileC build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945419.467618
+e308945419.532285
+r1
+xCompileC
+xbuild/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@134"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/main.m308945419#308945419#0(0"0(0#0#126"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/main.m8646991808#2774"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Email_Prefix-bxtjhkawdaqggvcoidydmzlfvuqc/Email_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/EmailViewController.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/Email.app/default.png default.png
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email"
+s308945437.914367
+e308945437.931693
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Email.app.dSYM build/Debug-iphonesimulator/Email.app/Email308945437#308945437#0(0"0(0#0#163"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email8652967008#626"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email" normal i386
+s308945437.885164
+e308945437.914258
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email
+xnormal
+xi386
+lSLF07#2@168"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email308945437#308945437#0(0"0(0#0#0"8655059360#1305"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Objects-normal/i386/Email.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Email"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app/Info.plist" Email-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Email_Prefix-bxtjhkawdaqggvcoidydmzlfvuqc/Email_Prefix.pch.gch Email_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945418.679685
+e308945419.467497
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Email_Prefix-bxtjhkawdaqggvcoidydmzlfvuqc/Email_Prefix.pch.gch
+xEmail_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Email_Prefix.pch308945418#308945419#0(0"0(0#0#136"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Email_Prefix.pch8648369856#2585"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/Email-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Email.build/Debug-iphonesimulator/Email.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Email_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Email_Prefix-bxtjhkawdaqggvcoidydmzlfvuqc/Email_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Email_Prefix-dsinkimmdjvhkhbngkkrhuwypdfy/Email_Prefix.pch.gch Email_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app"
+s308945437.931787
+e308945437.934409
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app
+lSLF07#2@163"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app308945437#308945437#0(0"0(0#0#0"8651261856#442"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/build/Debug-iphonesimulator/Email.app"0#
+

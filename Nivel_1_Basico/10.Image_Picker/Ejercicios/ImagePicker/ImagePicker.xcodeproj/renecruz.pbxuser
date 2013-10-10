@@ -1,0 +1,143 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ImagePicker */ = {
+		activeExec = 0;
+		executables = (
+			68AE012711CCE0740034A04B /* ImagePicker */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ImagePickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 286}}";
+			sepNavSelRange = "{300, 64}";
+			sepNavVisRange = "{0, 445}";
+			sepNavWindowFrame = "{{15, 376}, {922, 397}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ImagePickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1157}}";
+			sepNavSelRange = "{993, 0}";
+			sepNavVisRange = "{829, 598}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68AE012711CCE0740034A04B /* ImagePicker */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ImagePicker */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ImagePicker */,
+		);
+		codeSenseManager = 68AE012F11CCE0770034A04B /* Code sense */;
+		executables = (
+			68AE012711CCE0740034A04B /* ImagePicker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308940663;
+			PBXWorkspaceStateSaveDate = 308940663;
+		};
+		perUserProjectItems = {
+			68694DEC1208C9130021C6FA /* PBXTextBookmark */ = 68694DEC1208C9130021C6FA /* PBXTextBookmark */;
+			68694DEE1208C9130021C6FA /* PBXTextBookmark */ = 68694DEE1208C9130021C6FA /* PBXTextBookmark */;
+			688A6E01126A0F8800285EB4 /* PBXTextBookmark */ = 688A6E01126A0F8800285EB4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68AE012E11CCE0770034A04B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	68694DEC1208C9130021C6FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ImagePickerViewController.h */;
+		name = "ImagePickerViewController.h: 13";
+		rLen = 64;
+		rLoc = 300;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	68694DEE1208C9130021C6FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ImagePickerViewController.m */;
+		name = "ImagePickerViewController.m: 28";
+		rLen = 443;
+		rLoc = 662;
+		rType = 0;
+		vrLen = 600;
+		vrLoc = 829;
+	};
+	688A6E01126A0F8800285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ImagePickerViewController.m */;
+		name = "ImagePickerViewController.m: 37";
+		rLen = 0;
+		rLoc = 993;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 829;
+	};
+	68AE012711CCE0740034A04B /* ImagePicker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ImagePicker;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68AE012E11CCE0770034A04B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68AE012F11CCE0770034A04B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

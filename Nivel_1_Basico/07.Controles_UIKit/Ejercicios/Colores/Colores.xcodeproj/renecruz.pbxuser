@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Colores */ = {
+		activeExec = 0;
+		executables = (
+			682F1F9911CA1D0D00413B53 /* Colores */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ColoresViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 390}}";
+			sepNavSelRange = "{410, 24}";
+			sepNavVisRange = "{0, 443}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ColoresViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 910}}";
+			sepNavSelRange = "{265, 0}";
+			sepNavVisRange = "{31, 918}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 682F1F9911CA1D0D00413B53 /* Colores */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Colores */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Colores */,
+		);
+		codeSenseManager = 682F1FA611CA1D1100413B53 /* Code sense */;
+		executables = (
+			682F1F9911CA1D0D00413B53 /* Colores */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308939779;
+			PBXWorkspaceStateSaveDate = 308939779;
+		};
+		perUserProjectItems = {
+			682F1FAF11CA1F5200413B53 /* PBXBookmark */ = 682F1FAF11CA1F5200413B53 /* PBXBookmark */;
+			688A6CBA126A0C1C00285EB4 /* PBXTextBookmark */ = 688A6CBA126A0C1C00285EB4 /* PBXTextBookmark */;
+			688E272F11E37D09007A4F91 /* PBXTextBookmark */ = 688E272F11E37D09007A4F91 /* PBXTextBookmark */;
+			68B2880E11D20C640041178C /* PBXTextBookmark */ = 68B2880E11D20C640041178C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 682F1FA511CA1D1100413B53 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	682F1F9911CA1D0D00413B53 /* Colores */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Colores;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	682F1FA511CA1D1100413B53 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	682F1FA611CA1D1100413B53 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	682F1FAF11CA1F5200413B53 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 682F1FA811CA1D2500413B53 /* background.jpeg */;
+	};
+	688A6CBA126A0C1C00285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ColoresViewController.m */;
+		name = "ColoresViewController.m: 15";
+		rLen = 0;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 918;
+		vrLoc = 31;
+	};
+	688E272F11E37D09007A4F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ColoresViewController.m */;
+		name = "ColoresViewController.m: 15";
+		rLen = 0;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 818;
+		vrLoc = 43;
+	};
+	68B2880E11D20C640041178C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ColoresViewController.h */;
+		name = "ColoresViewController.h: 19";
+		rLen = 24;
+		rLoc = 410;
+		rType = 0;
+		vrLen = 443;
+		vrLoc = 0;
+	};
+}

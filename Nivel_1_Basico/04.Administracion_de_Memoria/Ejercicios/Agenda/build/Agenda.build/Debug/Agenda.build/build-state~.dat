@@ -1,0 +1,124 @@
+TAgenda
+v7
+r0
+t308938357.064159
+cCheck dependencies
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-bszmwedmmzoucogqpehdlydffymw/Agenda_Prefix.pch.gch Agenda_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Agenda.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Agenda.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Contacto.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Contacto.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug/Agenda" normal i386
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C60525500000000000000EE
+t1281380949
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Agenda.m
+c000000004C190C810000000000000110
+t1276710017
+s272
+i<Foundation/Foundation.h>
+i"Contacto.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Agenda_Prefix.pch
+c000000004C190884000000000000009A
+t1276708996
+s154
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Contacto.h
+c000000004C190C170000000000000178
+t1276709911
+s376
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Contacto.m
+c000000004C190C0E000000000000019C
+t1276709902
+s412
+i"Contacto.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Agenda.LinkFileList
+c000000004CB9CEF20000000000000170
+t1287245554
+s368
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Agenda.o
+t1287245557
+s6284
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Contacto.o
+t1287245557
+s6640
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug/Agenda
+t1287245557
+s14148
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-bszmwedmmzoucogqpehdlydffymw/Agenda_Prefix.pch.gch
+t1287245556
+s41736176
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308938354#308938354#0(0"0(0#1#0"8609992032#0"0#
+
+CCompileC build/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Agenda.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Agenda.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938356.884213
+e308938357.014947
+r1
+xCompileC
+xbuild/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Agenda.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Agenda.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Agenda.m308938356#308938357#0(0"0(0#0#124"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Agenda.m8612785888#2295"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-bszmwedmmzoucogqpehdlydffymw/Agenda_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Agenda.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Agenda.o"0#
+
+CCompileC build/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Contacto.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Contacto.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938356.885635
+e308938357.030316
+r1
+xCompileC
+xbuild/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Contacto.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Contacto.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@134"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Contacto.m308938356#308938357#0(0"0(0#0#126"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Contacto.m8610175136#2299"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-bszmwedmmzoucogqpehdlydffymw/Agenda_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Contacto.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Contacto.o"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug/Agenda" normal i386
+s308938357.030416
+e308938357.064107
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug/Agenda
+xnormal
+xi386
+lSLF07#2@139"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug/Agenda308938357#308938357#0(0"0(0#0#0"8607826048#907"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Objects-normal/i386/Agenda.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug/Agenda"0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-bszmwedmmzoucogqpehdlydffymw/Agenda_Prefix.pch.gch Agenda_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938354.281151
+e308938356.884004
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-bszmwedmmzoucogqpehdlydffymw/Agenda_Prefix.pch.gch
+xAgenda_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Agenda_Prefix.pch308938354#308938356#0(0"0(0#0#133"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Agenda_Prefix.pch8600947200#2121"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/Agenda-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Debug/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/build/Agenda.build/Debug/Agenda.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/04.Administracion_de_Memoria/Ejercicios/Agenda/Agenda_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-bszmwedmmzoucogqpehdlydffymw/Agenda_Prefix.pch.gch0#
+

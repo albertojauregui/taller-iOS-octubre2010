@@ -1,0 +1,178 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Email */ = {
+		activeExec = 0;
+		executables = (
+			68424F9611D4DFEA0068AC76 /* Email */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* EmailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {611, 322}}";
+			sepNavSelRange = "{243, 235}";
+			sepNavVisRange = "{0, 485}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* EmailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 975}}";
+			sepNavSelRange = "{736, 0}";
+			sepNavVisRange = "{42, 817}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68424F9611D4DFEA0068AC76 /* Email */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Email */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Email */,
+		);
+		codeSenseManager = 68424FA411D4DFED0068AC76 /* Code sense */;
+		executables = (
+			68424F9611D4DFEA0068AC76 /* Email */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					433,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					393,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308945394;
+			PBXWorkspaceStateSaveDate = 308945394;
+		};
+		perUserProjectItems = {
+			68424FCF11D4E58A0068AC76 /* PlistBookmark */ = 68424FCF11D4E58A0068AC76 /* PlistBookmark */;
+			688A71DC126A221E00285EB4 /* XCBuildMessageTextBookmark */ = 688A71DC126A221E00285EB4 /* XCBuildMessageTextBookmark */;
+			688A71DE126A222700285EB4 /* PBXTextBookmark */ = 688A71DE126A222700285EB4 /* PBXTextBookmark */;
+			68F21BCF11D52709007782C1 /* PBXTextBookmark */ = 68F21BCF11D52709007782C1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68424FA311D4DFED0068AC76 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	68424F9611D4DFEA0068AC76 /* Email */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Email;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68424FA311D4DFED0068AC76 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68424FA411D4DFED0068AC76 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68424FCF11D4E58A0068AC76 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Email-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/renecruz/Downloads/Curso_iPhone/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Email/Email-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	688A71DC126A221E00285EB4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Format not a string literal and no format arguments";
+		fRef = 28D7ACF70DDB3853001CB0EB /* EmailViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 22;
+		rType = 1;
+	};
+	688A71DE126A222700285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EmailViewController.m */;
+		name = "EmailViewController.m: 23";
+		rLen = 0;
+		rLoc = 736;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 42;
+	};
+	68F21BCF11D52709007782C1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EmailViewController.h */;
+		name = "EmailViewController.h: 13";
+		rLen = 235;
+		rLoc = 243;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+}

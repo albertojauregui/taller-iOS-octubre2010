@@ -1,0 +1,337 @@
+TAudio
+v7
+r0
+t308941239.607725
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Info.plist" Audio-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/AudioViewController.xib"
+cCpResource build/Debug-iphonesimulator/Audio.app/blip.caf blip.caf
+cCpResource build/Debug-iphonesimulator/Audio.app/play.png play.png
+cCpResource build/Debug-iphonesimulator/Audio.app/bubble1.caf bubble1.caf
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Audio_Prefix-fegebhlvjmriaodobxticbxsbodo/Audio_Prefix.pch.gch Audio_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/AudioAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/AudioViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB0320000000000010F60
+t1242279986
+s69472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004A0BB0300000000000000ED7
+t1242279984
+s3799
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004C01F5AA0000000000001449
+t1275196842
+s5193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/AudioViewController.xib
+c000000004C1F18C600000000000022A9
+t1277106374
+s8873
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Audio_Prefix.pch
+c000000004C1F155A00000000000000B3
+t1277105498
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioAppDelegate.h
+c000000004C1F155A00000000000001CB
+t1277105498
+s459
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioAppDelegate.m
+c000000004C1F155A0000000000000258
+t1277105498
+s600
+i"AudioAppDelegate.h"
+i"AudioViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioViewController.h
+c000000004C1F1B1800000000000001D4
+t1277106968
+s468
+i<UIKit/UIKit.h>
+i<AVFoundation/AVAudioPlayer.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioViewController.m
+c000000004C1F35EF00000000000007F0
+t1277113839
+s2032
+i"AudioViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/MainWindow.xib
+c000000004C1F155A00000000000023FF
+t1277105498
+s9215
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/blip.caf
+c000000004AB06FC0000000000003F804
+t1253076928
+s260100
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/bubble1.caf
+c000000004C1F35A80000000000000E9A
+t1277113768
+s3738
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/Audio.LinkFileList
+c000000004CB9DA360000000000000255
+t1287248438
+s597
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/AudioAppDelegate.o
+t1287248439
+s45636
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/AudioViewController.o
+t1287248439
+s43248
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/main.o
+t1287248439
+s6448
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app
+t1287248439
+s340
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app.dSYM
+t1287248439
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio
+t1287248439
+s17844
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/AudioViewController.nib
+t1277106795
+s2216
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Info.plist
+t1277106794
+s554
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/MainWindow.nib
+t1277106795
+s1491
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/PkgInfo
+t1277106794
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/blip.caf
+t1277106795
+s260100
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/bubble1.caf
+t1277113826
+s3738
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/play.png
+t1277106795
+s2558
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/main.m
+c000000004C1F155A000000000000015F
+t1277105498
+s351
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/play.png
+c000000004C1F185B00000000000009FE
+t1277106267
+s2558
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Audio_Prefix-dvdggemnhrojnsdeelwkuhlpkygl/Audio_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Audio_Prefix-fegebhlvjmriaodobxticbxsbodo/Audio_Prefix.pch.gch
+t1287248439
+s15232016
+
+NAudio-Info.plist
+c000000004C1F155A000000000000038D
+t1277105498
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308941238#308941238#0(0"0(0#1#0"8629688992#0"0#
+
+CCompileC build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/AudioAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941239.315647
+e308941239.410342
+r1
+xCompileC
+xbuild/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/AudioAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@145"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioAppDelegate.m308941239#308941239#0(0"0(0#0#137"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioAppDelegate.m8608959680#2707"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Audio_Prefix-fegebhlvjmriaodobxticbxsbodo/Audio_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/AudioAppDelegate.o"0#
+
+CCompileC build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/AudioViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941239.381517
+e308941239.494118
+r1
+xCompileC
+xbuild/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/AudioViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@148"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioViewController.m308941239#308941239#0(0"0(0#0#140"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioViewController.m8605797568#2713"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Audio_Prefix-fegebhlvjmriaodobxticbxsbodo/Audio_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Classes/AudioViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/AudioViewController.o"0#
+
+CCompileC build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941239.314205
+e308941239.381400
+r1
+xCompileC
+xbuild/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/main.m308941239#308941239#0(0"0(0#0#117"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/main.m8610157088#2675"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Audio_Prefix-fegebhlvjmriaodobxticbxsbodo/Audio_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/AudioViewController.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/Audio.app/blip.caf blip.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/Audio.app/bubble1.caf bubble1.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/Audio.app/play.png play.png
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio"
+s308941239.559474
+e308941239.604892
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Audio.app.dSYM build/Debug-iphonesimulator/Audio.app/Audio308941239#308941239#0(0"0(0#0#154"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio8612539360#599"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio" normal i386
+s308941239.494213
+e308941239.559370
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio
+xnormal
+xi386
+lSLF07#2@159"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio308941239#308941239#0(0"0(0#0#0"8629976864#1284"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Objects-normal/i386/Audio.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Audio"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app/Info.plist" Audio-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Audio_Prefix-dvdggemnhrojnsdeelwkuhlpkygl/Audio_Prefix.pch.gch Audio_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Audio_Prefix-fegebhlvjmriaodobxticbxsbodo/Audio_Prefix.pch.gch Audio_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308941238.345453
+e308941239.314060
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Audio_Prefix-fegebhlvjmriaodobxticbxsbodo/Audio_Prefix.pch.gch
+xAudio_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Audio_Prefix.pch308941238#308941239#0(0"0(0#0#127"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Audio_Prefix.pch8627926240#2495"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/Audio-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Audio.build/Debug-iphonesimulator/Audio.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/Audio_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Audio_Prefix-fegebhlvjmriaodobxticbxsbodo/Audio_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app"
+s308941239.604987
+e308941239.607674
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app
+lSLF07#2@154"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app308941239#308941239#0(0"0(0#0#0"8610289504#424"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/01.Animacion_y_Audio/Ejercicios/Audio/build/Debug-iphonesimulator/Audio.app"0#
+

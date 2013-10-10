@@ -1,0 +1,334 @@
+TCeldaEditable
+v7
+r0
+t308944186.802664
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/Info.plist" CeldaEditable-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/RootViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-fwlgekigvjummyfsexuqqqsdvnop/CeldaEditable_Prefix.pch.gch CeldaEditable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/CeldaEditableAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/CeldaEditableAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/RootViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/MiCelda.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/MiCelda.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/CeldaEditable_Prefix.pch
+c000000004C230F1F000000000000014C
+t1277366047
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/CeldaEditableAppDelegate.h
+c000000004C230F1F00000000000001C4
+t1277366047
+s452
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/CeldaEditableAppDelegate.m
+c000000004C230F1F0000000000000346
+t1277366047
+s838
+i"CeldaEditableAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/MiCelda.h
+c000000004C232AB400000000000001F0
+t1277373108
+s496
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/MiCelda.m
+c000000004CB9E5DC00000000000004B1
+t1287251420
+s1201
+i"MiCelda.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/RootViewController.h
+c000000004C23284F0000000000000170
+t1277372495
+s368
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/RootViewController.m
+c000000004C232FCD00000000000014B6
+t1277374413
+s5302
+i"RootViewController.h"
+i"MiCelda.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/MainWindow.xib
+c000000004C230F1F0000000000002C40
+t1277366047
+s11328
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/RootViewController.xib
+c000000004C23228C0000000000001DF4
+t1277371020
+s7668
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/CeldaEditable.LinkFileList
+c000000004CB9E59F0000000000000379
+t1287251359
+s889
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/CeldaEditableAppDelegate.o
+t1287251361
+s47704
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/MiCelda.o
+t1287251386
+s42428
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/RootViewController.o
+t1287251361
+s45100
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/main.o
+t1287251361
+s6460
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app
+t1287251386
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app.dSYM
+t1287251386
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable
+t1287251386
+s25756
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/Info.plist
+t1287251359
+s615
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/MainWindow.nib
+t1287251360
+s1491
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/PkgInfo
+t1287251359
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/RootViewController.nib
+t1287251360
+s971
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/main.m
+c000000004C230F1F0000000000000167
+t1277366047
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-bsrtmdfnwwqtfqcqqqjqjyulzmjj/CeldaEditable_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-fwlgekigvjummyfsexuqqqsdvnop/CeldaEditable_Prefix.pch.gch
+t1287251361
+s15232016
+
+NCeldaEditable-Info.plist
+c000000004C230F1F000000000000038D
+t1277366047
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308944186#308944186#0(0"0(0#1#0"8641311488#0"0#
+
+CCompileC build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/CeldaEditableAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/CeldaEditableAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944161.549064
+e308944161.637810
+r1
+xCompileC
+xbuild/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/CeldaEditableAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/CeldaEditableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@160"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/CeldaEditableAppDelegate.m308944161#308944161#0(0"0(0#0#152"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/CeldaEditableAppDelegate.m8643854144#2960"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-fwlgekigvjummyfsexuqqqsdvnop/CeldaEditable_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/CeldaEditableAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/CeldaEditableAppDelegate.o"0#
+
+CCompileC build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/MiCelda.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/MiCelda.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944186.504695
+e308944186.701112
+r1
+xCompileC
+xbuild/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/MiCelda.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/MiCelda.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@143"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/MiCelda.m308944186#308944186#0(0"0(0#0#135"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/MiCelda.m8638469344#2926"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-fwlgekigvjummyfsexuqqqsdvnop/CeldaEditable_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/MiCelda.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/MiCelda.o"0#
+
+CCompileC build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/RootViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944161.610526
+e308944161.706855
+r1
+xCompileC
+xbuild/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/RootViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@154"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/RootViewController.m308944161#308944161#0(0"0(0#0#146"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/RootViewController.m8642775872#2948"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-fwlgekigvjummyfsexuqqqsdvnop/CeldaEditable_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/Classes/RootViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944161.547785
+e308944161.610407
+r1
+xCompileC
+xbuild/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/main.m308944161#308944161#0(0"0(0#0#124"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/main.m8616315040#2912"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-fwlgekigvjummyfsexuqqqsdvnop/CeldaEditable_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/MainWindow.xib"
+s308944159.789919
+e308944160.696160
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308944159#308944160#0(0"0(0#0#132"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/MainWindow.xib8632020704#819"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/MainWindow.nib" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/RootViewController.xib"
+s308944159.790903
+e308944160.703381
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib308944159#308944160#0(0"0(0#0#140"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/RootViewController.xib8643992512#835"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/RootViewController.nib" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable"
+s308944186.759125
+e308944186.779908
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/CeldaEditable.app.dSYM build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable308944186#308944186#0(0"0(0#0#177"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable8644578016#644"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable" normal i386
+s308944186.701212
+e308944186.759024
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable
+xnormal
+xi386
+lSLF07#2@182"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable308944186#308944186#0(0"0(0#0#0"8638892672#1335"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/Objects-normal/i386/CeldaEditable.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/CeldaEditable"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/Info.plist" CeldaEditable-Info.plist
+s308944159.769332
+e308944159.789814
+r1
+xProcessInfoPlistFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/Info.plist
+xCeldaEditable-Info.plist
+lSLF07#2@32"Process CeldaEditable-Info.plist308944159#308944159#0(0"0(0#0#142"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/CeldaEditable-Info.plist8616309920#740"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CeldaEditable-Info.plist -genpkginfo "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app/Info.plist"0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-bsrtmdfnwwqtfqcqqqjqjyulzmjj/CeldaEditable_Prefix.pch.gch CeldaEditable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-fwlgekigvjummyfsexuqqqsdvnop/CeldaEditable_Prefix.pch.gch CeldaEditable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944160.703510
+e308944161.546898
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-fwlgekigvjummyfsexuqqqsdvnop/CeldaEditable_Prefix.pch.gch
+xCeldaEditable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile CeldaEditable_Prefix.pch308944160#308944161#0(0"0(0#0#142"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/CeldaEditable_Prefix.pch8643548608#2717"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/CeldaEditable-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/CeldaEditable.build/Debug-iphonesimulator/CeldaEditable.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/CeldaEditable_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CeldaEditable_Prefix-fwlgekigvjummyfsexuqqqsdvnop/CeldaEditable_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app"
+s308944186.780000
+e308944186.802598
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app
+lSLF07#2@169"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app308944186#308944186#0(0"0(0#0#0"8642718592#446"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/06.Celdas_Editables/Ejercicios/CeldaEditable/build/Debug-iphonesimulator/CeldaEditable.app"0#
+

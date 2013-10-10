@@ -1,0 +1,389 @@
+TUtilityAppSample
+v7
+r0
+t308938767.215395
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/Info.plist" UtilityAppSample-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/FlipsideView.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/MainView.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/MainWindow.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch.gch UtilityAppSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/UtilityAppSampleAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/UtilityAppSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/FlipsideView.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/MainView.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/MainViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/FlipsideViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideView.h
+c000000004C19B77D00000000000000BA
+t1276753789
+s186
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideView.m
+c000000004C19B77D00000000000001BA
+t1276753789
+s442
+i"FlipsideView.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideViewController.h
+c000000004C19B77D000000000000020F
+t1276753789
+s527
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideViewController.m
+c000000004C19B77D000000000000044E
+t1276753789
+s1102
+i"FlipsideViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainView.h
+c000000004C19B77D00000000000000CA
+t1276753789
+s202
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainView.m
+c000000004C19B77D00000000000001AE
+t1276753789
+s430
+i"MainView.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainViewController.h
+c000000004C19B77D000000000000012A
+t1276753789
+s298
+i"FlipsideViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainViewController.m
+c000000004C19B77D00000000000007E6
+t1276753789
+s2022
+i"MainViewController.h"
+i"MainView.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/UtilityAppSampleAppDelegate.h
+c000000004C19B77D00000000000001CF
+t1276753789
+s463
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/UtilityAppSampleAppDelegate.m
+c000000004C19B77D0000000000000343
+t1276753789
+s835
+i"UtilityAppSampleAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/FlipsideView.xib
+c000000004C19B7B00000000000002492
+t1276753840
+s9362
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/MainView.xib
+c000000004C19B7F500000000000026F4
+t1276753909
+s9972
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/MainWindow.xib
+c000000004C19B77D0000000000001DFB
+t1276753789
+s7675
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/UtilityAppSample_Prefix.pch
+c000000004C19B77D0000000000000152
+t1276753789
+s338
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app
+t1287245967
+s272
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app.dSYM
+t1287245967
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/FlipsideView.nib
+t1276753912
+s1810
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/Info.plist
+t1276753911
+s604
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/MainView.nib
+t1276753912
+s2492
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/MainWindow.nib
+t1276753912
+s1388
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/PkgInfo
+t1276753911
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample
+t1287245967
+s21244
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/FlipsideView.o
+t1287245967
+s34520
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/FlipsideViewController.o
+t1287245967
+s37892
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/MainView.o
+t1287245967
+s34436
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/MainViewController.o
+t1287245967
+s38256
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/UtilityAppSample.LinkFileList
+c000000004CB9D08D00000000000005A1
+t1287245965
+s1441
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/UtilityAppSampleAppDelegate.o
+t1287245966
+s47320
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/main.o
+t1287245966
+s6480
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/main.m
+c000000004C19B77D000000000000016A
+t1276753789
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-afdrebipxyxcxpgsycziuyelewgd/UtilityAppSample_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch.gch
+t1287245966
+s15232016
+
+NUtilityAppSample-Info.plist
+c000000004C19B77D000000000000038D
+t1276753789
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308938765#308938765#0(0"0(0#1#0"8613225984#0"0#
+
+CCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/FlipsideView.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938766.902074
+e308938767.024472
+r1
+xCompileC
+xbuild/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/FlipsideView.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@158"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideView.m308938766#308938767#0(0"0(0#0#150"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideView.m8612067712#3106"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideView.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/FlipsideView.o"0#
+
+CCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/FlipsideViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938767.047697
+e308938767.140721
+r1
+xCompileC
+xbuild/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@168"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideViewController.m308938767#308938767#0(0"0(0#0#160"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideViewController.m8610066656#3126"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/FlipsideViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/FlipsideViewController.o"0#
+
+CCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/MainView.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938766.949707
+e308938767.047594
+r1
+xCompileC
+xbuild/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/MainView.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@154"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainView.m308938766#308938767#0(0"0(0#0#146"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainView.m8610890912#3098"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainView.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/MainView.o"0#
+
+CCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/MainViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938767.024582
+e308938767.131086
+r1
+xCompileC
+xbuild/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/MainViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@164"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainViewController.m308938767#308938767#0(0"0(0#0#156"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainViewController.m8612057472#3118"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/MainViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/MainViewController.o"0#
+
+CCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/UtilityAppSampleAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/UtilityAppSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938766.814286
+e308938766.949171
+r1
+xCompileC
+xbuild/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/UtilityAppSampleAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/UtilityAppSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@173"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/UtilityAppSampleAppDelegate.m308938766#308938766#0(0"0(0#0#165"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/UtilityAppSampleAppDelegate.m8612627744#3136"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/Classes/UtilityAppSampleAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/UtilityAppSampleAppDelegate.o"0#
+
+CCompileC build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938766.812730
+e308938766.901965
+r1
+xCompileC
+xbuild/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/main.m308938766#308938766#0(0"0(0#0#134"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/main.m8599243488#3082"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/FlipsideView.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/MainView.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/MainWindow.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample"
+s308938767.167771
+e308938767.211158
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/UtilityAppSample.app.dSYM build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample308938767#308938767#0(0"0(0#0#193"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample8605782720#683"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample" normal i386
+s308938767.140822
+e308938767.167662
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample
+xnormal
+xi386
+lSLF07#2@198"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample308938767#308938767#0(0"0(0#0#0"8606353152#1400"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/Objects-normal/i386/UtilityAppSample.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/UtilityAppSample"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app/Info.plist" UtilityAppSample-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-afdrebipxyxcxpgsycziuyelewgd/UtilityAppSample_Prefix.pch.gch UtilityAppSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch.gch UtilityAppSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938765.961441
+e308938766.812582
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch.gch
+xUtilityAppSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile UtilityAppSample_Prefix.pch308938765#308938766#0(0"0(0#0#155"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/UtilityAppSample_Prefix.pch8613343520#2874"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/UtilityAppSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/UtilityAppSample.build/Debug-iphonesimulator/UtilityAppSample.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/UtilityAppSample_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UtilityAppSample_Prefix-eofxoxzmttwfutgndfzvlxzycmsh/UtilityAppSample_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app"
+s308938767.211257
+e308938767.215344
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app
+lSLF07#2@182"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app308938767#308938767#0(0"0(0#0#0"8603660000#469"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/05.Guias_para_proyectos_iPhone/Ejercicios/UtilityAppSample/build/Debug-iphonesimulator/UtilityAppSample.app"0#
+

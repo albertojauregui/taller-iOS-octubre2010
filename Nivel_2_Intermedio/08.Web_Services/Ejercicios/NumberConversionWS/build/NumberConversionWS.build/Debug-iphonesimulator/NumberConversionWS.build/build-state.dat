@@ -1,0 +1,538 @@
+TNumberConversionWS
+v7
+r0
+t309073401.135864
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/Info.plist" NumberConversionWS-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWSViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch.gch NumberConversionWS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWSAppDelegate.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWSViewController.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NSDate+ISO8601Parsing.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Parsing.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Unparsing.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversion.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversion.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/USAdditions.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USAdditions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/USGlobals.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USGlobals.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/xsd.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/xsd.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/Consumidor.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/Consumidor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app.dSYM" "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS"
+cTouch "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004BFDFE57000000000018BC00
+t1274936919
+s1620992
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004BFDFE2F00000000000004CF
+t1274936879
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/Consumidor.h
+c000000004C24960B00000000000000F2
+t1277466123
+s242
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/Consumidor.m
+c000000004CBBD5250000000000000701
+t1287378213
+s1793
+i"Consumidor.h"
+i"NumberConversion.h"
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Parsing.h
+c000000004CB9F1B00000000000000849
+t1287254448
+s2121
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Parsing.m
+c000000004CB9F1B00000000000004D57
+t1287254448
+s19799
+i<ctype.h>
+i<string.h>
+i"NSDate+ISO8601Parsing.h"
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Unparsing.h
+c000000004CB9F1B000000000000005B7
+t1287254448
+s1463
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Unparsing.m
+c000000004CB9F1B000000000000019AF
+t1287254448
+s6575
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversion.h
+c000000004CB9F1B00000000000001AFA
+t1287254448
+s6906
+i<Foundation/Foundation.h>
+i"USAdditions.h"
+i<libxml/tree.h>
+i"USGlobals.h"
+i<libxml/parser.h>
+i"xsd.h"
+i"NumberConversion.h"
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversion.m
+c000000004CBBD54D000000000000831A
+t1287378253
+s33562
+i"NumberConversion.h"
+i<libxml/xmlstring.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSAppDelegate.h
+c000000004CBBD1250000000000000223
+t1287377189
+s547
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSAppDelegate.m
+c000000004CBBD1250000000000000AC4
+t1287377189
+s2756
+i"NumberConversionWSAppDelegate.h"
+i"NumberConversionWSViewController.h"
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSViewController.h
+c000000004CBBD1250000000000000111
+t1287377189
+s273
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSViewController.m
+c000000004CBBD5EB0000000000000688
+t1287378411
+s1672
+i"NumberConversionWSViewController.h"
+i"Consumidor.h"
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USAdditions.h
+c000000004CB9F1B00000000000000912
+t1287254448
+s2322
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USAdditions.m
+c000000004CBBD5A40000000000002DE6
+t1287378340
+s11750
+i"USAdditions.h"
+i"NSDate+ISO8601Parsing.h"
+i"NSDate+ISO8601Unparsing.h"
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USGlobals.h
+c000000004CB9F1B000000000000000DB
+t1287254448
+s219
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USGlobals.m
+c000000004CB9F1B00000000000000187
+t1287254448
+s391
+i"USGlobals.h"
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/xsd.h
+c000000004CB9F1B0000000000000027B
+t1287254448
+s635
+i<Foundation/Foundation.h>
+i"USAdditions.h"
+i<libxml/tree.h>
+i"USGlobals.h"
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/xsd.m
+c000000004CB9F1B00000000000000069
+t1287254448
+s105
+i"xsd.h"
+i<libxml/xmlstring.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/MainWindow.xib
+c000000004CBBD1250000000000004EAD
+t1287377189
+s20141
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWSViewController.xib
+c000000004CBBD1250000000000001A71
+t1287377189
+s6769
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWS_Prefix.pch
+c000000004CBBD12500000000000000CD
+t1287377189
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app
+t1287378412
+s238
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app.dSYM
+t1287378412
+s102
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/Info.plist
+t1287377755
+s641
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/MainWindow.nib
+t1287377755
+s1145
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS
+t1287378412
+s121792
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWSViewController.nib
+t1287377755
+s795
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/PkgInfo
+t1287377755
+s8
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/Consumidor.o
+t1287378214
+s42752
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NSDate+ISO8601Parsing.o
+t1287378095
+s27988
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o
+t1287378095
+s21896
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversion.o
+t1287378254
+s129896
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWS.LinkFileList
+c000000004CBBD35B000000000000074C
+t1287377755
+s1868
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWSAppDelegate.o
+t1287378095
+s48420
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWSViewController.o
+t1287378412
+s36416
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/USAdditions.o
+t1287378342
+s46112
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/USGlobals.o
+t1287378095
+s9760
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/main.o
+t1287378095
+s6364
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/xsd.o
+t1287378095
+s3980
+
+N/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/main.m
+c000000004CBBD1250000000000000176
+t1287377189
+s374
+i<UIKit/UIKit.h>
+
+N/usr/include/libxml2/libxml/parser.h
+c000000004B90C69700000000000098A9
+t1267779223
+s39081
+
+N/usr/include/libxml2/libxml/tree.h
+c000000004B90C6970000000000008F14
+t1267779223
+s36628
+
+N/usr/include/libxml2/libxml/xmlstring.h
+c000000004B90C698000000000000155A
+t1267779224
+s5466
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-amdzrhqfxjrfpwddznopsspuooui/NumberConversionWS_Prefix.pch.gch
+t1287377756
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch.gch
+t1287378095
+s15232016
+
+NNumberConversionWS-Info.plist
+c000000004CBBD125000000000000038D
+t1287377189
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309073401#309073401#0(0"0(0#1#0"8624794624#0"0#
+
+CCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/Consumidor.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/Consumidor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309071014.583240
+e309071014.759629
+r1
+xCompileC
+xbuild/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/Consumidor.o
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/Consumidor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/Consumidor.m309071014#309071014#0(0"0(0#0#90"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/Consumidor.m8625317984#2527"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/Consumidor.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/Consumidor.o"0#
+
+CCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NSDate+ISO8601Parsing.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Parsing.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309070895.346109
+e309070895.518468
+r1
+xCompileC
+xbuild/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NSDate+ISO8601Parsing.o
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Parsing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Parsing.m309070895#309070895#0(0"0(0#0#101"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Parsing.m8616064832#2549"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Parsing.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NSDate+ISO8601Parsing.o"0#
+
+CCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Unparsing.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309070895.409348
+e309070895.488368
+r1
+xCompileC
+xbuild/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Unparsing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Unparsing.m309070895#309070895#0(0"0(0#0#103"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Unparsing.m8624014720#2553"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NSDate+ISO8601Unparsing.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o"0#
+
+CCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversion.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversion.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309071054.349542
+e309071054.663322
+r1
+xCompileC
+xbuild/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversion.o
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversion.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversion.m309071054#309071054#0(0"0(0#0#96"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversion.m8620841504#2539"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversion.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversion.o"0#
+
+CCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWSAppDelegate.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309070895.253231
+e309070895.345998
+r1
+xCompileC
+xbuild/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWSAppDelegate.o
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSAppDelegate.m309070895#309070895#0(0"0(0#0#109"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSAppDelegate.m8619897184#2565"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSAppDelegate.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWSAppDelegate.o"0#
+
+CCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWSViewController.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309071212.161726
+e309071212.284171
+r1
+xCompileC
+xbuild/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWSViewController.o
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSViewController.m309071212#309071212#0(0"0(0#0#112"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSViewController.m8619595456#2571"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/NumberConversionWSViewController.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWSViewController.o"0#
+
+CCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/USAdditions.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USAdditions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309071141.826321
+e309071142.030458
+r1
+xCompileC
+xbuild/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/USAdditions.o
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USAdditions.m309071141#309071142#0(0"0(0#0#91"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USAdditions.m8631591488#2529"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USAdditions.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/USAdditions.o"0#
+
+CCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/USGlobals.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USGlobals.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309070895.709891
+e309070895.823495
+r1
+xCompileC
+xbuild/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/USGlobals.o
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USGlobals.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USGlobals.m309070895#309070895#0(0"0(0#0#89"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USGlobals.m8621374688#2525"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/USGlobals.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/USGlobals.o"0#
+
+CCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309070895.252036
+e309070895.315248
+r1
+xCompileC
+xbuild/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/main.m309070895#309070895#0(0"0(0#0#76"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/main.m8620455136#2507"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/main.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/xsd.o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/xsd.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309070895.823601
+e309070895.913376
+r1
+xCompileC
+xbuild/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/xsd.o
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/xsd.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/xsd.m309070895#309070895#0(0"0(0#0#83"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/xsd.m8622326496#2513"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/Classes/xsd.m" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/xsd.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/MainWindow.xib"
+s309070555.302802
+e309070555.753384
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309070555#309070555#0(0"0(0#0#84"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/MainWindow.xib8619641472#680"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/MainWindow.nib" "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWSViewController.xib"
+s309070555.303578
+e309070555.688781
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWSViewController.xib
+lSLF07#2@47"CompileXIB NumberConversionWSViewController.xib309070555#309070555#0(0"0(0#0#106"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWSViewController.xib8619233920#724"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWSViewController.nib" "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWSViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app.dSYM" "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS"
+s309071212.320784
+e309071212.350423
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app.dSYM
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/NumberConversionWS.app.dSYM build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS309071212#309071212#0(0"0(0#0#139"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS8614772384#515"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS" -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS" normal i386
+s309071212.284267
+e309071212.320678
+r1
+xLd
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS
+xnormal
+xi386
+lSLF07#2@144"Link /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS309071212#309071212#0(0"0(0#0#0"8622236960#1148"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/Objects-normal/i386/NumberConversionWS.LinkFileList" -mmacosx-version-min=10.6 -lxml2 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/NumberConversionWS"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/Info.plist" NumberConversionWS-Info.plist
+s309070555.297667
+e309070555.302702
+r1
+xProcessInfoPlistFile
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/Info.plist
+xNumberConversionWS-Info.plist
+lSLF07#2@37"Process NumberConversionWS-Info.plist309070555#309070555#0(0"0(0#0#99"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWS-Info.plist8620061920#611"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NumberConversionWS-Info.plist -genpkginfo "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app/Info.plist"0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-amdzrhqfxjrfpwddznopsspuooui/NumberConversionWS_Prefix.pch.gch NumberConversionWS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309070555.753519
+e309070556.856987
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-amdzrhqfxjrfpwddznopsspuooui/NumberConversionWS_Prefix.pch.gch
+xNumberConversionWS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile NumberConversionWS_Prefix.pch309070555#309070556#0(0"0(0#0#99"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWS_Prefix.pch8615087872#2332"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWS_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-amdzrhqfxjrfpwddznopsspuooui/NumberConversionWS_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch.gch NumberConversionWS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309070894.502503
+e309070895.251909
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch.gch
+xNumberConversionWS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile NumberConversionWS_Prefix.pch309070894#309070895#0(0"0(0#0#99"/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWS_Prefix.pch8614798400#2355"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-generated-files.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/NumberConversionWS-project-headers.hmap" "-F/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/NumberConversionWS.build/Debug-iphonesimulator/NumberConversionWS.build/DerivedSources" -I/usr/include/libxml2 -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/NumberConversionWS_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberConversionWS_Prefix-fzjdeoztsnanzmbukwnnstjfrfct/NumberConversionWS_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app"
+s309071212.350519
+e309071212.353064
+r1
+xTouch
+x/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app
+lSLF07#2@126"Touch /Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app309071212#309071212#0(0"0(0#0#0"8618914784#355"    cd "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/iPhone Projects/NumberConversionWS/build/Debug-iphonesimulator/NumberConversionWS.app"0#
+

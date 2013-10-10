@@ -1,0 +1,149 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* XMLParser */ = {
+		activeExec = 0;
+		executables = (
+			687F225111D1EBAF0015C037 /* XMLParser */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* XMLParserViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {863, 273}}";
+			sepNavSelRange = "{244, 0}";
+			sepNavVisRange = "{0, 462}";
+			sepNavWindowFrame = "{{15, 376}, {922, 397}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* XMLParserViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 1625}}";
+			sepNavSelRange = "{3035, 0}";
+			sepNavVisRange = "{2437, 1401}";
+			sepNavWindowFrame = "{{15, 376}, {922, 397}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 687F225111D1EBAF0015C037 /* XMLParser */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* XMLParser */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* XMLParser */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 687F225711D1EBCD0015C037 /* Code sense */;
+		executables = (
+			687F225111D1EBAF0015C037 /* XMLParser */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308942493;
+			PBXWorkspaceStateSaveDate = 308942493;
+		};
+		perUserProjectItems = {
+			680C1B3E11D58B0A00043A54 /* PBXTextBookmark */ = 680C1B3E11D58B0A00043A54 /* PBXTextBookmark */;
+			688A7092126A181400285EB4 /* XCBuildMessageTextBookmark */ = 688A7092126A181400285EB4 /* XCBuildMessageTextBookmark */;
+			688A7097126A183400285EB4 /* PBXTextBookmark */ = 688A7097126A183400285EB4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 687F225611D1EBCD0015C037 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	680C1B3E11D58B0A00043A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* XMLParserViewController.h */;
+		name = "XMLParserViewController.h: 12";
+		rLen = 37;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 402;
+		vrLoc = 33;
+	};
+	687F225111D1EBAF0015C037 /* XMLParser */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = XMLParser;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	687F225611D1EBCD0015C037 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	687F225711D1EBCD0015C037 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	688A7092126A181400285EB4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Format not a string literal and no format arguments";
+		fRef = 28D7ACF70DDB3853001CB0EB /* XMLParserViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 77;
+		rType = 1;
+	};
+	688A7097126A183400285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* XMLParserViewController.m */;
+		name = "XMLParserViewController.m: 77";
+		rLen = 0;
+		rLoc = 3035;
+		rType = 0;
+		vrLen = 1401;
+		vrLoc = 2437;
+	};
+}

@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Picker */ = {
+		activeExec = 0;
+		executables = (
+			682F1FD911CA20CD00413B53 /* Picker */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 280}}";
+			sepNavSelRange = "{227, 12}";
+			sepNavVisRange = "{0, 334}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 1157}}";
+			sepNavSelRange = "{411, 0}";
+			sepNavVisRange = "{231, 539}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 682F1FD911CA20CD00413B53 /* Picker */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Picker */;
+		codeSenseManager = 682F1FE111CA20D200413B53 /* Code sense */;
+		executables = (
+			682F1FD911CA20CD00413B53 /* Picker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308940261;
+			PBXWorkspaceStateSaveDate = 308940261;
+		};
+		perUserProjectItems = {
+			682F202911CA234600413B53 /* PBXTextBookmark */ = 682F202911CA234600413B53 /* PBXTextBookmark */;
+			688A6CDC126A0D4E00285EB4 /* PBXTextBookmark */ = 688A6CDC126A0D4E00285EB4 /* PBXTextBookmark */;
+			688A6D11126A0DFF00285EB4 /* PBXTextBookmark */ = 688A6D11126A0DFF00285EB4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 682F1FE011CA20D200413B53 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	682F1FD911CA20CD00413B53 /* Picker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Picker;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	682F1FE011CA20D200413B53 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	682F1FE111CA20D200413B53 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	682F202911CA234600413B53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PickerViewController.h */;
+		name = "PickerViewController.h: 12";
+		rLen = 12;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	688A6CDC126A0D4E00285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PickerViewController.m */;
+		name = "PickerViewController.m: 17";
+		rLen = 154;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 539;
+		vrLoc = 231;
+	};
+	688A6D11126A0DFF00285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PickerViewController.m */;
+		name = "PickerViewController.m: 20";
+		rLen = 0;
+		rLoc = 411;
+		rType = 0;
+		vrLen = 539;
+		vrLoc = 231;
+	};
+}

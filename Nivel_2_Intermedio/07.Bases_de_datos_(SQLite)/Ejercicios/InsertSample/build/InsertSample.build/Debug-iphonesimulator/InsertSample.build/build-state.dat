@@ -1,0 +1,311 @@
+TInsertSample
+v7
+r0
+t308944562.502780
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/Info.plist" InsertSample-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/InsertSampleViewController.xib"
+cCpResource build/Debug-iphonesimulator/InsertSample.app/ejemplo1.sqlite ejemplo1.sqlite
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InsertSample_Prefix-encdxojcvrgdjydelysduxjlkypc/InsertSample_Prefix.pch.gch InsertSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSampleAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSampleViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sqlite3.h
+c000000004A0BA76A000000000003D86F
+t1242277738
+s252015
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/lib/libsqlite3.dylib
+c000000004A0BA78C00000000000C36F0
+t1242277772
+s800496
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sqlite3.h
+c000000004BFDF9FB0000000000041A6F
+t1274935803
+s268911
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/libsqlite3.dylib
+c000000004BFDFA0A0000000000079480
+t1274935818
+s496768
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleAppDelegate.h
+c000000004C23A13D0000000000000224
+t1277403453
+s548
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleAppDelegate.m
+c000000004C23A32A0000000000000657
+t1277403946
+s1623
+i"InsertSampleAppDelegate.h"
+i"InsertSampleViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleViewController.h
+c000000004C23A7550000000000000251
+t1277405013
+s593
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleViewController.m
+c000000004C23B3250000000000001170
+t1277408037
+s4464
+i"InsertSampleViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/InsertSampleViewController.xib
+c000000004C23AF000000000000004130
+t1277406976
+s16688
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/InsertSample_Prefix.pch
+c000000004C239DE800000000000000C1
+t1277402600
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/MainWindow.xib
+c000000004C239DE8000000000000244C
+t1277402600
+s9292
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app
+t1287251762
+s272
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app.dSYM
+t1287251762
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/Info.plist
+t1277403894
+s582
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample
+t1287251762
+s24076
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSampleViewController.nib
+t1277407018
+s4014
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/MainWindow.nib
+t1277403895
+s1505
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/PkgInfo
+t1277403894
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/ejemplo1.sqlite
+t1277403895
+s4096
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSample.LinkFileList
+c000000004CB9E73100000000000002B4
+t1287251761
+s692
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSampleAppDelegate.o
+t1287251762
+s50284
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSampleViewController.o
+t1287251762
+s46800
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/main.o
+t1287251762
+s6472
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/ejemplo1.sqlite
+c000000004C239C500000000000001000
+t1277402192
+s4096
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/main.m
+c000000004C239DE80000000000000166
+t1277402600
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InsertSample_Prefix-encdxojcvrgdjydelysduxjlkypc/InsertSample_Prefix.pch.gch
+t1287251761
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InsertSample_Prefix-gzclbzoqibwopteckrbnooeaovba/InsertSample_Prefix.pch.gch
+t2
+s0
+
+NInsertSample-Info.plist
+c000000004C239DE8000000000000038D
+t1277402600
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308944561#308944561#0(0"0(0#1#0"8654355040#0"0#
+
+CCompileC build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSampleAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944562.139534
+e308944562.302871
+r1
+xCompileC
+xbuild/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSampleAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@165"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleAppDelegate.m308944562#308944562#0(0"0(0#0#157"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleAppDelegate.m8652926400#3004"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InsertSample_Prefix-encdxojcvrgdjydelysduxjlkypc/InsertSample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSampleAppDelegate.o"0#
+
+CCompileC build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSampleViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944562.239302
+e308944562.389818
+r1
+xCompileC
+xbuild/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSampleViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@168"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleViewController.m308944562#308944562#0(0"0(0#0#160"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleViewController.m8642742304#3010"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InsertSample_Prefix-encdxojcvrgdjydelysduxjlkypc/InsertSample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/Classes/InsertSampleViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSampleViewController.o"0#
+
+CCompileC build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944562.138302
+e308944562.239184
+r1
+xCompileC
+xbuild/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/main.m308944562#308944562#0(0"0(0#0#130"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/main.m8653618592#2958"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InsertSample_Prefix-encdxojcvrgdjydelysduxjlkypc/InsertSample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/InsertSampleViewController.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/InsertSample.app/ejemplo1.sqlite ejemplo1.sqlite
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample"
+s308944562.443648
+e308944562.499478
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/InsertSample.app.dSYM build/Debug-iphonesimulator/InsertSample.app/InsertSample308944562#308944562#0(0"0(0#0#181"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample8644417504#659"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample" normal i386
+s308944562.389921
+e308944562.443548
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample
+xnormal
+xi386
+lSLF07#2@186"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample308944562#308944562#0(0"0(0#0#0"8653070400#1370"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/Objects-normal/i386/InsertSample.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/InsertSample"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app/Info.plist" InsertSample-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InsertSample_Prefix-encdxojcvrgdjydelysduxjlkypc/InsertSample_Prefix.pch.gch InsertSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944561.123040
+e308944562.138190
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InsertSample_Prefix-encdxojcvrgdjydelysduxjlkypc/InsertSample_Prefix.pch.gch
+xInsertSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile InsertSample_Prefix.pch308944561#308944562#0(0"0(0#0#147"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/InsertSample_Prefix.pch8652109952#2758"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/InsertSample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/InsertSample.build/Debug-iphonesimulator/InsertSample.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/InsertSample_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InsertSample_Prefix-encdxojcvrgdjydelysduxjlkypc/InsertSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InsertSample_Prefix-gzclbzoqibwopteckrbnooeaovba/InsertSample_Prefix.pch.gch InsertSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app"
+s308944562.499575
+e308944562.502729
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app
+lSLF07#2@174"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app308944562#308944562#0(0"0(0#0#0"8641310720#457"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/07.Bases_de_datos_(SQLite)/Ejercicios/InsertSample/build/Debug-iphonesimulator/InsertSample.app"0#
+

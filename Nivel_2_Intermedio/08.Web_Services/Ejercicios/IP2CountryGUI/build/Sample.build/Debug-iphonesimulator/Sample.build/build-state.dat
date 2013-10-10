@@ -1,0 +1,1057 @@
+TSample
+v7
+r0
+t309069852.973907
+cCheck dependencies
+cProcessInfoPlistFile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Info.plist Sample-Info.plist
+cCompileXIB /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/MainWindow.xib
+cCompileXIB /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/SampleViewController.xib
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch.gch Sample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Parser.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Consumidor.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/iptocountry.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Parsing.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USAdditions.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USGlobals.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/xsd.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample normal i386
+cGenerateDSYMFile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app.dSYM /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample
+cTouch /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004A0BAA8E00000000000F5D10
+t1242278542
+s1006864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004A0BAA3600000000000004CF
+t1242278454
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/ctype.h
+c000000004748A1320000000000002C3A
+t1195942194
+s11322
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004BFDFE57000000000018BC00
+t1274936919
+s1620992
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004BFDFE2F00000000000004CF
+t1274936879
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.h
+c000000004C24E2A70000000000000107
+t1277485735
+s263
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m
+c000000004C24E2F20000000000000422
+t1277485810
+s1058
+i"Consumidor.h"
+i"iptocountry.h"
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.h
+c000000004C24CF4C0000000000000849
+t1277480780
+s2121
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m
+c000000004C24CF4C0000000000004D57
+t1277480780
+s19799
+i<ctype.h>
+i<string.h>
+i"NSDate+ISO8601Parsing.h"
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.h
+c000000004C24CF4C00000000000005B7
+t1277480780
+s1463
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m
+c000000004C24CF4C00000000000019AF
+t1277480780
+s6575
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.h
+c000000004C24E22E0000000000000134
+t1277485614
+s308
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m
+c000000004C24E5BD0000000000000642
+t1277486525
+s1602
+i"Parser.h"
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.h
+c000000004C24DDBF00000000000001D1
+t1277484479
+s465
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m
+c000000004C24DDBF000000000000025D
+t1277484479
+s605
+i"SampleAppDelegate.h"
+i"SampleViewController.h"
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.h
+c000000004C24DE0C000000000000019E
+t1277484556
+s414
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m
+c000000004C25533500000000000006E0
+t1277514549
+s1760
+i"SampleViewController.h"
+i"Parser.h"
+i"Consumidor.h"
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.h
+c000000004C24CF4C0000000000000912
+t1277480780
+s2322
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m
+c000000004C24CF4C0000000000002DCE
+t1277480780
+s11726
+i"USAdditions.h"
+i"NSDate+ISO8601Parsing.h"
+i"NSDate+ISO8601Unparsing.h"
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.h
+c000000004C24CF4C00000000000000DB
+t1277480780
+s219
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m
+c000000004C24CF4C0000000000000187
+t1277480780
+s391
+i"USGlobals.h"
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.h
+c000000004C24CF4C0000000000002988
+t1277480780
+s10632
+i<Foundation/Foundation.h>
+i"USAdditions.h"
+i<libxml/tree.h>
+i"USGlobals.h"
+i<libxml/parser.h>
+i"xsd.h"
+i"iptocountry.h"
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m
+c000000004C24E60B000000000000CC8C
+t1277486603
+s52364
+i"iptocountry.h"
+i<libxml/xmlstring.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.h
+c000000004C24CF4C000000000000027B
+t1277480780
+s635
+i<Foundation/Foundation.h>
+i"USAdditions.h"
+i<libxml/tree.h>
+i"USGlobals.h"
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m
+c000000004C24CF4C0000000000000069
+t1277480780
+s105
+i"xsd.h"
+i<libxml/xmlstring.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/MainWindow.xib
+c000000004C24DDBF000000000000240A
+t1277484479
+s9226
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/SampleViewController.xib
+c000000004C24DEFA000000000000374B
+t1277484794
+s14155
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Sample_Prefix.pch
+c000000004C24DDBF00000000000000B5
+t1277484479
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app
+t1287377052
+s272
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app.dSYM
+t1287377052
+s102
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Info.plist
+t1287251943
+s587
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/MainWindow.nib
+t1277484697
+s1493
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/PkgInfo
+t1287251943
+s8
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample
+t1287377052
+s151736
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/SampleViewController.nib
+t1277485205
+s3708
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Consumidor.o
+t1287377051
+s10320
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Parsing.o
+t1287377051
+s28084
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o
+t1287377051
+s21960
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Parser.o
+t1287377051
+s11356
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Sample.LinkFileList
+c000000004CBBD0960000000000000843
+t1287377046
+s2115
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o
+t1287377051
+s45424
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o
+t1287377051
+s39172
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USAdditions.o
+t1287377051
+s46096
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USGlobals.o
+t1287377052
+s9824
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/iptocountry.o
+t1287377052
+s192104
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o
+t1287377051
+s6432
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/xsd.o
+t1287377052
+s4048
+
+N/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m
+c000000004C24DDBF0000000000000160
+t1277484479
+s352
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.h
+c000000004C24E2A70000000000000107
+t1277485735
+s263
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m
+c000000004C24E2F20000000000000422
+t1277485810
+s1058
+i"Consumidor.h"
+i"iptocountry.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.h
+c000000004C24CF4C0000000000000849
+t1277480780
+s2121
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m
+c000000004C24CF4C0000000000004D57
+t1277480780
+s19799
+i<ctype.h>
+i<string.h>
+i"NSDate+ISO8601Parsing.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.h
+c000000004C24CF4C00000000000005B7
+t1277480780
+s1463
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m
+c000000004C24CF4C00000000000019AF
+t1277480780
+s6575
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.h
+c000000004C24E22E0000000000000134
+t1277485614
+s308
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m
+c000000004C24E5BD0000000000000642
+t1277486525
+s1602
+i"Parser.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.h
+c000000004C24DDBF00000000000001D1
+t1277484479
+s465
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m
+c000000004C24DDBF000000000000025D
+t1277484479
+s605
+i"SampleAppDelegate.h"
+i"SampleViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.h
+c000000004C24DE0C000000000000019E
+t1277484556
+s414
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m
+c000000004C25533500000000000006E0
+t1277514549
+s1760
+i"SampleViewController.h"
+i"Parser.h"
+i"Consumidor.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.h
+c000000004C24CF4C0000000000000912
+t1277480780
+s2322
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m
+c000000004C24CF4C0000000000002DCE
+t1277480780
+s11726
+i"USAdditions.h"
+i"NSDate+ISO8601Parsing.h"
+i"NSDate+ISO8601Unparsing.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.h
+c000000004C24CF4C00000000000000DB
+t1277480780
+s219
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m
+c000000004C24CF4C0000000000000187
+t1277480780
+s391
+i"USGlobals.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.h
+c000000004C24CF4C0000000000002988
+t1277480780
+s10632
+i<Foundation/Foundation.h>
+i"USAdditions.h"
+i<libxml/tree.h>
+i"USGlobals.h"
+i<libxml/parser.h>
+i"xsd.h"
+i"iptocountry.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m
+c000000004C24E60B000000000000CC8C
+t1277486603
+s52364
+i"iptocountry.h"
+i<libxml/xmlstring.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.h
+c000000004C24CF4C000000000000027B
+t1277480780
+s635
+i<Foundation/Foundation.h>
+i"USAdditions.h"
+i<libxml/tree.h>
+i"USGlobals.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m
+c000000004C24CF4C0000000000000069
+t1277480780
+s105
+i"xsd.h"
+i<libxml/xmlstring.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/MainWindow.xib
+c000000004C24DDBF000000000000240A
+t1277484479
+s9226
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/SampleViewController.xib
+c000000004C24DEFA000000000000374B
+t1277484794
+s14155
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Sample_Prefix.pch
+c000000004C24DDBF00000000000000B5
+t1277484479
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app
+t1287377052
+s272
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app.dSYM
+t1287377052
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Info.plist
+t1287251943
+s587
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/MainWindow.nib
+t1277484697
+s1493
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/PkgInfo
+t1287251943
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample
+t1287377052
+s151736
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/SampleViewController.nib
+t1277485205
+s3708
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/default.png
+t1277486418
+s55146
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Consumidor.o
+t1287377051
+s10320
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Parsing.o
+t1287377051
+s28084
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o
+t1287377051
+s21960
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Parser.o
+t1287377051
+s11356
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Sample.LinkFileList
+c000000004CBBD0960000000000000843
+t1287377046
+s2115
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o
+t1287377051
+s45424
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o
+t1287377051
+s39172
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USAdditions.o
+t1287377051
+s46096
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USGlobals.o
+t1287377052
+s9824
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/iptocountry.o
+t1287377052
+s192104
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o
+t1287377051
+s6432
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/xsd.o
+t1287377052
+s4048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/default.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m
+c000000004C24DDBF0000000000000160
+t1277484479
+s352
+i<UIKit/UIKit.h>
+
+N/usr/include/libxml2/libxml/parser.h
+c000000004B90C69700000000000098A9
+t1267779223
+s39081
+
+N/usr/include/libxml2/libxml/tree.h
+c000000004B90C6970000000000008F14
+t1267779223
+s36628
+
+N/usr/include/libxml2/libxml/xmlstring.h
+c000000004B90C698000000000000155A
+t1267779224
+s5466
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-djrjjlxqqtjxjfgropmsnngaowfj/Sample_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch.gch
+t1287377050
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch.gch
+t1287251944
+s15232016
+
+NSample-Info.plist
+c000000004CB9E7D8000000000000035D
+t1287251928
+s861
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309069846#309069846#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Consumidor.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944744.398962
+e308944744.574286
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Consumidor.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m308944744#308944744#0(0"0(0#0#134"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m8654367584#2771"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Consumidor.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Consumidor.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069851.392214
+e309069851.545620
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Consumidor.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@131"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m309069851#309069851#0(0"0(0#0#123"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m8603376160#2628"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Consumidor.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Consumidor.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Parsing.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944744.574394
+e308944744.727492
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Parsing.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@153"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m308944744#308944744#0(0"0(0#0#145"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m8641162336#2793"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Parsing.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Parsing.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069851.545720
+e309069851.682400
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Parsing.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m309069851#309069851#0(0"0(0#0#134"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m8607670496#2650"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Parsing.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Parsing.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944744.727606
+e308944744.820309
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@155"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m308944744#308944744#0(0"0(0#0#147"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m8623784320#2797"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069851.682501
+e309069851.772924
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@144"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m309069851#309069851#0(0"0(0#0#136"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m8608241792#2654"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/NSDate+ISO8601Unparsing.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/NSDate+ISO8601Unparsing.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Parser.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944744.346032
+e308944744.498017
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Parser.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m: In function '-[Parser parseXMLTOSring:]':
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m:20: warning: class 'Parser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@138"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m308944744#308944744#0(387"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m: In function '-[Parser parseXMLTOSring:]':/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m:20: warning: class 'Parser' does not implement the 'NSXMLParserDelegate' protocol1(22@68"Class 'Parser' does not implement the 'NSXMLParserDelegate' protocol308944744#174#213#0(6@130"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m299179325#20#0#20#0#45"class '*' does not implement the '*' protocol0(0#0#130"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m8654441472#2763"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Parser.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Parser.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069851.329052
+e309069851.393525
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Parser.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m: In function '-[Parser parseXMLTOSring:]':
+o/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m:20: warning: class 'Parser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@127"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m309069851#309069851#0(365"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m: In function '-[Parser parseXMLTOSring:]':/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m:20: warning: class 'Parser' does not implement the 'NSXMLParserDelegate' protocol1(22@68"Class 'Parser' does not implement the 'NSXMLParserDelegate' protocol309069851#163#202#0(6@119"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m299179325#20#0#20#0#45"class '*' does not implement the '*' protocol0(0#0#119"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m8606517248#2620"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/Parser.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Parser.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944744.252889
+e308944744.345921
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@149"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m308944744#308944744#0(0"0(0#0#141"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m8622335328#2785"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069851.158279
+e309069851.328946
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m309069851#309069851#0(0"0(0#0#130"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m8607131072#2642"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleAppDelegate.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944744.315229
+e308944744.398854
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@152"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m308944744#308944744#0(0"0(0#0#144"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m8590196896#2791"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069851.306290
+e309069851.392103
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@141"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m309069851#309069851#0(0"0(0#0#133"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m8606655744#2648"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/SampleViewController.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USAdditions.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944744.820415
+e308944745.004705
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USAdditions.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m: In function '+[NSData(MBBase64) dataWithBase64EncodedString:]':
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m:177: warning: format not a string literal and no format arguments
+lSLF07#2@143"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m308944744#308944745#0(403"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m: In function '+[NSData(MBBase64) dataWithBase64EncodedString:]':/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m:177: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments308944744#201#202#0(6@135"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m299173580#177#0#177#0#51"format not a string literal and no format arguments0(0#0#135"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m8622191552#2773"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USAdditions.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USAdditions.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069851.773024
+e309069851.947772
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USAdditions.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m: In function '+[NSData(MBBase64) dataWithBase64EncodedString:]':
+o/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m:177: warning: format not a string literal and no format arguments
+lSLF07#2@132"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m309069851#309069851#0(381"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m: In function '+[NSData(MBBase64) dataWithBase64EncodedString:]':/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m:177: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments309069851#190#191#0(6@124"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m299173580#177#0#177#0#51"format not a string literal and no format arguments0(0#0#124"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m8604392864#2630"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USAdditions.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USAdditions.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USGlobals.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944745.005346
+e308944745.068453
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USGlobals.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@141"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m308944745#308944745#0(0"0(0#0#133"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m8633565088#2769"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USGlobals.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USGlobals.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069851.947869
+e309069852.006763
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USGlobals.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m309069851#309069852#0(0"0(0#0#122"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m8606602496#2626"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/USGlobals.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/USGlobals.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/iptocountry.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944744.498146
+e308944745.081465
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/iptocountry.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@143"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m308944744#308944745#0(0"0(0#0#135"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m8653633568#2773"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/iptocountry.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/iptocountry.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069851.393609
+e309069852.004377
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/iptocountry.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m309069851#309069852#0(0"0(0#0#124"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m8599989248#2630"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/iptocountry.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/iptocountry.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944744.251737
+e308944744.315118
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m308944744#308944744#0(0"0(0#0#120"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m8640498464#2751"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069851.156914
+e309069851.306185
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m309069851#309069851#0(0"0(0#0#109"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m8607432320#2608"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/main.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/xsd.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944745.068569
+e308944745.170806
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/xsd.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m308944745#308944745#0(0"0(0#0#127"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m8608526272#2757"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/xsd.o"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/xsd.o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069852.004477
+e309069852.086957
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/xsd.o
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m309069852#309069852#0(0"0(0#0#116"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m8606589760#2614"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Classes/xsd.m -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/xsd.o0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/SampleViewController.xib"
+r0
+
+CCompileXIB /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/MainWindow.xib
+r0
+
+CCompileXIB /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/SampleViewController.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/Sample.app/default.png default.png
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample"
+s308944745.247834
+e308944745.273948
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Sample.app.dSYM build/Debug-iphonesimulator/Sample.app/Sample308944745#308944745#0(0"0(0#0#159"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample8618124512#611"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app.dSYM"0#
+
+CGenerateDSYMFile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app.dSYM /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample
+s309069852.795068
+e309069852.951137
+r1
+xGenerateDSYMFile
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app.dSYM
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Sample.app.dSYM build/Debug-iphonesimulator/Sample.app/Sample309069852#309069852#0(0"0(0#0#148"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample8607137472#572"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app.dSYM0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample" normal i386
+s308944745.170906
+e308944745.247716
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample
+xnormal
+xi386
+lSLF07#2@164"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample308944745#308944745#0(0"0(0#0#0"8640506016#1308"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Sample.LinkFileList" -mmacosx-version-min=10.6 -lxml2 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample"0#
+
+CLd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample normal i386
+s309069852.087048
+e309069852.794921
+r1
+xLd
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample
+xnormal
+xi386
+lSLF07#2@153"Link /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample309069852#309069852#0(0"0(0#0#0"8607888128#1243"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -filelist /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Sample.LinkFileList -mmacosx-version-min=10.6 -lxml2 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -o /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Sample0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Info.plist" Sample-Info.plist
+s308944743.491122
+e308944743.494607
+r1
+xProcessInfoPlistFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Info.plist
+xSample-Info.plist
+lSLF07#2@25"Process Sample-Info.plist308944743#308944743#0(0"0(0#0#131"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Sample-Info.plist8655082144#707"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sample-Info.plist -genpkginfo "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app/Info.plist Sample-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-djrjjlxqqtjxjfgropmsnngaowfj/Sample_Prefix.pch.gch Sample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch.gch Sample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309069846.832777
+e309069851.156645
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch.gch
+xSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sample_Prefix.pch309069846#309069851#0(0"0(0#0#120"/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Sample_Prefix.pch7309993515829456896#2437"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -I/usr/include/libxml2 -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Sample_Prefix.pch -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-fmuboabtzxtynrfwpxfnscuuaqxb/Sample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch.gch Sample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308944743.494799
+e308944744.251615
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch.gch
+xSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sample_Prefix.pch308944743#308944744#0(0"0(0#0#131"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Sample_Prefix.pch8654689440#2567"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources" -I/usr/include/libxml2 -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/Sample_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-giukgiftrovklkcoxtleztyxnhaz/Sample_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app"
+s308944745.274042
+e308944745.277233
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app
+lSLF07#2@158"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app308944745#308944745#0(0"0(0#0#0"8608758816#431"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app"0#
+
+CTouch /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app
+s309069852.951228
+e309069852.973843
+r1
+xTouch
+x/Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app
+lSLF07#2@147"Touch /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app309069852#309069852#0(0"0(0#0#0"8604383072#405"    cd /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/renecruz/Desktop/Curso_iPhone_SDK_4/Nivel_2_Intermedio/08.Web_Services/Ejercicios/IP2CountryGUI/build/Debug-iphonesimulator/Sample.app0#
+

@@ -1,0 +1,157 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ShakeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 406}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3, 416}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Shake */ = {
+		activeExec = 0;
+		executables = (
+			68AE01C911CCF2F20034A04B /* Shake */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ShakeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 224}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ShakeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 962}}";
+			sepNavSelRange = "{352, 0}";
+			sepNavVisRange = "{137, 406}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68AE01C911CCF2F20034A04B /* Shake */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Shake */;
+		codeSenseManager = 68AE01D011CCF2F30034A04B /* Code sense */;
+		executables = (
+			68AE01C911CCF2F20034A04B /* Shake */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308940922;
+			PBXWorkspaceStateSaveDate = 308940922;
+		};
+		perUserProjectItems = {
+			688A6E6F126A109A00285EB4 /* PBXTextBookmark */ = 688A6E6F126A109A00285EB4 /* PBXTextBookmark */;
+			688E29C311E408B0007A4F91 /* PBXTextBookmark */ = 688E29C311E408B0007A4F91 /* PBXTextBookmark */;
+			68AE01D311CCF46E0034A04B /* PBXTextBookmark */ = 68AE01D311CCF46E0034A04B /* PBXTextBookmark */;
+			68D67D9511CD50BA009A9792 /* PBXTextBookmark */ = 68D67D9511CD50BA009A9792 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68AE01CF11CCF2F30034A04B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	688A6E6F126A109A00285EB4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ShakeViewController.m */;
+		name = "ShakeViewController.m: 19";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 406;
+		vrLoc = 137;
+	};
+	688E29C311E408B0007A4F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ShakeViewController.m */;
+		name = "ShakeViewController.m: 13";
+		rLen = 332;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 406;
+		vrLoc = 137;
+	};
+	68AE01C911CCF2F20034A04B /* Shake */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Shake;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68AE01CF11CCF2F30034A04B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68AE01D011CCF2F30034A04B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68AE01D311CCF46E0034A04B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ShakeAppDelegate.m */;
+		name = "ShakeAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 3;
+	};
+	68D67D9511CD50BA009A9792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ShakeViewController.h */;
+		name = "ShakeViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 224;
+		vrLoc = 0;
+	};
+}

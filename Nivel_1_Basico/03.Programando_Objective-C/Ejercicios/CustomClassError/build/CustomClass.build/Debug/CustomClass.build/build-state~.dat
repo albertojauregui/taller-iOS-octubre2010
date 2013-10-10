@@ -1,0 +1,128 @@
+TCustomClass
+v7
+r0
+t309120832.159448
+cCheck dependencies
+cProcessPCH /var/folders/D7/D7pdOwpNHUmlN8PcncbI0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomClass_Prefix-doltoqelomkvbcfpgaizwqtdhqxj/CustomClass_Prefix.pch.gch CustomClass_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/CustomClass.o /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/Persona.o /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7E366000000000000000EE
+t1266562656
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004AD8432D0000000000B37440
+t1255686957
+s11760704
+
+N/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass.m
+c000000004C510256000000000000011A
+t1280377430
+s282
+i<Foundation/Foundation.h>
+
+N/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass_Prefix.pch
+c000000004C18748400000000000000A4
+t1276671108
+s164
+i<Foundation/Foundation.h>
+
+N/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h
+c000000004C51029A000000000000014D
+t1280377498
+s333
+i<Foundation/Foundation.h>
+
+N/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m
+c000000004C18F5EA000000000000013C
+t1276704234
+s316
+i"Persona.h"
+
+N/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/CustomClass.LinkFileList
+c000000004CBC97BE000000000000018C
+t1287428030
+s396
+
+N/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/CustomClass.o
+t2
+s0
+
+N/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/Persona.o
+t2
+s0
+
+N/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/Debug/CustomClass
+t1278346860
+s17812
+
+N/var/folders/D7/D7pdOwpNHUmlN8PcncbI0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomClass_Prefix-doltoqelomkvbcfpgaizwqtdhqxj/CustomClass_Prefix.pch.gch
+t1287428032
+s41736176
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309120830#309120830#0(0"0(0#1#0"8619649184#0"0#
+
+CCompileC build/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/CustomClass.o /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309120832.046943
+e309120832.159072
+r0
+xCompileC
+xbuild/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/CustomClass.o
+x/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass.m:2: error: expected '=', ',', ';', 'asm' or '__attribute__' before string constant
+lSLF07#2@139"Compile /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass.m309120832#309120832#0(214"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass.m:2: error: expected '=', ',', ';', 'asm' or '__attribute__' before string constant1(4@71"Expected '=', ',', ';', 'asm' or '__attribute__' before string constant309120832#0#214#0(6@131"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass.m302070230#2#0#2#0#19"expected * before *0(0#0#131"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass.m8618418528#2405"    cd /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-generated-files.hmap -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-own-target-headers.hmap -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-all-target-headers.hmap -iquote /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-project-headers.hmap -F/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/Debug -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/Debug/include -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/DerivedSources/i386 -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/DerivedSources -include /var/folders/D7/D7pdOwpNHUmlN8PcncbI0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomClass_Prefix-doltoqelomkvbcfpgaizwqtdhqxj/CustomClass_Prefix.pch -c /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass.m -o /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/CustomClass.o1#
+
+CCompileC build/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/Persona.o /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309120832.047885
+e309120832.159378
+r0
+xCompileC
+xbuild/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/Persona.o
+x/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:9:
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h:10: error: expected identifier or '(' before ',' token
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h:20: error: expected '{' before '-' token
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h:22: warning: '@end' must appear in an @implementation context
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:14: warning: cannot find interface declaration for 'Persona'
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m: In function '-[Persona saludar]':
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:15: error: 'nombre' undeclared (first use in this function)
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:15: error: (Each undeclared identifier is reported only once
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:15: error: for each function it appears in.)
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m: In function '-[Persona setNombre:edad:]':
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:19: error: 'nombre' undeclared (first use in this function)
+o/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:20: error: 'edad' undeclared (first use in this function)
+lSLF07#2@135"Compile /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m309120832#309120832#0(2142"In file included from /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:9:/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h:10: error: expected identifier or '(' before ',' token/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h:20: error: expected '{' before '-' token/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h:22: warning: '@end' must appear in an @implementation context/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:14: warning: cannot find interface declaration for 'Persona'/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m: In function '-[Persona saludar]':/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:15: error: 'nombre' undeclared (first use in this function)/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:15: error: (Each undeclared identifier is reported only once/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:15: error: for each function it appears in.)/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m: In function '-[Persona setNombre:edad:]':/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:19: error: 'nombre' undeclared (first use in this function)/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m:20: error: 'edad' undeclared (first use in this function)7(4@43"Expected identifier or '(' before ',' token309120832#153#183#2(7@149"In file included from /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m309120832#18446744073709551615#0#0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m298397034#9#0#9#0#0"0(13@174"Expected identifier or '(' before ',' token in /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h309120832#18446744073709551615#0#0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h302070298#10#0#10#0#0"0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h302070298#10#0#10#0#19"expected * before *0(4@29"Expected '{' before '-' token309120832#336#169#2(7@149"In file included from /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m309120832#18446744073709551615#0#0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m298397034#9#0#9#0#0"0(13@160"Expected '{' before '-' token in /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h309120832#18446744073709551615#0#0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h302070298#20#0#20#0#0"0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h302070298#20#0#20#0#19"expected * before *0(22@48"'@end' must appear in an @implementation context309120832#505#190#2(7@149"In file included from /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m309120832#18446744073709551615#0#0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m298397034#9#0#9#0#0"0(13@179"'@end' must appear in an @implementation context in /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h309120832#18446744073709551615#0#0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h302070298#22#0#22#0#0"0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.h302070298#22#0#22#0#0"0(22@47"Cannot find interface declaration for 'Persona'309120832#695#189#0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m298397034#14#0#14#0#0"0(4@48"'nombre' undeclared (first use in this function)309120832#1047#188#0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m298397034#15#0#15#0#43"'*' undeclared (first use in this function)0(4@48"'nombre' undeclared (first use in this function)309120832#1768#188#0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m298397034#19#0#19#0#43"'*' undeclared (first use in this function)0(4@46"'edad' undeclared (first use in this function)309120832#1956#186#0(6@127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m298397034#20#0#20#0#43"'*' undeclared (first use in this function)0(0#0#127"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m8599511968#2397"    cd /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-generated-files.hmap -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-own-target-headers.hmap -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-all-target-headers.hmap -iquote /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-project-headers.hmap -F/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/Debug -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/Debug/include -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/DerivedSources/i386 -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/DerivedSources -include /var/folders/D7/D7pdOwpNHUmlN8PcncbI0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomClass_Prefix-doltoqelomkvbcfpgaizwqtdhqxj/CustomClass_Prefix.pch -c /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/Persona.m -o /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/Objects-normal/i386/Persona.o1#
+
+CLd /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/Debug/CustomClass normal i386
+r0
+
+CProcessPCH /var/folders/D7/D7pdOwpNHUmlN8PcncbI0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomClass_Prefix-doltoqelomkvbcfpgaizwqtdhqxj/CustomClass_Prefix.pch.gch CustomClass_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309120830.131131
+e309120832.046794
+r1
+xProcessPCH
+x/var/folders/D7/D7pdOwpNHUmlN8PcncbI0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomClass_Prefix-doltoqelomkvbcfpgaizwqtdhqxj/CustomClass_Prefix.pch.gch
+xCustomClass_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile CustomClass_Prefix.pch309120830#309120832#0(0"0(0#0#140"/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass_Prefix.pch8630175168#2216"    cd /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-generated-files.hmap -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-own-target-headers.hmap -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-all-target-headers.hmap -iquote /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/CustomClass-project-headers.hmap -F/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/Debug -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/Debug/include -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/DerivedSources/i386 -I/Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/build/CustomClass.build/Debug/CustomClass.build/DerivedSources -c /Users/administrator/Desktop/Curso_iPhone_SDK_4/Nivel_1_Basico/03.Programando_Objective-C/Ejercicios/CustomClassError/CustomClass_Prefix.pch -o /var/folders/D7/D7pdOwpNHUmlN8PcncbI0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomClass_Prefix-doltoqelomkvbcfpgaizwqtdhqxj/CustomClass_Prefix.pch.gch0#
+

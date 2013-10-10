@@ -1,0 +1,626 @@
+TAcelerometro
+v7
+r0
+t303247890.917378
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Info.plist" Acelerometro-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/AcelerometroViewController.xib"
+cCopyPNGFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/carita.png" carita.png
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-eyfwfyoxzbbhiydunfimrhyhjwtr/Acelerometro_Prefix.pch.gch Acelerometro_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-echfzvtxuthdkzdtqawxcbnholhi/Acelerometro_Prefix.pch.gch Acelerometro_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/main.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/main.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro" normal armv6
+cCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro" normal armv7
+cCreateUniversalBinary "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004C5A54C20000000000000110
+t1280988354
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C60E0A40000000000000110
+t1281417380
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/AcelerometroViewController.xib
+c000000004C1D1B6F00000000000034FF
+t1276975983
+s13567
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch
+c000000004C1CB03500000000000000C1
+t1276948533
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.h
+c000000004C1CB03500000000000001F5
+t1276948533
+s501
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m
+c000000004C1CB035000000000000027B
+t1276948533
+s635
+i"AcelerometroAppDelegate.h"
+i"AcelerometroViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.h
+c000000004C62F9F900000000000001E0
+t1281554937
+s480
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m
+c000000004C3490CC000000000000079C
+t1278513356
+s1948
+i"AcelerometroViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/MainWindow.xib
+c000000004C1CB035000000000000244C
+t1276948533
+s9292
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro
+t1281555090
+s18416
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro.LinkFileList
+c000000004C62F9520000000000000284
+t1281554770
+s644
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroAppDelegate.o
+t1281555090
+s45032
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroViewController.o
+t1281555090
+s42204
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/main.o
+t1281554817
+s6584
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro
+t1281555090
+s18416
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro.LinkFileList
+c000000004C62F9520000000000000284
+t1281554770
+s644
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroAppDelegate.o
+t1281555090
+s45028
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroViewController.o
+t1281555090
+s42180
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/main.o
+t1281554817
+s6564
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app
+t1281555090
+s272
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app.dSYM
+t1281555090
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro
+t1281555090
+s42992
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/AcelerometroViewController.nib
+t1276977275
+s2771
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Info.plist
+t1276977354
+s622
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/MainWindow.nib
+t1276977275
+s1505
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/PkgInfo
+t1276977354
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/carita.png
+t1276977275
+s8641
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/carita.png
+c000000004BE8C51B0000000000002453
+t1273546011
+s9299
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m
+c000000004C1CB0350000000000000166
+t1276948533
+s358
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/AcelerometroViewController.xib
+c000000004C1D1B6F00000000000034FF
+t1276975983
+s13567
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch
+c000000004C1CB03500000000000000C1
+t1276948533
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.h
+c000000004C1CB03500000000000001F5
+t1276948533
+s501
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m
+c000000004C1CB035000000000000027B
+t1276948533
+s635
+i"AcelerometroAppDelegate.h"
+i"AcelerometroViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.h
+c000000004C62F9F900000000000001E0
+t1281554937
+s480
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m
+c000000004C3490CC000000000000079C
+t1278513356
+s1948
+i"AcelerometroViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/MainWindow.xib
+c000000004C1CB035000000000000244C
+t1276948533
+s9292
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro
+t1281555090
+s18416
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro.LinkFileList
+c000000004C62F9520000000000000284
+t1281554770
+s644
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroAppDelegate.o
+t1281555090
+s45032
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroViewController.o
+t1281555090
+s42204
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/main.o
+t1281554817
+s6584
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro
+t1281555090
+s18416
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro.LinkFileList
+c000000004C62F9520000000000000284
+t1281554770
+s644
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroAppDelegate.o
+t1281555090
+s45028
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroViewController.o
+t1281555090
+s42180
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/main.o
+t1281554817
+s6564
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app
+t1281555090
+s272
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app.dSYM
+t1281555090
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro
+t1281555090
+s42992
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/AcelerometroViewController.nib
+t1276977275
+s2771
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Info.plist
+t1276977354
+s622
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/MainWindow.nib
+t1276977275
+s1505
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/PkgInfo
+t1276977354
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/carita.png
+t1276977275
+s8641
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/carita.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m
+c000000004C1CB0350000000000000166
+t1276948533
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-ajvaduhuqiwikffrjlqkioveijhr/Acelerometro_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-aokbttmyurvzuueaehspbccdyjgv/Acelerometro_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-dyycvhfvyzsqjcbcczfnbluujhkq/Acelerometro_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-echfzvtxuthdkzdtqawxcbnholhi/Acelerometro_Prefix.pch.gch
+t1281554817
+s10094128
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-ehcijllpijahbcfmqgoouyxxqyrr/Acelerometro_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-eyfwfyoxzbbhiydunfimrhyhjwtr/Acelerometro_Prefix.pch.gch
+t1281554816
+s9631280
+
+NAcelerometro-Info.plist
+c000000004C1D20A20000000000000397
+t1276977314
+s919
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303247890#303247890#0(0"0(0#1#0"8606862080#0"0#
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s303247890.512336
+e303247890.639669
+r1
+xCompileC
+xbuild/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@153"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m303247890#303247890#0(0"0(0#0#145"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m8606405920#2730"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources/armv6" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-eyfwfyoxzbbhiydunfimrhyhjwtr/Acelerometro_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroAppDelegate.o"0#
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s303247890.513481
+e303247890.691092
+r1
+xCompileC
+xbuild/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@156"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m303247890#303247890#0(0"0(0#0#148"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m8600102432#2736"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources/armv6" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-eyfwfyoxzbbhiydunfimrhyhjwtr/Acelerometro_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroViewController.o"0#
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/AcelerometroViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/main.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s303247617.172791
+e303247617.325742
+r1
+xCompileC
+xbuild/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m303247617#303247617#0(0"0(0#0#118"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m8603044736#2684"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources/armv6" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-eyfwfyoxzbbhiydunfimrhyhjwtr/Acelerometro_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s303247890.639894
+e303247890.774215
+r1
+xCompileC
+xbuild/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@153"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m303247890#303247890#0(0"0(0#0#145"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m8617995712#2730"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources/armv7" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-echfzvtxuthdkzdtqawxcbnholhi/Acelerometro_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroAppDelegate.o"0#
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s303247890.725511
+e303247890.855084
+r1
+xCompileC
+xbuild/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@156"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m303247890#303247890#0(0"0(0#0#148"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m8607445056#2736"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources/armv7" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-echfzvtxuthdkzdtqawxcbnholhi/Acelerometro_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroViewController.o"0#
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/AcelerometroViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Classes/AcelerometroViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/main.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s303247617.370163
+e303247617.447968
+r1
+xCompileC
+xbuild/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m303247617#303247617#0(0"0(0#0#118"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m8606478624#2684"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources/armv7" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-echfzvtxuthdkzdtqawxcbnholhi/Acelerometro_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/main.o"0#
+
+CCompileC build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/AcelerometroViewController.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/AcelerometroViewController.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/carita.png" carita.png
+r0
+
+CCopyPNGFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/carita.png" carita.png
+r0
+
+CCreateUniversalBinary "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro" normal "armv6 armv7"
+s303247890.883225
+e303247890.886473
+r1
+xCreateUniversalBinary
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro
+xnormal
+xarmv6 armv7
+lSLF07#2@95"CreateUniversalBinary build/Release-iphoneos/Acelerometro.app/Acelerometro normal "armv6 armv7"303247890#303247890#0(0"0(0#0#123"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/armv6 armv78617147072#864"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro" "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro" -output "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro"0#
+
+CCreateUniversalBinary "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro"
+s303247890.886563
+e303247890.913810
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro
+lSLF07#2@114"GenerateDSYMFile build/Release-iphoneos/Acelerometro.app.dSYM build/Release-iphoneos/Acelerometro.app/Acelerometro303247890#303247890#0(0"0(0#0#164"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro8609621472#606"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Acelerometro"
+r0
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro" normal armv6
+s303247890.691334
+e303247890.725401
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro
+xnormal
+xarmv6
+lSLF07#2@211"Link /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro303247890#303247890#0(0"0(0#0#0"8611140736#1272"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro" normal armv7
+s303247890.855180
+e303247890.883114
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro
+xnormal
+xarmv7
+lSLF07#2@211"Link /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro303247890#303247890#0(0"0(0#0#0"8617999968#1272"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv6/Acelerometro" normal armv6
+r0
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Objects-normal/armv7/Acelerometro" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Info.plist" Acelerometro-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app/Info.plist" Acelerometro-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-ajvaduhuqiwikffrjlqkioveijhr/Acelerometro_Prefix.pch.gch Acelerometro_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s303247570.788503
+e303247571.913209
+r0
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-ajvaduhuqiwikffrjlqkioveijhr/Acelerometro_Prefix.pch.gch
+xAcelerometro_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:12,
+o                 from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6,
+o                 from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch:6:
+o/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h:4:25: error: stdarg.h: No such file or directory
+oIn file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:16,
+o                 from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6,
+o                 from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch:6:
+o/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/float.h:8:24: error: float.h: No such file or directory
+lSLF07#2@34"Precompile Acelerometro_Prefix.pch303247570#303247571#0(1270"In file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:12,                 from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6,                 from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch:6:/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h:4:25: error: stdarg.h: No such file or directoryIn file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:16,                 from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6,                 from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch:6:/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/float.h:8:24: error: float.h: No such file or directory2(4@35"Stdarg.h: No such file or directory303247571#496#140#4(7@157"In file included from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch303247571#18446744073709551615#0#0(6@135"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch298641333#6#0#6#0#0"0(7@159"In file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h303247571#18446744073709551615#0#0(6@137"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h263972427#6#0#6#0#0"0(7@167"In file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h303247571#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h263971706#12#0#12#0#0"0(13@129"Stdarg.h: No such file or directory in /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h303247571#18446744073709551615#0#0(6@90"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h263969428#4#0#4#0#0"0(6@90"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h263969428#4#0#4#0#28"*: No such file or directory0(4@34"Float.h: No such file or directory303247571#1132#138#4(7@157"In file included from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch303247571#18446744073709551615#0#0(6@135"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch298641333#6#0#6#0#0"0(7@159"In file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h303247571#18446744073709551615#0#0(6@137"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h263972427#6#0#6#0#0"0(7@167"In file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h303247571#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h263971706#16#0#16#0#0"0(13@127"Float.h: No such file or directory in /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/float.h303247571#18446744073709551615#0#0(6@89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/float.h263969428#8#0#8#0#0"0(6@89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/float.h263969428#8#0#8#0#28"*: No such file or directory0(0#0#135"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch8387230206475463680#2500"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources/armv6" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-ajvaduhuqiwikffrjlqkioveijhr/Acelerometro_Prefix.pch.gch1#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-aokbttmyurvzuueaehspbccdyjgv/Acelerometro_Prefix.pch.gch Acelerometro_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-dyycvhfvyzsqjcbcczfnbluujhkq/Acelerometro_Prefix.pch.gch Acelerometro_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s303247570.816058
+e303247571.913417
+r0
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-dyycvhfvyzsqjcbcczfnbluujhkq/Acelerometro_Prefix.pch.gch
+xAcelerometro_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:12,
+o                 from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6,
+o                 from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch:6:
+o/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h:4:25: error: stdarg.h: No such file or directory
+oIn file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:16,
+o                 from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6,
+o                 from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch:6:
+o/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/float.h:8:24: error: float.h: No such file or directory
+lSLF07#2@34"Precompile Acelerometro_Prefix.pch303247570#303247571#0(1270"In file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:12,                 from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6,                 from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch:6:/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h:4:25: error: stdarg.h: No such file or directoryIn file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:16,                 from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6,                 from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch:6:/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/float.h:8:24: error: float.h: No such file or directory2(4@35"Stdarg.h: No such file or directory303247571#496#140#4(7@157"In file included from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch303247571#18446744073709551615#0#0(6@135"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch298641333#6#0#6#0#0"0(7@159"In file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h303247571#18446744073709551615#0#0(6@137"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h263972427#6#0#6#0#0"0(7@167"In file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h303247571#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h263971706#12#0#12#0#0"0(13@129"Stdarg.h: No such file or directory in /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h303247571#18446744073709551615#0#0(6@90"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h263969428#4#0#4#0#0"0(6@90"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdarg.h263969428#4#0#4#0#28"*: No such file or directory0(4@34"Float.h: No such file or directory303247571#1132#138#4(7@157"In file included from /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch303247571#18446744073709551615#0#0(6@135"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch298641333#6#0#6#0#0"0(7@159"In file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h303247571#18446744073709551615#0#0(6@137"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h263972427#6#0#6#0#0"0(7@167"In file included from /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h303247571#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h263971706#16#0#16#0#0"0(13@127"Float.h: No such file or directory in /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/float.h303247571#18446744073709551615#0#0(6@89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/float.h263969428#8#0#8#0#0"0(6@89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/float.h263969428#8#0#8#0#28"*: No such file or directory0(0#0#135"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch8606412544#2500"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources/armv7" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-dyycvhfvyzsqjcbcczfnbluujhkq/Acelerometro_Prefix.pch.gch1#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-echfzvtxuthdkzdtqawxcbnholhi/Acelerometro_Prefix.pch.gch Acelerometro_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s303247616.120339
+e303247617.172679
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-echfzvtxuthdkzdtqawxcbnholhi/Acelerometro_Prefix.pch.gch
+xAcelerometro_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Acelerometro_Prefix.pch303247616#303247617#0(0"0(0#0#135"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch8607457280#2500"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources/armv7" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-echfzvtxuthdkzdtqawxcbnholhi/Acelerometro_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-ehcijllpijahbcfmqgoouyxxqyrr/Acelerometro_Prefix.pch.gch Acelerometro_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-eyfwfyoxzbbhiydunfimrhyhjwtr/Acelerometro_Prefix.pch.gch Acelerometro_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s303247616.118344
+e303247617.087281
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-eyfwfyoxzbbhiydunfimrhyhjwtr/Acelerometro_Prefix.pch.gch
+xAcelerometro_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Acelerometro_Prefix.pch303247616#303247617#0(0"0(0#0#135"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch8600773632#2500"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/Acelerometro-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources/armv6" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Acelerometro.build/Release-iphoneos/Acelerometro.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/Acelerometro_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Acelerometro_Prefix-eyfwfyoxzbbhiydunfimrhyhjwtr/Acelerometro_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app"
+s303247890.913902
+e303247890.917328
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app
+lSLF07#2@157"Touch /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app303247890#303247890#0(0"0(0#0#0"8607275168#421"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app"0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/11.Usando_Acelerometro_1/Ejercicios/Acelerometro/build/Release-iphoneos/Acelerometro.app"
+r0
+

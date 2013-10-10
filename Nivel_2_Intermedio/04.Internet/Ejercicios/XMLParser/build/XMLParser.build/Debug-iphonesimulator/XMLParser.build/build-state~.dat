@@ -1,0 +1,308 @@
+TXMLParser
+v7
+r0
+t308942511.508692
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/Info.plist" XMLParser-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/XMLParserViewController.xib"
+cCpResource build/Debug-iphonesimulator/XMLParser.app/Gucci.jpg Gucci.jpg
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLParser_Prefix-gfrvuuxvfmysepbddvgxkkrxkyog/XMLParser_Prefix.pch.gch XMLParser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParserAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParserViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLParser.h
+c000000004A0BAB280000000000002CD0
+t1242278696
+s11472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLParser.h
+c000000004BFDFE6F0000000000002D38
+t1274936943
+s11576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserAppDelegate.h
+c000000004C21B42F00000000000001E3
+t1277277231
+s483
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserAppDelegate.m
+c000000004C21B42F000000000000026C
+t1277277231
+s620
+i"XMLParserAppDelegate.h"
+i"XMLParserViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.h
+c000000004C21CBEF00000000000001B9
+t1277283311
+s441
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m
+c000000004C2557F40000000000001299
+t1277515764
+s4761
+i"XMLParserViewController.h"
+i<Foundation/Foundation.h>
+i<Foundation/NSXMLParser.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Gucci.jpg
+c000000004C202D460000000000013005
+t1277177158
+s77829
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/MainWindow.xib
+c000000004C21B42F000000000000242B
+t1277277231
+s9259
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/XMLParserViewController.xib
+c000000004C21CF880000000000002F60
+t1277284232
+s12128
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/XMLParser_Prefix.pch
+c000000004C21B42F00000000000000BB
+t1277277231
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app
+t1287249711
+s272
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app.dSYM
+t1287249711
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/Gucci.jpg
+t1277515008
+s77829
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/Info.plist
+t1277515007
+s570
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/MainWindow.nib
+t1277515007
+s1499
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/PkgInfo
+t1277515007
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser
+t1287249711
+s18896
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParserViewController.nib
+t1277515007
+s3587
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParser.LinkFileList
+c000000004CB9DF2D0000000000000266
+t1287249709
+s614
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParserAppDelegate.o
+t1287249711
+s47392
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParserViewController.o
+t1287249711
+s49464
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/main.o
+t1287249711
+s6436
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/main.m
+c000000004C21B42F0000000000000163
+t1277277231
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLParser_Prefix-futswalzmdzocuanbkvffeepbnfs/XMLParser_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLParser_Prefix-gfrvuuxvfmysepbddvgxkkrxkyog/XMLParser_Prefix.pch.gch
+t1287249710
+s15232016
+
+NXMLParser-Info.plist
+c000000004C21B42F000000000000038D
+t1277277231
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308942509#308942509#0(0"0(0#1#0"8644589504#0"0#
+
+CCompileC build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParserAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942510.983036
+e308942511.137439
+r1
+xCompileC
+xbuild/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParserAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@144"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserAppDelegate.m308942510#308942511#0(0"0(0#0#136"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserAppDelegate.m8616931136#2740"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLParser_Prefix-gfrvuuxvfmysepbddvgxkkrxkyog/XMLParser_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParserAppDelegate.o"0#
+
+CCompileC build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParserViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942511.056196
+e308942511.223995
+r1
+xCompileC
+xbuild/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParserViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m: In function '-[XMLParserViewController parserDidEndDocument:]':
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m:36: warning: format not a string literal and no format arguments
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m: In function '-[XMLParserViewController parseXMLFileAtURL:]':
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m:55: warning: class 'XMLParserViewController' does not implement the 'NSXMLParserDelegate' protocol
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m: In function '-[XMLParserViewController parser:didEndElement:namespaceURI:qualifiedName:]':
+o/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m:78: warning: format not a string literal and no format arguments
+lSLF07#2@147"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m308942511#308942511#0(1288"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m: In function '-[XMLParserViewController parserDidEndDocument:]':/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m:36: warning: format not a string literal and no format arguments/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m: In function '-[XMLParserViewController parseXMLFileAtURL:]':/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m:55: warning: class 'XMLParserViewController' does not implement the 'NSXMLParserDelegate' protocol/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m: In function '-[XMLParserViewController parser:didEndElement:namespaceURI:qualifiedName:]':/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m:78: warning: format not a string literal and no format arguments3(22@51"Format not a string literal and no format arguments308942511#205#205#0(6@139"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m299208564#36#0#36#0#51"format not a string literal and no format arguments0(22@85"Class 'XMLParserViewController' does not implement the 'NSXMLParserDelegate' protocol308942511#612#239#0(6@139"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m299208564#55#0#55#0#45"class '*' does not implement the '*' protocol0(22@51"Format not a string literal and no format arguments308942511#1083#205#0(6@139"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m299208564#78#0#78#0#51"format not a string literal and no format arguments0(0#0#139"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m8616797984#2746"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLParser_Prefix-gfrvuuxvfmysepbddvgxkkrxkyog/XMLParser_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/Classes/XMLParserViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParserViewController.o"0#
+
+CCompileC build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942510.981549
+e308942511.056088
+r1
+xCompileC
+xbuild/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/main.m308942510#308942511#0(0"0(0#0#112"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/main.m8630894112#2700"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLParser_Prefix-gfrvuuxvfmysepbddvgxkkrxkyog/XMLParser_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/XMLParserViewController.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/XMLParser.app/Gucci.jpg Gucci.jpg
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser"
+s308942511.349614
+e308942511.505361
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/XMLParser.app.dSYM build/Debug-iphonesimulator/XMLParser.app/XMLParser308942511#308942511#0(0"0(0#0#157"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser8590238688#596"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser" normal i386
+s308942511.224130
+e308942511.349503
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser
+xnormal
+xi386
+lSLF07#2@162"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser308942511#308942511#0(0"0(0#0#0"8642744672#1255"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/Objects-normal/i386/XMLParser.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/XMLParser"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app/Info.plist" XMLParser-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLParser_Prefix-futswalzmdzocuanbkvffeepbnfs/XMLParser_Prefix.pch.gch XMLParser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLParser_Prefix-gfrvuuxvfmysepbddvgxkkrxkyog/XMLParser_Prefix.pch.gch XMLParser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308942509.897263
+e308942510.981405
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLParser_Prefix-gfrvuuxvfmysepbddvgxkkrxkyog/XMLParser_Prefix.pch.gch
+xXMLParser_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile XMLParser_Prefix.pch308942509#308942510#0(0"0(0#0#126"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/XMLParser_Prefix.pch8642695680#2521"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/XMLParser-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/XMLParser.build/Debug-iphonesimulator/XMLParser.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/XMLParser_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLParser_Prefix-gfrvuuxvfmysepbddvgxkkrxkyog/XMLParser_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app"
+s308942511.505678
+e308942511.508639
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app
+lSLF07#2@153"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app308942511#308942511#0(0"0(0#0#0"8643158752#418"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/04.Internet/Ejercicios/XMLParser/build/Debug-iphonesimulator/XMLParser.app"0#
+

@@ -1,0 +1,182 @@
+TZombies
+v7
+r0
+t308937153.709924
+cCheck dependencies
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Prefix-bkmcaebiunobojcqbctzbtcxklsi/Zombies_Prefix.pch.gch Zombies_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Zombies.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Persona.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/Zombies" normal i386
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C60525500000000000000EE
+t1281380949
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.h
+c000000004C19E00E000000000000012B
+t1276764174
+s299
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.m
+c000000004C19E0320000000000000141
+t1276764210
+s321
+i"Persona.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies.m
+c000000004C19E3770000000000000184
+t1276765047
+s388
+i<Foundation/Foundation.h>
+i"Persona.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies_Prefix.pch
+c000000004C19DF12000000000000009C
+t1276763922
+s156
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/Zombies
+t1287244353
+s14008
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Persona.o
+t1287244353
+s6404
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Zombies.LinkFileList
+c000000004CB9CA3E000000000000014C
+t1287244350
+s332
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Zombies.o
+t1287244353
+s6536
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.h
+c000000004C19E00E000000000000012B
+t1276764174
+s299
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.m
+c000000004C19E0320000000000000141
+t1276764210
+s321
+i"Persona.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies.m
+c000000004C19E3770000000000000184
+t1276765047
+s388
+i<Foundation/Foundation.h>
+i"Persona.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies_Prefix.pch
+c000000004C19DF12000000000000009C
+t1276763922
+s156
+i<Foundation/Foundation.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/Zombies
+t1287244353
+s14008
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Persona.o
+t1287244353
+s6404
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Zombies.LinkFileList
+c000000004CB9CA3E000000000000014C
+t1287244350
+s332
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Zombies.o
+t1287244353
+s6536
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Prefix-bkmcaebiunobojcqbctzbtcxklsi/Zombies_Prefix.pch.gch
+t1287244353
+s41736176
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Prefix-csdrzkvuatrhordlbvwiwzecackh/Zombies_Prefix.pch.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308937150#308937150#0(0"0(0#1#0"8608135520#0"0#
+
+CCompileC build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Persona.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308937153.310650
+e308937153.457321
+r1
+xCompileC
+xbuild/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Persona.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.m308937153#308937153#0(0"0(0#0#105"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.m8599972640#2097"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Prefix-bkmcaebiunobojcqbctzbtcxklsi/Zombies_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Persona.o"0#
+
+CCompileC build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Persona.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Persona.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Zombies.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308937153.307798
+e308937153.439720
+r1
+xCompileC
+xbuild/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Zombies.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies.m308937153#308937153#0(0"0(0#0#105"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies.m8606093408#2097"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Prefix-bkmcaebiunobojcqbctzbtcxklsi/Zombies_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Zombies.o"0#
+
+CCompileC build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Zombies.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/Zombies" normal i386
+s308937153.457418
+e308937153.709873
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/Zombies
+xnormal
+xi386
+lSLF07#2@120"Link /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/Zombies308937153#308937153#0(0"0(0#0#0"8601210368#811"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Objects-normal/i386/Zombies.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/Zombies"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/Zombies" normal i386
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Prefix-bkmcaebiunobojcqbctzbtcxklsi/Zombies_Prefix.pch.gch Zombies_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308937150.699529
+e308937153.307564
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Prefix-bkmcaebiunobojcqbctzbtcxklsi/Zombies_Prefix.pch.gch
+xZombies_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Zombies_Prefix.pch308937150#308937153#0(0"0(0#0#114"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies_Prefix.pch8606370816#1940"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/Zombies-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Debug/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/build/Zombies.build/Debug/Zombies.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/Zombies/Zombies_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Prefix-bkmcaebiunobojcqbctzbtcxklsi/Zombies_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Prefix-csdrzkvuatrhordlbvwiwzecackh/Zombies_Prefix.pch.gch Zombies_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+

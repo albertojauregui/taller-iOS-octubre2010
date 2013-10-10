@@ -1,0 +1,407 @@
+TToFix
+v7
+r0
+t308936996.719831
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/Info.plist" ToFix-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFixViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-bpidlqdsvcanzabsgurachsnouiv/ToFix_Prefix.pch.gch ToFix_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.h
+c000000004C19D47F00000000000001CB
+t1276761215
+s459
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.m
+c000000004C19D47F0000000000000258
+t1276761215
+s600
+i"ToFixAppDelegate.h"
+i"ToFixViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.h
+c000000004CB9C9B1000000000000014B
+t1287244209
+s331
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m
+c000000004CB9C9AC000000000000062B
+t1287244204
+s1579
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/MainWindow.xib
+c000000004C19D47F00000000000023FF
+t1276761215
+s9215
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFixViewController.xib
+c000000004CB9C99A0000000000004F3F
+t1287244186
+s20287
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFix_Prefix.pch
+c000000004C19D47F00000000000000B3
+t1276761215
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app
+t1287244196
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app.dSYM
+t1287244196
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/Info.plist
+t1276761544
+s554
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/MainWindow.nib
+t1276761544
+s1491
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/PkgInfo
+t1276761544
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix
+t1287244196
+s16924
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFixViewController.nib
+t1287244196
+s1732
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFix.LinkFileList
+c000000004CB9C5DB0000000000000222
+t1287243227
+s546
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixAppDelegate.o
+t1287244196
+s45348
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixViewController.o
+t1287244196
+s36760
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/main.o
+t1287243228
+s6412
+
+N/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/main.m
+c000000004C19D47F000000000000015F
+t1276761215
+s351
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.h
+c000000004C19D47F00000000000001CB
+t1276761215
+s459
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.m
+c000000004C19D47F0000000000000258
+t1276761215
+s600
+i"ToFixAppDelegate.h"
+i"ToFixViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.h
+c000000004CB9C9B1000000000000014B
+t1287244209
+s331
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m
+c000000004CB9C9AC000000000000062B
+t1287244204
+s1579
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/MainWindow.xib
+c000000004C19D47F00000000000023FF
+t1276761215
+s9215
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFixViewController.xib
+c000000004CB9C9B30000000000004F3F
+t1287244211
+s20287
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFix_Prefix.pch
+c000000004C19D47F00000000000000B3
+t1276761215
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app
+t1287244196
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app.dSYM
+t1287244196
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/Info.plist
+t1276761544
+s554
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/MainWindow.nib
+t1276761544
+s1491
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/PkgInfo
+t1276761544
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix
+t1287244196
+s16924
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFixViewController.nib
+t1287244196
+s1732
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFix.LinkFileList
+c000000004CB9C5DB0000000000000222
+t1287243227
+s546
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixAppDelegate.o
+t1287244196
+s45348
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixViewController.o
+t1287244196
+s36760
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/main.o
+t1287243228
+s6412
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/main.m
+c000000004C19D47F000000000000015F
+t1276761215
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-aemmmsbrorlcmubpaidmtlfcwiwn/ToFix_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-bpidlqdsvcanzabsgurachsnouiv/ToFix_Prefix.pch.gch
+t1287243227
+s15232016
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-ggoebcgztvzllndnzddkvxcwaeeg/ToFix_Prefix.pch.gch
+t2
+s0
+
+NToFix-Info.plist
+c000000004C19D47F000000000000038D
+t1276761215
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308936996#308936996#0(0"0(0#1#0"8608066656#0"0#
+
+CCompileC build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308936996.515790
+e308936996.627077
+r1
+xCompileC
+xbuild/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.m308936996#308936996#0(0"0(0#0#120"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.m8608104864#2520"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-bpidlqdsvcanzabsgurachsnouiv/ToFix_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixAppDelegate.o"0#
+
+CCompileC build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308936996.516866
+e308936996.653802
+r1
+xCompileC
+xbuild/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@131"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m308936996#308936996#0(0"0(0#0#123"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m8607807008#2526"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-bpidlqdsvcanzabsgurachsnouiv/ToFix_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixViewController.o"0#
+
+CCompileC build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFixViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/Classes/ToFixViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308936028.095753
+e308936028.304130
+r1
+xCompileC
+xbuild/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/main.m308936028#308936028#0(0"0(0#0#100"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/main.m8604462368#2488"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-bpidlqdsvcanzabsgurachsnouiv/ToFix_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFixViewController.xib"
+s308936996.052467
+e308936996.515462
+r1
+xCompileXIB
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFixViewController.xib
+lSLF07#2@34"CompileXIB ToFixViewController.xib308936996#308936996#0(0"0(0#0#117"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFixViewController.xib8609098592#757"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFixViewController.nib" "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFixViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFixViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix"
+s308936996.700129
+e308936996.717138
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/ToFix.app.dSYM build/Debug-iphonesimulator/ToFix.app/ToFix308936996#308936996#0(0"0(0#0#137"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix8609354176#548"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix" -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix"
+r0
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix" normal i386
+s308936996.653901
+e308936996.700019
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix
+xnormal
+xi386
+lSLF07#2@142"Link /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix308936996#308936996#0(0"0(0#0#0"8609434944#1175"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/Objects-normal/i386/ToFix.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/ToFix" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/Info.plist" ToFix-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app/Info.plist" ToFix-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-aemmmsbrorlcmubpaidmtlfcwiwn/ToFix_Prefix.pch.gch ToFix_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-bpidlqdsvcanzabsgurachsnouiv/ToFix_Prefix.pch.gch ToFix_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308936027.086631
+e308936028.095635
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-bpidlqdsvcanzabsgurachsnouiv/ToFix_Prefix.pch.gch
+xToFix_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile ToFix_Prefix.pch308936027#308936028#0(0"0(0#0#110"/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFix_Prefix.pch7378429254041102336#2325"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/ToFix-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/ToFix.build/Debug-iphonesimulator/ToFix.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/ToFix_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-bpidlqdsvcanzabsgurachsnouiv/ToFix_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToFix_Prefix-ggoebcgztvzllndnzddkvxcwaeeg/ToFix_Prefix.pch.gch ToFix_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app"
+s308936996.717228
+e308936996.719795
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app
+lSLF07#2@137"Touch /Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app308936996#308936996#0(0"0(0#0#0"8609269280#390"    cd "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app"0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_1_Basico/06.Depuracion/Ejercicios/ToFix/build/Debug-iphonesimulator/ToFix.app"
+r0
+

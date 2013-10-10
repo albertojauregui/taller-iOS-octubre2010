@@ -1,0 +1,287 @@
+TPhone
+v7
+r0
+t308945474.181624
+cCheck dependencies
+cProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Info.plist" Phone-Info.plist
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/MainWindow.xib"
+cCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/PhoneViewController.xib"
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-ggvwsbkuztppucccxlgpknlhlhih/Phone_Prefix.pch.gch Phone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/PhoneAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/PhoneViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone" normal i386
+cGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone"
+cTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C5A4ABB00000000000000EE
+t1280985787
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C604FE40000000000000132
+t1281380324
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneAppDelegate.h
+c000000004C24AFA300000000000001CB
+t1277472675
+s459
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneAppDelegate.m
+c000000004C24AFA30000000000000258
+t1277472675
+s600
+i"PhoneAppDelegate.h"
+i"PhoneViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneViewController.h
+c000000004C24B0F50000000000000125
+t1277473013
+s293
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneViewController.m
+c000000004CB9EAC0000000000000075B
+t1287252672
+s1883
+i"PhoneViewController.h"
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/MainWindow.xib
+c000000004C24AFA300000000000023FF
+t1277472675
+s9215
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/PhoneViewController.xib
+c000000004C24B0AB0000000000002B7B
+t1277472939
+s11131
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Phone_Prefix.pch
+c000000004C24AFA300000000000000B3
+t1277472675
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app
+t1287252674
+s238
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app.dSYM
+t1287252674
+s102
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Info.plist
+t1277472955
+s554
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/MainWindow.nib
+t1277472956
+s1491
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone
+t1287252674
+s17080
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/PhoneViewController.nib
+t1277472956
+s3295
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/PkgInfo
+t1277472955
+s8
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/Phone.LinkFileList
+c000000004CB9EAAF0000000000000270
+t1287252655
+s624
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/PhoneAppDelegate.o
+t1287252674
+s45400
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/PhoneViewController.o
+t1287252674
+s40820
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/main.o
+t1287252674
+s6464
+
+N/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/main.m
+c000000004C24AFA3000000000000015F
+t1277472675
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-dluxzhomxtwidzgbavqgjofoouix/Phone_Prefix.pch.gch
+t1287252656
+s12961168
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-ggvwsbkuztppucccxlgpknlhlhih/Phone_Prefix.pch.gch
+t1287252673
+s15232016
+
+NPhone-Info.plist
+c000000004C24AFA3000000000000038D
+t1277472675
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308945473#308945473#0(0"0(0#1#0"8655871136#0"0#
+
+CCompileC build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/PhoneAppDelegate.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945473.994237
+e308945474.083922
+r1
+xCompileC
+xbuild/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/PhoneAppDelegate.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@154"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneAppDelegate.m308945473#308945474#0(0"0(0#0#146"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneAppDelegate.m8655320992#2806"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-ggvwsbkuztppucccxlgpknlhlhih/Phone_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneAppDelegate.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/PhoneAppDelegate.o"0#
+
+CCompileC build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/PhoneViewController.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945474.057484
+e308945474.135585
+r1
+xCompileC
+xbuild/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/PhoneViewController.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@157"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneViewController.m308945474#308945474#0(0"0(0#0#149"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneViewController.m8654318464#2812"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-ggvwsbkuztppucccxlgpknlhlhih/Phone_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Classes/PhoneViewController.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/PhoneViewController.o"0#
+
+CCompileC build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/main.o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945473.993029
+e308945474.057366
+r1
+xCompileC
+xbuild/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/main.o
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@134"Compile /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/main.m308945473#308945474#0(0"0(0#0#126"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/main.m8655660448#2774"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/DerivedSources" -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-ggvwsbkuztppucccxlgpknlhlhih/Phone_Prefix.pch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/main.m" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/PhoneViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app.dSYM" "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone"
+s308945474.161577
+e308945474.178858
+r1
+xGenerateDSYMFile
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app.dSYM
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Phone.app.dSYM build/Debug-iphonesimulator/Phone.app/Phone308945474#308945474#0(0"0(0#0#163"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone8654456832#626"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone" -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app.dSYM"0#
+
+CLd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone" normal i386
+s308945474.135681
+e308945474.161461
+r1
+xLd
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone
+xnormal
+xi386
+lSLF07#2@168"Link /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone308945474#308945474#0(0"0(0#0#0"8655013856#1305"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator" -filelist "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Objects-normal/i386/Phone.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Phone"0#
+
+CProcessInfoPlistFile "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app/Info.plist" Phone-Info.plist
+r0
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-dluxzhomxtwidzgbavqgjofoouix/Phone_Prefix.pch.gch Phone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945455.543244
+e308945456.309799
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-dluxzhomxtwidzgbavqgjofoouix/Phone_Prefix.pch.gch
+xPhone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Phone_Prefix.pch308945455#308945456#0(0"0(0#0#136"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Phone_Prefix.pch8656067392#2585"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Phone_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-dluxzhomxtwidzgbavqgjofoouix/Phone_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-ggvwsbkuztppucccxlgpknlhlhih/Phone_Prefix.pch.gch Phone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308945473.270093
+e308945473.992908
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-ggvwsbkuztppucccxlgpknlhlhih/Phone_Prefix.pch.gch
+xPhone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Phone_Prefix.pch308945473#308945473#0(0"0(0#0#136"/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Phone_Prefix.pch8655017664#2585"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-generated-files.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-own-target-headers.hmap" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-all-target-headers.hmap" -iquote "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/Phone-project-headers.hmap" "-F/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/include" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/DerivedSources/i386" "-I/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Phone.build/Debug-iphonesimulator/Phone.build/DerivedSources" -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/Phone_Prefix.pch" -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Phone_Prefix-ggvwsbkuztppucccxlgpknlhlhih/Phone_Prefix.pch.gch0#
+
+CTouch "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app"
+s308945474.178952
+e308945474.181582
+r1
+xTouch
+x/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app
+lSLF07#2@163"Touch /Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app308945474#308945474#0(0"0(0#0#0"8651320384#442"    cd "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/renecruz/iPhone Development/Curso_iPhone_SDK_4/Nivel_2_Intermedio/09.Usando_iPhone_Applications/Ejercicios/Phone/build/Debug-iphonesimulator/Phone.app"0#
+

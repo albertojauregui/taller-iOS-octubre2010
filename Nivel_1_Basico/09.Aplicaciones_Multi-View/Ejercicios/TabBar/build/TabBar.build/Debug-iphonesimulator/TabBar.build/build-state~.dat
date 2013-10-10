@@ -1,0 +1,334 @@
+TTabBar
+v7
+r0
+t302563793.608739
+cCheck dependencies
+cProcessInfoPlistFile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/Info.plist TabBar-Info.plist
+cCompileXIB /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/MainWindow.xib
+cCompileXIB /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/SecondView.xib
+cCompileXIB /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.xib
+cCpResource build/Debug-iphonesimulator/TabBar.app/icono.png icono.png
+cProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-fycwhkopzjjsnggivribakibrctu/TabBar_Prefix.pch.gch TabBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/main.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBarAppDelegate.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TabBarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/FirstViewController.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TercerViewController.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004C547E0C00000000000000EE
+t1280605708
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/FirstViewController.h
+c000000004C1CA1EB00000000000000E1
+t1276944875
+s225
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/FirstViewController.m
+c000000004C1CA1EB00000000000005A6
+t1276944875
+s1446
+i"FirstViewController.h"
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TabBarAppDelegate.h
+c000000004C1CA1EB00000000000001CE
+t1276944875
+s462
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TabBarAppDelegate.m
+c000000004C1CA1EB00000000000003AE
+t1276944875
+s942
+i"TabBarAppDelegate.h"
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.h
+c000000004C1CA2A000000000000000E3
+t1276945056
+s227
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.m
+c000000004C1CA2A00000000000000573
+t1276945056
+s1395
+i"TercerViewController.h"
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.xib
+c000000004C1CA2C60000000000001C19
+t1276945094
+s7193
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/MainWindow.xib
+c000000004C1CA4990000000000004506
+t1276945561
+s17670
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/SecondView.xib
+c000000004C1CA1EB00000000000022B5
+t1276944875
+s8885
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/TabBar_Prefix.pch
+c000000004C1CA1EB00000000000000B5
+t1276944875
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app
+t1278302086
+s306
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app.dSYM
+t1278302086
+s102
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/Info.plist
+t1280870991
+s587
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/MainWindow.nib
+t1280870991
+s5131
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/PkgInfo
+t1280870991
+s8
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/SecondView.nib
+t1280870991
+s2871
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar
+t2
+s0
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/TercerViewController.nib
+t1280870992
+s1904
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/icono.png
+t1276945564
+s51939
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/FirstViewController.o
+t1280870993
+s29584
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBar.LinkFileList
+c000000004C1CA31100000000000002FC
+t1276945169
+s764
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBarAppDelegate.o
+t1280870993
+s41884
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TercerViewController.o
+t1280870993
+s29604
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/main.o
+t1280870993
+s6424
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/icono.png
+c000000004C1CA47A000000000000CAE3
+t1276945530
+s51939
+
+N/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/main.m
+c000000004C1CA1EB000000000000015C
+t1276944875
+s348
+i<UIKit/UIKit.h>
+
+N/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-fycwhkopzjjsnggivribakibrctu/TabBar_Prefix.pch.gch
+t1280870992
+s12961168
+
+NTabBar-Info.plist
+c000000004C1CA1EB000000000000038D
+t1276944875
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302563791#302563791#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/FirstViewController.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302563793.106591
+e302563793.166716
+r1
+xCompileC
+xbuild/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/FirstViewController.o
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@136"Compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/FirstViewController.m302563793#302563793#0(0"0(0#0#128"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/FirstViewController.m8603990464#2579"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-fycwhkopzjjsnggivribakibrctu/TabBar_Prefix.pch -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/FirstViewController.m -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBarAppDelegate.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TabBarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302563793.040070
+e302563793.106490
+r1
+xCompileC
+xbuild/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBarAppDelegate.o
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TabBarAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@134"Compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TabBarAppDelegate.m302563793#302563793#0(0"0(0#0#126"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TabBarAppDelegate.m8604508512#2575"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-fycwhkopzjjsnggivribakibrctu/TabBar_Prefix.pch -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TabBarAppDelegate.m -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBarAppDelegate.o0#
+
+CCompileC build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TercerViewController.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302563793.146044
+e302563793.220319
+r1
+xCompileC
+xbuild/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TercerViewController.o
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@137"Compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.m302563793#302563793#0(0"0(0#0#129"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.m8602399232#2581"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-fycwhkopzjjsnggivribakibrctu/TabBar_Prefix.pch -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.m -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TercerViewController.o0#
+
+CCompileC build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/main.o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302563793.038528
+e302563793.145935
+r1
+xCompileC
+xbuild/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/main.o
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/main.m302563793#302563793#0(0"0(0#0#105"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/main.m8606212576#2541"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources -include /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-fycwhkopzjjsnggivribakibrctu/TabBar_Prefix.pch -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/main.m -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.xib
+s302563791.939194
+e302563792.346528
+r1
+xCompileXIB
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.xib
+lSLF07#2@43"CompileXIB Classes/TercerViewController.xib302563791#302563792#0(0"0(0#0#131"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.xib8604329888#777"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/TercerViewController.nib /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/Classes/TercerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk0#
+
+CCompileXIB /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/MainWindow.xib
+s302563791.355750
+e302563791.979062
+r1
+xCompileXIB
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302563791#302563791#0(0"0(0#0#113"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/MainWindow.xib8604412352#749"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/MainWindow.nib /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk0#
+
+CCompileXIB /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/SecondView.xib
+s302563791.356578
+e302563791.939102
+r1
+xCompileXIB
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib302563791#302563791#0(0"0(0#0#113"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/SecondView.xib8606452256#749"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/SecondView.nib /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/TabBar.app/icono.png icono.png
+r0
+
+CGenerateDSYMFile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app.dSYM /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar
+r0
+
+CLd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar normal i386
+s302563793.220415
+e302563793.608654
+r0
+xLd
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar
+xnormal
+xi386
+oUndefined symbols:
+o  "_OBJC_CLASS_$_NSAutoreleasePool", referenced from:
+o      objc-class-ref-to-NSAutoreleasePool in main.o
+o  "_objc_msgSendSuper2", referenced from:
+o      -[TabBarAppDelegate dealloc] in TabBarAppDelegate.o
+o      -[FirstViewController didReceiveMemoryWarning] in FirstViewController.o
+o      -[FirstViewController dealloc] in FirstViewController.o
+o      -[TercerViewController didReceiveMemoryWarning] in TercerViewController.o
+o      -[TercerViewController dealloc] in TercerViewController.o
+o  "__objc_empty_vtable", referenced from:
+o      _OBJC_METACLASS_$_TabBarAppDelegate in TabBarAppDelegate.o
+o      _OBJC_CLASS_$_TabBarAppDelegate in TabBarAppDelegate.o
+o      _OBJC_METACLASS_$_FirstViewController in FirstViewController.o
+o      _OBJC_CLASS_$_FirstViewController in FirstViewController.o
+o      _OBJC_METACLASS_$_TercerViewController in TercerViewController.o
+o      _OBJC_CLASS_$_TercerViewController in TercerViewController.o
+o  "_OBJC_CLASS_$_UIViewController", referenced from:
+o      _OBJC_CLASS_$_FirstViewController in FirstViewController.o
+o      _OBJC_CLASS_$_TercerViewController in TercerViewController.o
+o  "_OBJC_CLASS_$_NSObject", referenced from:
+o      _OBJC_CLASS_$_TabBarAppDelegate in TabBarAppDelegate.o
+o  "_OBJC_METACLASS_$_UIViewController", referenced from:
+o      _OBJC_METACLASS_$_FirstViewController in FirstViewController.o
+o      _OBJC_METACLASS_$_TercerViewController in TercerViewController.o
+o  "_OBJC_METACLASS_$_NSObject", referenced from:
+o      _OBJC_METACLASS_$_TabBarAppDelegate in TabBarAppDelegate.o
+o      _OBJC_METACLASS_$_TabBarAppDelegate in TabBarAppDelegate.o
+o      _OBJC_METACLASS_$_FirstViewController in FirstViewController.o
+o      _OBJC_METACLASS_$_TercerViewController in TercerViewController.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@149"Link /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar302563793#302563793#0(1816"Undefined symbols:  "_OBJC_CLASS_$_NSAutoreleasePool", referenced from:      objc-class-ref-to-NSAutoreleasePool in main.o  "_objc_msgSendSuper2", referenced from:      -[TabBarAppDelegate dealloc] in TabBarAppDelegate.o      -[FirstViewController didReceiveMemoryWarning] in FirstViewController.o      -[FirstViewController dealloc] in FirstViewController.o      -[TercerViewController didReceiveMemoryWarning] in TercerViewController.o      -[TercerViewController dealloc] in TercerViewController.o  "__objc_empty_vtable", referenced from:      _OBJC_METACLASS_$_TabBarAppDelegate in TabBarAppDelegate.o      _OBJC_CLASS_$_TabBarAppDelegate in TabBarAppDelegate.o      _OBJC_METACLASS_$_FirstViewController in FirstViewController.o      _OBJC_CLASS_$_FirstViewController in FirstViewController.o      _OBJC_METACLASS_$_TercerViewController in TercerViewController.o      _OBJC_CLASS_$_TercerViewController in TercerViewController.o  "_OBJC_CLASS_$_UIViewController", referenced from:      _OBJC_CLASS_$_FirstViewController in FirstViewController.o      _OBJC_CLASS_$_TercerViewController in TercerViewController.o  "_OBJC_CLASS_$_NSObject", referenced from:      _OBJC_CLASS_$_TabBarAppDelegate in TabBarAppDelegate.o  "_OBJC_METACLASS_$_UIViewController", referenced from:      _OBJC_METACLASS_$_FirstViewController in FirstViewController.o      _OBJC_METACLASS_$_TercerViewController in TercerViewController.o  "_OBJC_METACLASS_$_NSObject", referenced from:      _OBJC_METACLASS_$_TabBarAppDelegate in TabBarAppDelegate.o      _OBJC_METACLASS_$_TabBarAppDelegate in TabBarAppDelegate.o      _OBJC_METACLASS_$_FirstViewController in FirstViewController.o      _OBJC_METACLASS_$_TercerViewController in TercerViewController.old: symbol(s) not foundcollect2: ld returned 1 exit status30(4@51""_OBJC_CLASS_$_NSAutoreleasePool", referenced from:302563793#19#54#0(6@0"302563793#0#0#0#0#0"0(13@45"Objc-class-ref-to-NSAutoreleasePool in main.o302563793#73#52#0(6@0"302563793#0#0#0#0#0"0(4@39""_objc_msgSendSuper2", referenced from:302563793#125#42#0(6@0"302563793#0#0#0#0#0"0(13@51"-[TabBarAppDelegate dealloc] in TabBarAppDelegate.o302563793#167#58#0(6@0"302563793#0#0#0#0#0"0(13@71"-[FirstViewController didReceiveMemoryWarning] in FirstViewController.o302563793#225#78#0(6@0"302563793#0#0#0#0#0"0(13@55"-[FirstViewController dealloc] in FirstViewController.o302563793#303#62#0(6@0"302563793#0#0#0#0#0"0(13@73"-[TercerViewController didReceiveMemoryWarning] in TercerViewController.o302563793#365#80#0(6@0"302563793#0#0#0#0#0"0(13@57"-[TercerViewController dealloc] in TercerViewController.o302563793#445#64#0(6@0"302563793#0#0#0#0#0"0(4@39""__objc_empty_vtable", referenced from:302563793#509#42#0(6@0"302563793#0#0#0#0#0"0(13@58"_OBJC_METACLASS_$_TabBarAppDelegate in TabBarAppDelegate.o302563793#551#65#0(6@0"302563793#0#0#0#0#0"0(13@54"_OBJC_CLASS_$_TabBarAppDelegate in TabBarAppDelegate.o302563793#616#61#0(6@0"302563793#0#0#0#0#0"0(13@62"_OBJC_METACLASS_$_FirstViewController in FirstViewController.o302563793#677#69#0(6@0"302563793#0#0#0#0#0"0(13@58"_OBJC_CLASS_$_FirstViewController in FirstViewController.o302563793#746#65#0(6@0"302563793#0#0#0#0#0"0(13@64"_OBJC_METACLASS_$_TercerViewController in TercerViewController.o302563793#811#71#0(6@0"302563793#0#0#0#0#0"0(13@60"_OBJC_CLASS_$_TercerViewController in TercerViewController.o302563793#882#67#0(6@0"302563793#0#0#0#0#0"0(4@50""_OBJC_CLASS_$_UIViewController", referenced from:302563793#949#53#0(6@0"302563793#0#0#0#0#0"0(13@58"_OBJC_CLASS_$_FirstViewController in FirstViewController.o302563793#1002#65#0(6@0"302563793#0#0#0#0#0"0(13@60"_OBJC_CLASS_$_TercerViewController in TercerViewController.o302563793#1067#67#0(6@0"302563793#0#0#0#0#0"0(4@42""_OBJC_CLASS_$_NSObject", referenced from:302563793#1134#45#0(6@0"302563793#0#0#0#0#0"0(13@54"_OBJC_CLASS_$_TabBarAppDelegate in TabBarAppDelegate.o302563793#1179#61#0(6@0"302563793#0#0#0#0#0"0(4@54""_OBJC_METACLASS_$_UIViewController", referenced from:302563793#1240#57#0(6@0"302563793#0#0#0#0#0"0(13@62"_OBJC_METACLASS_$_FirstViewController in FirstViewController.o302563793#1297#69#0(6@0"302563793#0#0#0#0#0"0(13@64"_OBJC_METACLASS_$_TercerViewController in TercerViewController.o302563793#1366#71#0(6@0"302563793#0#0#0#0#0"0(4@46""_OBJC_METACLASS_$_NSObject", referenced from:302563793#1437#49#0(6@0"302563793#0#0#0#0#0"0(13@58"_OBJC_METACLASS_$_TabBarAppDelegate in TabBarAppDelegate.o302563793#1486#65#0(6@0"302563793#0#0#0#0#0"0(13@58"_OBJC_METACLASS_$_TabBarAppDelegate in TabBarAppDelegate.o302563793#1551#65#0(6@0"302563793#0#0#0#0#0"0(13@62"_OBJC_METACLASS_$_FirstViewController in FirstViewController.o302563793#1616#69#0(6@0"302563793#0#0#0#0#0"0(13@64"_OBJC_METACLASS_$_TercerViewController in TercerViewController.o302563793#1685#71#0(6@0"302563793#0#0#0#0#0"0(13@19"Symbol(s) not found302563793#1756#24#0(6@0"302563793#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status302563793#1780#36#0(6@0"302563793#0#0#0#0#0"0(0#0#0"8605777504#1195"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator -filelist /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/Objects-normal/i386/TabBar.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/TabBar1#
+
+CProcessInfoPlistFile /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/Info.plist TabBar-Info.plist
+s302563791.349563
+e302563791.355663
+r1
+xProcessInfoPlistFile
+x/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/Info.plist
+xTabBar-Info.plist
+lSLF07#2@25"Process TabBar-Info.plist302563791#302563791#0(0"0(0#0#116"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/TabBar-Info.plist29555366482477168#656"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabBar-Info.plist -genpkginfo /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app/Info.plist0#
+
+CProcessPCH /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-fycwhkopzjjsnggivribakibrctu/TabBar_Prefix.pch.gch TabBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302563792.346676
+e302563793.038271
+r1
+xProcessPCH
+x/var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-fycwhkopzjjsnggivribakibrctu/TabBar_Prefix.pch.gch
+xTabBar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile TabBar_Prefix.pch302563792#302563793#0(0"0(0#0#116"/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/TabBar_Prefix.pch8603874848#2374"    cd /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-generated-files.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-own-target-headers.hmap -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-all-target-headers.hmap -iquote /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/TabBar-project-headers.hmap -F/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/include -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources/i386 -I/Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/TabBar.build/Debug-iphonesimulator/TabBar.build/DerivedSources -c /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/TabBar_Prefix.pch -o /var/folders/L+/L+Q8S7nPFRyapGeXCpbDhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar_Prefix-fycwhkopzjjsnggivribakibrctu/TabBar_Prefix.pch.gch0#
+
+CTouch /Users/renecruz/Downloads/Curso_iPhone/Nivel_1_Basico/09.Aplicaciones_Multi-View/Ejercicios/TabBar/build/Debug-iphonesimulator/TabBar.app
+r0
+
